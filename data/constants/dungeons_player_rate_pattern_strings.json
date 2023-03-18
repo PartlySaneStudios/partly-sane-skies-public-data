@@ -1,0 +1,14 @@
+{
+    "positive_strings" : [
+        "{player} has obtained Wither Key!",
+        "DUNGEON BUFF! {player} found a ",
+        "PUZZLE SOLVED! {player}",
+        "{player} has obtained",
+        "{player} found a Wither Essence!"
+    ],
+
+    "negative_strings" : [
+        "☠️ {player} died",
+        "☠️ {player} disconnected from the Dungeon"
+    ]
+}

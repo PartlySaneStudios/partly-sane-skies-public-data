@@ -1,6 +1,12 @@
 {
     "skymart" : {
         "GARDEN_SCYTHE": 20,
-        "BUILDERS_RULER": 20
+        "BUILDERS_RULER": 20,
+        "LOTUS_BRACELET": 50,
+        "LOTUS_BELT": 100,
+        "LOTUS_NECKLACE": 200,
+        "LOTUS_CLOAK": 500,
+        "BASIC_GARDENING_HOE": 5,
+        "ADVANCED_GARDENING_HOE": 25
     }
 }
