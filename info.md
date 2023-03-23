@@ -2,7 +2,7 @@
 
 Shows how every file should be formatted
 
-## /data/main_menu.json
+## [/data/main_menu.json](/data/main_menu.json)
 
 A json object that has an ``announcements`` array in the following format:
 
@@ -29,7 +29,7 @@ This object also has a ``mod_info`` object in the following format:
 },
 ```
 
-## /data/constants/bits_shop.json
+## [/data/constants/bits_shop.json](/data/constants/bits_shop.json)
 
 A json object that contains a ``bits_shop`` object, that has the id of each of the items that is sold in the community centre bit cost, with the associated cost in bits.
 
@@ -41,7 +41,7 @@ Example:
 }
 ```
 
-## /data/constants/dungeons_player_rate_pattern.json
+## [/data/constants/dungeons_player_rate_pattern.json](/data/constants/dungeons_player_rate_pattern.json)
 
 A json object containing both an object named ``positive_strings`` and an object named ``negative_strings``. Both of these objects contain strings in the pattern with the key being ``{player}``. These strings also contain a category, that is formatted with Title Case and with plurarilty. 
 
@@ -57,7 +57,7 @@ Example:
 }
 ```
 
-## /data/constants/mathematical_hoes.json
+## [/data/constants/mathematical_hoes.json](/data/constants/mathematical_hoes.json)
 
 An object containing an array named ``hoes`` that dictates all mathematical hoes that have are used to farm and have a function when right clicked.
 
@@ -69,7 +69,7 @@ Example:
 ]
 ```
 
-## /data/constants/skymart_copper.json
+## [/data/constants/skymart_copper.json](/data/constants/skymart_copper.json)
 
 An object containing an object named ``skymart`` containing the the id of items in the skymart that can be bought with copper, and their cost in copper
 
