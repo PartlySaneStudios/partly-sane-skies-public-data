@@ -41,7 +41,7 @@ Example:
 }
 ```
 
-## [/data/constants/dungeons_player_rate_pattern.json](/data/constants/dungeons_player_rate_pattern.json)
+## [/data/constants/dungeons_player_rate_pattern_strings.json](/data/constants/dungeons_player_rate_pattern_strings.json)
 
 A json object containing both an object named ``positive_strings`` and an object named ``negative_strings``. Both of these objects contain strings in the pattern with the key being ``{player}``. These strings also contain a category, that is formatted with Title Case and with plurarilty. 
 
