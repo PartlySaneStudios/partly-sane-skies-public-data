@@ -33,7 +33,7 @@ This object also has a ``mod_info`` object in the following format:
 
 A json object that contains a ``bits_shop`` object, that has the id of each of the items that is sold in the community centre bit cost, with the associated cost in bits.
 
-Example: 
+Example:
 
 ```
 "bits_shop": {
@@ -43,7 +43,7 @@ Example:
 
 ## [/data/constants/dungeons_player_rate_pattern_strings.json](/data/constants/dungeons_player_rate_pattern_strings.json)
 
-A json object containing both an object named ``positive_strings`` and an object named ``negative_strings``. Both of these objects contain strings in the pattern with the key being ``{player}``. These strings also contain a category, that is formatted with Title Case and with plurarilty. 
+A json object containing both an object named ``positive_strings`` and an object named ``negative_strings``. Both of these objects contain strings in the pattern with the key being ``{player}``. These strings also contain a category, that is formatted with Title Case and with plurarilty.
 
 Example:
 
@@ -61,7 +61,7 @@ Example:
 
 An object containing an array named ``hoes`` that dictates all mathematical hoes that have are used to farm and have a function when right clicked.
 
-Example: 
+Example:
 
 ```
 "hoes": [
@@ -73,7 +73,7 @@ Example:
 
 An object containing an object named ``skymart`` containing the the id of items in the skymart that can be bought with copper, and their cost in copper
 
-Example: 
+Example:
 
 ```
 "skymart" : {
