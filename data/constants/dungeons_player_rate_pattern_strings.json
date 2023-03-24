@@ -2,7 +2,7 @@
     "positive_strings" : {
         "{player} has obtained Wither Key!" : "Keys",
         "DUNGEON BUFF! {player} found a " : "Blessings",
-        "PUZZLE SOLVED! {player}" : "Puzzles",
+        "PUZZLE SOLVED! {player} " : "Puzzles",
         "{player} has obtained" : "Rooms",
         "{player} found a Wither Essence!" : "Secrets"
     },
