@@ -4,7 +4,11 @@
         "DUNGEON BUFF! {player} found a " : "&cBlessings",
         "PUZZLE SOLVED! {player} " : "&aPuzzles",
         "{player} has obtained" : "&6Rooms",
-        "{player} found a Wither Essence!" : "&9Secrets"
+        "{player} found a Wither Essence!" : "&9Secrets",
+        "{player} completed a device!" : "&cTerminals",
+        "{player} activated a terminal!" : "&cTerminals",
+        "{player} activated a lever!" : "&cTerminals",
+        "{player} picked up an Energy Crystal!" : "&bCrystals"
     },
 
     "negative_strings" : {
