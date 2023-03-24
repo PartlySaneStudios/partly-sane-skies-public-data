@@ -1,15 +1,15 @@
 {
     "positive_strings" : {
-        "{player} has obtained Wither Key!" : "Keys",
-        "DUNGEON BUFF! {player} found a " : "Blessings",
-        "PUZZLE SOLVED! {player} " : "Puzzles",
-        "{player} has obtained" : "Rooms",
-        "{player} found a Wither Essence!" : "Secrets"
+        "{player} has obtained Wither Key!" : "&8Keys",
+        "DUNGEON BUFF! {player} found a " : "&cBlessings",
+        "PUZZLE SOLVED! {player} " : "&aPuzzles",
+        "{player} has obtained" : "&6Rooms",
+        "{player} found a Wither Essence!" : "&9Secrets"
     },
 
     "negative_strings" : {
-        "☠️ {player} died" : "Deaths",
-        "☠️ {player} disconnected from the Dungeon" : "Deaths"
+        "☠️ {player} died" : "&4Deaths",
+        "☠️ {player} disconnected from the Dungeon" : "&4Deaths"
     }
 
 }
