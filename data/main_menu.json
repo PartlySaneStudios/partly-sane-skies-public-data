@@ -1,8 +1,8 @@
 {
     "mod_info" : {
-        "latest_version" : "beta-v0.1.2",
+        "latest_version" : "beta-v0.2",
         "latest_version_description" : "",
-        "latest_version_release_date" : "03 March 2023"
+        "latest_version_release_date" : "25 March 2023"
     },
 
     "announcements" : [
@@ -13,10 +13,16 @@
             "link" : "https://hypixel.net/threads/skyblock-patch-0-18-the-garden.5273460/"
         },
         {
-            "name" : "SkyBlock Patch 0.18.1 - Achievements & Bug Fixes",
-            "description" : "Today we rolled a small patch to SkyBlock, including new Achievements and several bugfixes and small changes.",
-            "date" : "08 March 2023",
-            "link" : "https://hypixel.net/threads/skyblock-patch-0-18-1-achievements-bug-fixes.5298274/"
+            "name" : "SkyBlock Patch March 24 - Various Grammatical Fixes",
+            "description" : "We are here to inform you about the latest update that was just rolled to SkyBlock! This update focuses on correcting some grammar mistakes in different areas in the game",
+            "date" : "24 March 2023",
+            "link" : "https://hypixel.net/threads/march-24-various-grammatical-fixes.5314082/"
+        },
+        {
+            "name" : "Partly Sane Skies Update Beta v0.2",
+            "description" : "We just released a new update to Partly Sane Skies! It fixes a ton of bugs people have been having, and adds lots of requested features. Click here to see more! Also, be sure to join the discord as we have lots of announcements coming.",
+            "date" : "25 March 2023",
+            "link" : "https://github.com/PartlySaneStudios/partly-sane-skies/releases/tag/beta-v0.2"
         }
     ]
 }
