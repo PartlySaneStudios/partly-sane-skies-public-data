@@ -2,7 +2,10 @@
     "mod_info" : {
         "latest_version" : "beta-v0.2",
         "latest_version_description" : "",
-        "latest_version_release_date" : "25 March 2023"
+        "latest_version_release_date" : "25 March 2023",
+        "discord_invite_full" : "https://discord.gg/v4PU3WeH7z",
+        "discord_invite_short_link" : "discord.gg/v4PU3WeH7z",
+        "discord_invite_code" : "v4PU3WeH7z"
     },
 
     "announcements" : [
