@@ -81,7 +81,7 @@ Example:
 }
 ```
 
-## [/data/constants/minion_data.json](/data/constants/skymart_copper.json)
+## [/data/constants/minion_data.json](/data/constants/minion_data.json)
 
 An object containing an object with each minion's id and information about the minion.
 
