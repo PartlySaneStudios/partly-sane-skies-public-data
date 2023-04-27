@@ -1,10 +1,345 @@
 {
+    "REVENANT_GENERATOR" : {
+        "displayName" : "Revenant Minion",
+        "category" : "COMBAT",
+        "drops" : {
+            "ROTTEN_FLESH" : 3,
+            "DIAMOND" : 0.20
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false,
+            "compactor" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 29,
+            "2" : 29,
+            "3" : 26,
+            "4" : 26,
+            "5" : 23,
+            "6" : 23,
+            "7" : 19,
+            "8" : 19,
+            "9" : 14.5,
+            "10" : 10,
+            "11" : 10,
+            "12" : 8
+        }
+    },
+
+    "TARANTULA_GENERATOR" : {
+        "displayName" : "Tarantula Minion",
+        "category" : "COMBAT",
+        "drops" : {
+            "STRING" : 3.16,
+            "SPIDER_EYE" : 1,
+            "IRON_INGOT" : 1
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false,
+            "compactor" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 29,
+            "2" : 29,
+            "3" : 26,
+            "4" : 26,
+            "5" : 23,
+            "6" : 23,
+            "7" : 19,
+            "8" : 19,
+            "9" : 14.5,
+            "10" : 10,
+            "11" : 10,
+            "12" : 8
+        }
+    },
+
+    "VOIDLING_GENERATOR" : {
+        "displayName" : "Voidling Minion",
+        "category" : "COMBAT",
+        "drops" : {
+            "QUARTZ" : 0.4,
+            "OBSIDIAN" : 2.24
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false,
+            "compactor" : false
+        },
+        "maxTier" : 11,
+        "cooldown" : {
+            "1" : 45,
+            "2" : 45,
+            "3" : 42,
+            "4" : 42,
+            "5" : 39,
+            "6" : 39,
+            "7" : 35,
+            "8" : 35,
+            "9" : 30,
+            "10" : 30,
+            "11" : 24
+        }
+    },
+
+    "INFERNO_GENERATOR" : {
+        "displayName" : "Inferno Minion",
+        "category" : "COMBAT",
+        "drops" : {
+            "CRUDE_GABAGOOL" : 1
+        },
+        "upgrades" : {
+            "superCompactor" : false,
+            "autoSmelter" : false,
+            "compactor" : false
+        },
+        "maxTier" : 11,
+        "cooldown" : {
+            "1" : 1102,
+            "2" : 1068,
+            "3" : 1033,
+            "4" : 999,
+            "5" : 964,
+            "6" : 930,
+            "7" : 895,
+            "8" : 861,
+            "9" : 827,
+            "10" : 792,
+            "11" : 792
+        }
+    },
+
+    "ZOMBIE_GENERATOR" : {
+        "displayName" : "Zombie Minion",
+        "category" : "COMBAT",
+        "drops" : {
+            "ROTTEN_FLESH" : 1,
+            "POISONOUS_POTATO" : 0.025
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false,
+            "compactor" : false
+        },
+        "maxTier" : 11,
+        "cooldown" : {
+            "1" : 26,
+            "2" : 26,
+            "3" : 24,
+            "4" : 24,
+            "5" : 22,
+            "6" : 22,
+            "7" : 20,
+            "8" : 20,
+            "9" : 17,
+            "10" : 17,
+            "11" : 13
+        }
+    },
+
+    "SPIDER_GENERATOR" : {
+        "displayName" : "Spider Minion",
+        "category" : "COMBAT",
+        "drops" : {
+            "STRING" : 1,
+            "SPIDER_EYE" : 0.5
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false,
+            "compactor" : false
+        },
+        "maxTier" : 11,
+        "cooldown" : {
+            "1" : 26,
+            "2" : 26,
+            "3" : 24,
+            "4" : 24,
+            "5" : 22,
+            "6" : 22,
+            "7" : 20,
+            "8" : 20,
+            "9" : 17,
+            "10" : 17,
+            "11" : 13
+        }
+    },
+
+    "SKELETON_GENERATOR" : {
+        "displayName" : "Skeleton Minion",
+        "category" : "COMBAT",
+        "drops" : {
+            "BONE" : 1
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false,
+            "compactor" : false
+        },
+        "maxTier" : 11,
+        "cooldown" : {
+            "1" : 26,
+            "2" : 26,
+            "3" : 24,
+            "4" : 24,
+            "5" : 22,
+            "6" : 22,
+            "7" : 20,
+            "8" : 20,
+            "9" : 17,
+            "10" : 17,
+            "11" : 13
+        }
+    },
+
+    "CAVESPIDER_GENERATOR" : {
+        "displayName" : "Cave Spider Minion",
+        "category" : "COMBAT",
+        "drops" : {
+            "STRING" : 0.5,
+            "SPIDER_EYE" : 1
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false,
+            "compactor" : false
+        },
+        "maxTier" : 11,
+        "cooldown" : {
+            "1" : 26,
+            "2" : 26,
+            "3" : 24,
+            "4" : 24,
+            "5" : 22,
+            "6" : 22,
+            "7" : 20,
+            "8" : 20,
+            "9" : 17,
+            "10" : 17,
+            "11" : 13
+        }
+    },
+
+    "SLIME_GENERATOR" : {
+        "displayName" : "Slime Minion",
+        "category" : "COMBAT",
+        "drops" : {
+            "SLIME_BALL" : 1.8
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false,
+            "compactor" : true
+        },
+        "maxTier" : 11,
+        "cooldown" : {
+            "1" : 26,
+            "2" : 26,
+            "3" : 24,
+            "4" : 24,
+            "5" : 22,
+            "6" : 22,
+            "7" : 19,
+            "8" : 19,
+            "9" : 16,
+            "10" : 16,
+            "11" : 12
+        }
+    },
+
+    "BLAZE_GENERATOR" : {
+        "displayName" : "Blaze Minion",
+        "category" : "COMBAT",
+        "drops" : {
+            "BLAZE_ROD" : 1
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false,
+            "compactor" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 33,
+            "2" : 33,
+            "3" : 31,
+            "4" : 31,
+            "5" : 28.5,
+            "6" : 28.5,
+            "7" : 25,
+            "8" : 25,
+            "9" : 21,
+            "10" : 21,
+            "11" : 16.5,
+            "12" : 15
+        }
+    },
+
+    "CREEPER_GENERATOR" : {
+        "displayName" : "Creeper Minion",
+        "category" : "COMBAT",
+        "drops" : {
+            "GUNPOWDER" : 1
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false,
+            "compactor" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 27,
+            "2" : 27,
+            "3" : 25,
+            "4" : 25,
+            "5" : 23,
+            "6" : 23,
+            "7" : 21,
+            "8" : 21,
+            "9" : 18,
+            "10" : 18,
+            "11" : 14
+        }
+    },
+
+    "ENDERMAN_GENERATOR" : {
+        "displayName" : "Enderman Minion",
+        "category" : "COMBAT",
+        "drops" : {
+            "ENDER_PEARL" : 1
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false,
+            "compactor" : false
+        },
+        "maxTier" : 11,
+        "cooldown" : {
+            "1" : 32,
+            "2" : 32,
+            "3" : 30,
+            "4" : 30,
+            "5" : 28,
+            "6" : 28,
+            "7" : 25,
+            "8" : 25,
+            "9" : 22,
+            "10" : 22,
+            "11" : 18
+        }
+    },
+
     "COW_GENERATOR" : {
         "displayName" : "Cow Minion",
-        "drops" : [
-            "RAW_BEEF",
-            "LEATHER"
-        ],
+        "category" : "FARMING",
+        "drops" : {
+            "RAW_BEEF" : 1,
+            "LEATHER" : 1
+        },
         "upgrades" : {
             "superCompactor" : true,
             "autoSmelter" : false,
