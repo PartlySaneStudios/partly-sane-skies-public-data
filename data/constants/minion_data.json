@@ -333,6 +333,62 @@
         }
     },
 
+    "GHAST_GENERATOR" : {
+        "displayName" : "Ghast Minion",
+        "category" : "COMBAT",
+        "drops" : {
+            "GHAST_TEAR" : 1
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false,
+            "compactor" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 50,
+            "2" : 50,
+            "3" : 47,
+            "4" : 57,
+            "5" : 44,
+            "6" : 44,
+            "7" : 41,
+            "8" : 41,
+            "9" : 38,
+            "10" : 38,
+            "11" : 32,
+            "12" : 30
+        }
+    },
+
+    "MAGMA_CUBE_GENERATOR" : {
+        "displayName" : "Magma Cube Minion",
+        "category" : "COMBAT",
+        "drops" : {
+            "MAGMA_CREME" : 1.8
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false,
+            "compactor" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 32,
+            "2" : 32,
+            "3" : 30,
+            "4" : 30,
+            "5" : 28,
+            "6" : 28,
+            "7" : 25,
+            "8" : 25,
+            "9" : 22,
+            "10" : 22,
+            "11" : 18,
+            "12" : 16
+        }
+    },
+
     "COW_GENERATOR" : {
         "displayName" : "Cow Minion",
         "category" : "FARMING",
