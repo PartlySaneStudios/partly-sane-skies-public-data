@@ -80,3 +80,27 @@ Example:
     "GARDEN_SCYTHE": 20,
 }
 ```
+
+## [/data/constants/minion_data.json](/data/constants/skymart_copper.json)
+
+An object containing an object with each minion's id and information about the minion.
+
+Example:
+
+```
+"COW_GENERATOR" : {
+    "displayName" : "Example Cow Minion",
+    "drops" : [
+        "RAW_BEEF",
+    ],
+    "upgrades" : {
+        "superCompactor" : false,
+        "autoSmelter" : false,
+        "compactor" : false
+    },
+    "maxTier" : 1,
+    "cooldown" : {
+        "1" : 26,
+    }
+}
+```

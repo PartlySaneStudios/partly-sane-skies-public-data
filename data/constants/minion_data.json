@@ -1,0 +1,29 @@
+{
+    "COW_GENERATOR" : {
+        "displayName" : "Cow Minion",
+        "drops" : [
+            "RAW_BEEF",
+            "LEATHER"
+        ],
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false,
+            "compactor" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 26,
+            "2" : 26,
+            "3" : 24,
+            "4" : 24,
+            "5" : 22,
+            "6" : 22,
+            "7" : 20,
+            "8" : 20,
+            "9" : 17,
+            "10" : 17,
+            "11" : 13,
+            "12" : 10
+        }
+    }
+}
