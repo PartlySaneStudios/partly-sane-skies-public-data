@@ -389,6 +389,118 @@
         }
     },
 
+    "CACTUS_GENERATOR" : {
+        "displayName" : "Cactus Minion",
+        "category" : "FARMING",
+        "drops" : {
+            "CACTUS" : 3
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : true,
+            "compactor" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 27,
+            "2" : 27,
+            "3" : 25,
+            "4" : 25,
+            "5" : 23,
+            "6" : 23,
+            "7" : 21,
+            "8" : 21,
+            "9" : 18,
+            "10" : 18,
+            "11" : 15,
+            "12" : 12
+        }
+    },
+
+    "COCOA_GENERATOR" : {
+        "displayName" : "Cocoa Bean Minion",
+        "category" : "FARMING",
+        "drops" : {
+            "INK_SACK:3" : 3
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false,
+            "compactor" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 27,
+            "2" : 27,
+            "3" : 25,
+            "4" : 25,
+            "5" : 23,
+            "6" : 23,
+            "7" : 21,
+            "8" : 21,
+            "9" : 18,
+            "10" : 18,
+            "11" : 15,
+            "12" : 12
+        }
+    },
+
+    "CARROT_GENERATOR" : {
+        "displayName" : "Carrot Minion",
+        "category" : "FARMING",
+        "drops" : {
+            "CARROT" : 3
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false,
+            "compactor" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 20,
+            "2" : 20,
+            "3" : 18,
+            "4" : 18,
+            "5" : 16,
+            "6" : 16,
+            "7" : 14,
+            "8" : 14,
+            "9" : 12,
+            "10" : 12,
+            "11" : 10,
+            "12" : 8
+        }
+    },
+
+    "POTATO_GENERATOR" : {
+        "displayName" : "Potato Minion",
+        "category" : "FARMING",
+        "drops" : {
+            "POTATO" : 3
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false,
+            "compactor" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 20,
+            "2" : 20,
+            "3" : 18,
+            "4" : 18,
+            "5" : 16,
+            "6" : 16,
+            "7" : 14,
+            "8" : 14,
+            "9" : 12,
+            "10" : 12,
+            "11" : 10,
+            "12" : 8
+        }
+    },
+
     "COW_GENERATOR" : {
         "displayName" : "Cow Minion",
         "category" : "FARMING",
@@ -416,5 +528,262 @@
             "11" : 13,
             "12" : 10
         }
-    }
+    },
+
+    "PIG_GENERATOR" : {
+        "displayName" : "Pig Minion",
+        "category" : "FARMING",
+        "drops" : {
+            "PORK" : 1
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false,
+            "compactor" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 26,
+            "2" : 26,
+            "3" : 24,
+            "4" : 24,
+            "5" : 22,
+            "6" : 22,
+            "7" : 20,
+            "8" : 20,
+            "9" : 17,
+            "10" : 17,
+            "11" : 13,
+            "12" : 10
+        }
+    },
+
+    "RABBIT_GENERATOR" : {
+        "displayName" : "Rabbit Minion",
+        "category" : "FARMING",
+        "drops" : {
+            "RABBIT" : 1,
+            "RABBIT_FOOT" : 0.35,
+            "RABBIT_HIDE" : 0.35
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false,
+            "compactor" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 26,
+            "2" : 26,
+            "3" : 24,
+            "4" : 24,
+            "5" : 22,
+            "6" : 22,
+            "7" : 20,
+            "8" : 20,
+            "9" : 17,
+            "10" : 17,
+            "11" : 13,
+            "12" : 10
+        }
+    },
+
+    "MELON_GENERATOR" : {
+        "displayName" : "Melon Minion",
+        "category" : "FARMING",
+        "drops" : {
+            "MELON" : 5
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false,
+            "compactor" : true
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 24,
+            "2" : 24,
+            "3" : 22.5,
+            "4" : 22.5,
+            "5" : 21,
+            "6" : 21,
+            "7" : 18.5,
+            "8" : 18.5,
+            "9" : 16,
+            "10" : 16,
+            "11" : 13,
+            "12" : 10
+        }
+    },
+
+    "MUSHROOM_GENERATOR" : {
+        "displayName" : "Mushroom Minion",
+        "category" : "FARMING",
+        "drops" : {
+            "RED_MUSHROOM" : 0.5,
+            "BROWN_MUSHROOM" : 0.5
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false,
+            "compactor" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 30,
+            "2" : 30,
+            "3" : 28,
+            "4" : 28,
+            "5" : 26,
+            "6" : 26,
+            "7" : 23.5,
+            "8" : 23.5,
+            "9" : 20,
+            "10" : 20,
+            "11" : 16,
+            "12" : 12
+        }
+    },
+
+    "PUMPKIN_GENERATOR" : {
+        "displayName" : "Pumpkin Minion",
+        "category" : "FARMING",
+        "drops" : {
+            "PUMPKIN" : 1
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false,
+            "compactor" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 32,
+            "2" : 32,
+            "3" : 30.5,
+            "4" : 30.5,
+            "5" : 27,
+            "6" : 27,
+            "7" : 24,
+            "8" : 24,
+            "9" : 20,
+            "10" : 20,
+            "11" : 16,
+            "12" : 12
+        }
+    },
+
+    "SHEEP_GENERATOR" : {
+        "displayName" : "Sheep Minion",
+        "category" : "FARMING",
+        "drops" : {
+            "MUTTON" : 1,
+            "WOOL" : 1
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false,
+            "compactor" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 24,
+            "2" : 24,
+            "3" : 22.5,
+            "4" : 22.5,
+            "5" : 20,
+            "6" : 20,
+            "7" : 18.5,
+            "8" : 18.5,
+            "9" : 16,
+            "10" : 16,
+            "11" : 12,
+            "12" : 9
+        }
+    },
+
+    "SUGAR_CANE_GENERATOR" : {
+        "displayName" : "Sugar Cane Minion",
+        "category" : "FARMING",
+        "drops" : {
+            "SUGAR_CANE" : 3
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false,
+            "compactor" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 22,
+            "2" : 22,
+            "3" : 20.5,
+            "4" : 20.5,
+            "5" : 18,
+            "6" : 18,
+            "7" : 16.5,
+            "8" : 16.5,
+            "9" : 14.5,
+            "10" : 14.5,
+            "11" : 12,
+            "12" : 9
+        }
+    },
+
+    "WHEAT_GENERATOR" : {
+        "displayName" : "Wheat Minion",
+        "category" : "FARMING",
+        "drops" : {
+            "WHEAT" : 1,
+            "SEEDS" : 1.5
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false,
+            "compactor" : true
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 15,
+            "2" : 15,
+            "3" : 13.5,
+            "4" : 13.5,
+            "5" : 11,
+            "6" : 11,
+            "7" : 10.5,
+            "8" : 10.5,
+            "9" : 9,
+            "10" : 9,
+            "11" : 8,
+            "12" : 7
+        }
+    },
+
+    "NETHER_WARTS_GENERATOR" : {
+        "displayName" : "Nether Warts Minion",
+        "category" : "FARMING",
+        "drops" : {
+            "NETHER_STALK" : 3
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false,
+            "compactor" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 50,
+            "2" : 50,
+            "3" : 47.5,
+            "4" : 47.5,
+            "5" : 44,
+            "6" : 44,
+            "7" : 41.5,
+            "8" : 41.5,
+            "9" : 38,
+            "10" : 38,
+            "11" : 32,
+            "12" : 27
+        }
+    },
 }
