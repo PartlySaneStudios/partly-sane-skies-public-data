@@ -8,8 +8,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false,
-            "compactor" : false
+            "autoSmelter" : false
         },
         "maxTier" : 12,
         "cooldown" : {
@@ -38,8 +37,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false,
-            "compactor" : false
+            "autoSmelter" : false
         },
         "maxTier" : 12,
         "cooldown" : {
@@ -67,8 +65,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false,
-            "compactor" : false
+            "autoSmelter" : false
         },
         "maxTier" : 11,
         "cooldown" : {
@@ -94,8 +91,7 @@
         },
         "upgrades" : {
             "superCompactor" : false,
-            "autoSmelter" : false,
-            "compactor" : false
+            "autoSmelter" : false
         },
         "maxTier" : 11,
         "cooldown" : {
@@ -122,8 +118,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false,
-            "compactor" : false
+            "autoSmelter" : false
         },
         "maxTier" : 11,
         "cooldown" : {
@@ -150,8 +145,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false,
-            "compactor" : false
+            "autoSmelter" : false
         },
         "maxTier" : 11,
         "cooldown" : {
@@ -177,8 +171,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false,
-            "compactor" : false
+            "autoSmelter" : false
         },
         "maxTier" : 11,
         "cooldown" : {
@@ -205,8 +198,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false,
-            "compactor" : false
+            "autoSmelter" : false
         },
         "maxTier" : 11,
         "cooldown" : {
@@ -232,8 +224,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false,
-            "compactor" : true
+            "autoSmelter" : false
         },
         "maxTier" : 11,
         "cooldown" : {
@@ -259,8 +250,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false,
-            "compactor" : false
+            "autoSmelter" : false
         },
         "maxTier" : 12,
         "cooldown" : {
@@ -287,8 +277,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false,
-            "compactor" : false
+            "autoSmelter" : false
         },
         "maxTier" : 12,
         "cooldown" : {
@@ -314,8 +303,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false,
-            "compactor" : false
+            "autoSmelter" : false
         },
         "maxTier" : 11,
         "cooldown" : {
@@ -341,8 +329,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false,
-            "compactor" : false
+            "autoSmelter" : false
         },
         "maxTier" : 12,
         "cooldown" : {
@@ -369,8 +356,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false,
-            "compactor" : false
+            "autoSmelter" : false
         },
         "maxTier" : 12,
         "cooldown" : {
@@ -397,8 +383,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : true,
-            "compactor" : false
+            "autoSmelter" : true
         },
         "maxTier" : 12,
         "cooldown" : {
@@ -425,8 +410,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false,
-            "compactor" : false
+            "autoSmelter" : false
         },
         "maxTier" : 12,
         "cooldown" : {
@@ -453,8 +437,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false,
-            "compactor" : false
+            "autoSmelter" : false
         },
         "maxTier" : 12,
         "cooldown" : {
@@ -481,8 +464,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false,
-            "compactor" : false
+            "autoSmelter" : false
         },
         "maxTier" : 12,
         "cooldown" : {
@@ -510,8 +492,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false,
-            "compactor" : false
+            "autoSmelter" : false
         },
         "maxTier" : 12,
         "cooldown" : {
@@ -538,8 +519,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false,
-            "compactor" : false
+            "autoSmelter" : false
         },
         "maxTier" : 12,
         "cooldown" : {
@@ -568,8 +548,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false,
-            "compactor" : false
+            "autoSmelter" : false
         },
         "maxTier" : 12,
         "cooldown" : {
@@ -596,8 +575,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false,
-            "compactor" : true
+            "autoSmelter" : false
         },
         "maxTier" : 12,
         "cooldown" : {
@@ -625,8 +603,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false,
-            "compactor" : false
+            "autoSmelter" : false
         },
         "maxTier" : 12,
         "cooldown" : {
@@ -653,8 +630,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false,
-            "compactor" : false
+            "autoSmelter" : false
         },
         "maxTier" : 12,
         "cooldown" : {
@@ -682,8 +658,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false,
-            "compactor" : false
+            "autoSmelter" : false
         },
         "maxTier" : 12,
         "cooldown" : {
@@ -710,8 +685,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false,
-            "compactor" : false
+            "autoSmelter" : false
         },
         "maxTier" : 12,
         "cooldown" : {
@@ -739,8 +713,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false,
-            "compactor" : true
+            "autoSmelter" : false
         },
         "maxTier" : 12,
         "cooldown" : {
@@ -767,8 +740,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false,
-            "compactor" : false
+            "autoSmelter" : false
         },
         "maxTier" : 12,
         "cooldown" : {
@@ -795,8 +767,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false,
-            "compactor" : true
+            "autoSmelter" : false
         },
         "maxTier" : 11,
         "cooldown" : {
@@ -828,8 +799,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false,
-            "compactor" : false
+            "autoSmelter" : false
         },
         "maxTier" : 11,
         "cooldown" : {
@@ -844,6 +814,516 @@
             "9" : 53,
             "10" : 53,
             "11" : 16
+        }
+    },
+
+    "COAL_GENERATOR" : {
+        "displayName" : "Coal Minion",
+        "category" : "MINING",
+        "drops" : {
+            "COAL" : 1
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 15,
+            "2" : 15,
+            "3" : 13,
+            "4" : 13,
+            "5" : 12,
+            "6" : 12,
+            "7" : 10,
+            "8" : 10,
+            "9" : 9,
+            "10" : 9,
+            "11" : 7,
+            "12" : 6
+        }
+    },
+
+    "COBBLESTONE_GENERATOR" : {
+        "displayName" : "Cobblestone Minion",
+        "category" : "MINING",
+        "drops" : {
+            "COBBLESTONE" : 1
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 15,
+            "2" : 15,
+            "3" : 13,
+            "4" : 13,
+            "5" : 12,
+            "6" : 12,
+            "7" : 10,
+            "8" : 10,
+            "9" : 9,
+            "10" : 9,
+            "11" : 7,
+            "12" : 6
+        }
+    },
+
+    "ICE_GENERATOR" : {
+        "displayName" : "Ice Minion",
+        "category" : "MINING",
+        "drops" : {
+            "ICE" : 1
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 15,
+            "2" : 15,
+            "3" : 13,
+            "4" : 13,
+            "5" : 12,
+            "6" : 12,
+            "7" : 10,
+            "8" : 10,
+            "9" : 9,
+            "10" : 9,
+            "11" : 7,
+            "12" : 6
+        }
+    },
+
+    "HARD_STONE_GENERATOR" : {
+        "displayName" : "Hard Stone Minion",
+        "category" : "MINING",
+        "drops" : {
+            "HARD_STONE" : 1
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 15,
+            "2" : 15,
+            "3" : 13,
+            "4" : 13,
+            "5" : 12,
+            "6" : 12,
+            "7" : 10,
+            "8" : 10,
+            "9" : 9,
+            "10" : 9,
+            "11" : 7,
+            "12" : 6
+        }
+    },
+
+    "DIAMOND_GENERATOR" : {
+        "displayName" : "Diamond Minion",
+        "category" : "MINING",
+        "drops" : {
+            "DIAMOND" : 1
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 29,
+            "2" : 29,
+            "3" : 27,
+            "4" : 27,
+            "5" : 25,
+            "6" : 25,
+            "7" : 22,
+            "8" : 22,
+            "9" : 19,
+            "10" : 19,
+            "11" : 15,
+            "12" : 12
+        }
+    },
+
+    "EMERALD_GENERATOR" : {
+        "displayName" : "Emerald Minion",
+        "category" : "MINING",
+        "drops" : {
+            "EMERALD" : 1
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 15,
+            "2" : 15,
+            "3" : 13,
+            "4" : 13,
+            "5" : 12,
+            "6" : 12,
+            "7" : 10,
+            "8" : 10,
+            "9" : 9,
+            "10" : 9,
+            "11" : 7,
+            "12" : 6
+        }
+    },
+
+    "ENDER_STONE_GENERATOR" : {
+        "displayName" : "End Stone Minion",
+        "category" : "MINING",
+        "drops" : {
+            "ENDER_STONE" : 1
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false
+        },
+        "maxTier" : 11,
+        "cooldown" : {
+            "1" : 26,
+            "2" : 26,
+            "3" : 24,
+            "4" : 24,
+            "5" : 22,
+            "6" : 22,
+            "7" : 19,
+            "8" : 19,
+            "9" : 16,
+            "10" : 16,
+            "11" : 13
+        }
+    },
+
+    "SAND_GENERATOR" : {
+        "displayName" : "Sand Minion",
+        "category" : "MINING",
+        "drops" : {
+            "SAND" : 1
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false
+        },
+        "maxTier" : 11,
+        "cooldown" : {
+            "1" : 26,
+            "2" : 26,
+            "3" : 24,
+            "4" : 24,
+            "5" : 22,
+            "6" : 22,
+            "7" : 19,
+            "8" : 19,
+            "9" : 16,
+            "10" : 16,
+            "11" : 13
+        }
+    },
+
+    "GRAVEL_GENERATOR" : {
+        "displayName" : "Gravel Minion",
+        "category" : "MINING",
+        "drops" : {
+            "GRAVEL" : 1
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false
+        },
+        "maxTier" : 11,
+        "cooldown" : {
+            "1" : 26,
+            "2" : 26,
+            "3" : 24,
+            "4" : 24,
+            "5" : 22,
+            "6" : 22,
+            "7" : 19,
+            "8" : 19,
+            "9" : 16,
+            "10" : 16,
+            "11" : 13
+        }
+    },
+
+    "GLOWSTONE_GENERATOR" : {
+        "displayName" : "Glowstone Minion",
+        "category" : "MINING",
+        "drops" : {
+            "GLOWSTONE" : 3
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 25,
+            "2" : 25,
+            "3" : 23,
+            "4" : 23,
+            "5" : 21,
+            "6" : 21,
+            "7" : 19,
+            "8" : 19,
+            "9" : 16,
+            "10" : 16,
+            "11" : 13,
+            "12" : 11
+        }
+    },
+
+    "LAPIS_GENERATOR" : {
+        "displayName" : "Lapis Minion",
+        "category" : "MINING",
+        "drops" : {
+            "INK_SACK:4" : 6
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 29,
+            "2" : 29,
+            "3" : 27,
+            "4" : 27,
+            "5" : 25,
+            "6" : 25,
+            "7" : 23,
+            "8" : 23,
+            "9" : 21,
+            "10" : 21,
+            "11" : 18,
+            "12" : 16
+        }
+    },
+
+    "REDSTONE_GENERATOR" : {
+        "displayName" : "Redstone Minion",
+        "category" : "MINING",
+        "drops" : {
+            "REDSTONE" : 4.5
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 29,
+            "2" : 29,
+            "3" : 27,
+            "4" : 27,
+            "5" : 25,
+            "6" : 25,
+            "7" : 23,
+            "8" : 23,
+            "9" : 21,
+            "10" : 21,
+            "11" : 18,
+            "12" : 16
+        }
+    },
+
+    "MYCELIUM_GENERATOR" : {
+        "displayName" : "Mycelium Minion",
+        "category" : "MINING",
+        "drops" : {
+            "MYCEL" : 1
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 26,
+            "2" : 25,
+            "3" : 24,
+            "4" : 23,
+            "5" : 22,
+            "6" : 21,
+            "7" : 20,
+            "8" : 19,
+            "9" : 18,
+            "10" : 16,
+            "11" : 13,
+            "12" : 11
+        }
+    },
+
+    "RED_SAND_GENERATOR" : {
+        "displayName" : "Red Sand Minion",
+        "category" : "MINING",
+        "drops" : {
+            "SAND:1" : 1
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 26,
+            "2" : 25,
+            "3" : 24,
+            "4" : 23,
+            "5" : 22,
+            "6" : 21,
+            "7" : 20,
+            "8" : 19,
+            "9" : 18,
+            "10" : 16,
+            "11" : 13,
+            "12" : 11
+        }
+    },
+
+    "GOLD_GENERATOR" : {
+        "displayName" : "Gold Minion",
+        "category" : "MINING",
+        "drops" : {
+            "GOLD_INGOT" : 1
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : true
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 22,
+            "2" : 22,
+            "3" : 20,
+            "4" : 20,
+            "5" : 18,
+            "6" : 18,
+            "7" : 16,
+            "8" : 16,
+            "9" : 14,
+            "10" : 14,
+            "11" : 11,
+            "12" : 9
+        }
+    },
+
+    "IRON_GENERATOR" : {
+        "displayName" : "Iron Minion",
+        "category" : "MINING",
+        "drops" : {
+            "IRON_INGOT" : 1
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 17,
+            "2" : 17,
+            "3" : 15,
+            "4" : 15,
+            "5" : 14,
+            "6" : 14,
+            "7" : 12,
+            "8" : 12,
+            "9" : 10,
+            "10" : 10,
+            "11" : 8,
+            "12" : 7
+        }
+    },
+
+    "MITHRIL_GENERATOR" : {
+        "displayName" : "Mithril Minion",
+        "category" : "MINING",
+        "drops" : {
+            "MITHRIL_ORE" : 1
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 80,
+            "2" : 80,
+            "3" : 75,
+            "4" : 75,
+            "5" : 70,
+            "6" : 70,
+            "7" : 65.5,
+            "8" : 65.5,
+            "9" : 60,
+            "10" : 60,
+            "11" : 55,
+            "12" : 50
+        }
+    },
+
+    "QUARTZ_GENERATOR" : {
+        "displayName" : "Quartz Minion",
+        "category" : "MINING",
+        "drops" : {
+            "QUARTZ" : 1
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 22.5,
+            "2" : 22.5,
+            "3" : 21,
+            "4" : 21,
+            "5" : 19,
+            "6" : 19,
+            "7" : 17,
+            "8" : 17,
+            "9" : 14.5,
+            "10" : 14.5,
+            "11" : 11.5,
+            "12" : 10
+        }
+    },
+
+    "OBSIDIAN_GENERATOR" : {
+        "displayName" : "Obsidian Minion",
+        "category" : "MINING",
+        "drops" : {
+            "OBSIDIAN" : 1
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : true
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 45,
+            "2" : 45,
+            "3" : 42,
+            "4" : 42,
+            "5" : 39,
+            "6" : 39,
+            "7" : 35,
+            "8" : 35,
+            "9" : 30,
+            "10" : 30,
+            "11" : 24,
+            "12" : 21
         }
     },
 }
