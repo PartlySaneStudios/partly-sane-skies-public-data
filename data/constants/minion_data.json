@@ -1227,7 +1227,7 @@
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : false
+            "autoSmelter" : true
         },
         "maxTier" : 12,
         "cooldown" : {
@@ -1273,6 +1273,33 @@
         }
     },
 
+    "OBSIDIAN_GENERATOR" : {
+        "displayName" : "Obsidian Minion",
+        "category" : "MINING",
+        "drops" : {
+            "OBSIDIAN" : 1
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 45,
+            "2" : 45,
+            "3" : 42,
+            "4" : 42,
+            "5" : 39,
+            "6" : 39,
+            "7" : 35,
+            "8" : 35,
+            "9" : 30,
+            "10" : 30,
+            "11" : 24,
+            "12" : 21
+        }
+    },
+
     "QUARTZ_GENERATOR" : {
         "displayName" : "Quartz Minion",
         "category" : "MINING",
@@ -1300,30 +1327,226 @@
         }
     },
 
-    "OBSIDIAN_GENERATOR" : {
-        "displayName" : "Obsidian Minion",
+    "SNOW_GENERATOR" : {
+        "displayName" : "Snow Minion",
         "category" : "MINING",
         "drops" : {
-            "OBSIDIAN" : 1
+            "SNOW_BALL" : 4
         },
         "upgrades" : {
             "superCompactor" : true,
-            "autoSmelter" : true
+            "autoSmelter" : false
         },
         "maxTier" : 12,
         "cooldown" : {
-            "1" : 45,
-            "2" : 45,
-            "3" : 42,
-            "4" : 42,
-            "5" : 39,
-            "6" : 39,
-            "7" : 35,
-            "8" : 35,
-            "9" : 30,
-            "10" : 30,
-            "11" : 24,
-            "12" : 21
+            "1" : 13,
+            "2" : 13,
+            "3" : 12,
+            "4" : 12,
+            "5" : 11,
+            "6" : 11,
+            "7" : 9.5,
+            "8" : 9.5,
+            "9" : 8,
+            "10" : 8,
+            "11" : 6.5,
+            "12" : 5.8
         }
     },
+
+    "OAK_GENERATOR" : {
+        "displayName" : "Oak Minion",
+        "category" : "FORAGING",
+        "drops" : {
+            "LOG" : 4
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false
+        },
+        "maxTier" : 11,
+        "cooldown" : {
+            "1" : 48,
+            "2" : 48,
+            "3" : 45,
+            "4" : 45,
+            "5" : 42,
+            "6" : 42,
+            "7" : 38,
+            "8" : 38,
+            "9" :33,
+            "10" : 33,
+            "11" : 27
+        }
+    },
+
+    "DARK_OAK_GENERATOR" : {
+        "displayName" : "Dark Oak Minion",
+        "category" : "FORAGING",
+        "drops" : {
+            "LOG_2:1" : 4
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false
+        },
+        "maxTier" : 11,
+        "cooldown" : {
+            "1" : 48,
+            "2" : 48,
+            "3" : 45,
+            "4" : 45,
+            "5" : 42,
+            "6" : 42,
+            "7" : 38,
+            "8" : 38,
+            "9" :33,
+            "10" : 33,
+            "11" : 27
+        }
+    },
+
+    "JUNGLE_GENERATOR" : {
+        "displayName" : "Jungle Minion",
+        "category" : "FORAGING",
+        "drops" : {
+            "LOG:3" : 4
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false
+        },
+        "maxTier" : 11,
+        "cooldown" : {
+            "1" : 48,
+            "2" : 48,
+            "3" : 45,
+            "4" : 45,
+            "5" : 42,
+            "6" : 42,
+            "7" : 38,
+            "8" : 38,
+            "9" :33,
+            "10" : 33,
+            "11" : 27
+        }
+    },
+
+    "BIRCH_GENERATOR" : {
+        "displayName" : "Birch Minion",
+        "category" : "FORAGING",
+        "drops" : {
+            "LOG:2" : 4
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false
+        },
+        "maxTier" : 11,
+        "cooldown" : {
+            "1" : 48,
+            "2" : 48,
+            "3" : 45,
+            "4" : 45,
+            "5" : 42,
+            "6" : 42,
+            "7" : 38,
+            "8" : 38,
+            "9" :33,
+            "10" : 33,
+            "11" : 27
+        }
+    },
+
+    "SPRUCE_GENERATOR" : {
+        "displayName" : "Spruce Minion",
+        "category" : "FORAGING",
+        "drops" : {
+            "LOG:1" : 4
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false
+        },
+        "maxTier" : 11,
+        "cooldown" : {
+            "1" : 48,
+            "2" : 48,
+            "3" : 45,
+            "4" : 45,
+            "5" : 42,
+            "6" : 42,
+            "7" : 38,
+            "8" : 38,
+            "9" :33,
+            "10" : 33,
+            "11" : 27
+        }
+    },
+
+    "ACACIA_GENERATOR" : {
+        "displayName" : "Acacia Minion",
+        "category" : "FORAGING",
+        "drops" : {
+            "LOG_2" : 4
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false
+        },
+        "maxTier" : 11,
+        "cooldown" : {
+            "1" : 48,
+            "2" : 48,
+            "3" : 45,
+            "4" : 45,
+            "5" : 42,
+            "6" : 42,
+            "7" : 38,
+            "8" : 38,
+            "9" :33,
+            "10" : 33,
+            "11" : 27
+        }
+    },
+
+    "FLOWER_GENERATOR" : {
+        "displayName" : "Flower Minion",
+        "category" : "FORAGING",
+        "drops" : {
+            "YELLOW_FLOWER" : 0.0714285714,
+            "RED_ROSE" : 0.0714285714,
+            "RED_ROSE:1": 0.0714285714,
+            "RED_ROSE:2" : 0.0714285714,
+            "RED_ROSE:3" : 0.10714285714,
+            "RED_ROSE:4" : 0.0714285714,
+            "RED_ROSE:5" : 0.0714285714,
+            "RED_ROSE:6" : 0.0714285714,
+            "RED_ROSE:7" : 0.0714285714,
+            "RED_ROSE:8" : 0.0714285714,
+            "DOUBLE_PLANT" : 0.0714285714,
+            "DOUBLE_PLANT:1" : 0.0714285714,
+            "DOUBLE_PLANT:4" : 0.0714285714,
+            "DOUBLE_PLANT:5" : 0.0714285714
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false
+        },
+        "maxTier" : 12,
+        "cooldown" : {
+            "1" : 30,
+            "2" : 29,
+            "3" : 28,
+            "4" : 27,
+            "5" : 26,
+            "6" : 25,
+            "7" : 24,
+            "8" : 23,
+            "9" : 23,
+            "10" : 20,
+            "11" : 18,
+            "12" : 15
+        }
+    }
 }
