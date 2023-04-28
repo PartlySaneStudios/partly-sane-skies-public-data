@@ -786,4 +786,64 @@
             "12" : 27
         }
     },
+
+    "CLAY_GENERATOR" : {
+        "displayName" : "Clay Minion",
+        "category" : "FISHING",
+        "drops" : {
+            "CLAY_BALL" : 4
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false,
+            "compactor" : true
+        },
+        "maxTier" : 11,
+        "cooldown" : {
+            "1" : 32,
+            "2" : 32,
+            "3" : 30,
+            "4" : 30,
+            "5" : 27.5,
+            "6" : 27.5,
+            "7" : 24,
+            "8" : 24,
+            "9" : 20,
+            "10" : 20,
+            "11" : 16
+        }
+    },
+
+    "FISHING_GENERATOR" : {
+        "displayName" : "Fishing Minion",
+        "category" : "FISHING",
+        "drops" : {
+            "RAW_FISH" : 0.5,
+            "RAW_FISH:1" : 0.25,
+            "RAW_FISH:3" : 0.12,
+            "RAW_FISH:2" : 0.04,
+            "PRISMARINE_CRYSTALS" : 0.03,
+            "PRISMARINE_SHARD" : 0.03,
+            "SPONGE" : 0.03
+        },
+        "upgrades" : {
+            "superCompactor" : true,
+            "autoSmelter" : false,
+            "compactor" : true
+        },
+        "maxTier" : 11,
+        "cooldown" : {
+            "1" : 78,
+            "2" : 75,
+            "3" : 72,
+            "4" : 72,
+            "5" : 68,
+            "6" : 68,
+            "7" : 62.5,
+            "8" : 62.5,
+            "9" : 53,
+            "10" : 53,
+            "11" : 16
+        }
+    },
 }
