@@ -829,7 +829,7 @@
         "upgrades" : {
             "superCompactor" : true,
             "autoSmelter" : false,
-            "compactor" : true
+            "compactor" : false
         },
         "maxTier" : 11,
         "cooldown" : {
