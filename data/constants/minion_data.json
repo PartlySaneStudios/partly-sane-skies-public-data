@@ -273,13 +273,13 @@
         "displayName" : "Creeper Minion",
         "category" : "COMBAT",
         "drops" : {
-            "GUNPOWDER" : 1
+            "SULPHUR" : 1
         },
         "upgrades" : {
             "superCompactor" : true,
             "autoSmelter" : false
         },
-        "maxTier" : 12,
+        "maxTier" : 11,
         "cooldown" : {
             "1" : 27,
             "2" : 27,
@@ -352,7 +352,7 @@
         "displayName" : "Magma Cube Minion",
         "category" : "COMBAT",
         "drops" : {
-            "MAGMA_CREME" : 1.8
+            "MAGMA_CREAM" : 1.8
         },
         "upgrades" : {
             "superCompactor" : true,
@@ -433,7 +433,7 @@
         "displayName" : "Carrot Minion",
         "category" : "FARMING",
         "drops" : {
-            "CARROT" : 3
+            "CARROT_ITEM" : 3
         },
         "upgrades" : {
             "superCompactor" : true,
@@ -460,7 +460,7 @@
         "displayName" : "Potato Minion",
         "category" : "FARMING",
         "drops" : {
-            "POTATO" : 3
+            "POTATO_ITEM" : 3
         },
         "upgrades" : {
             "superCompactor" : true,
