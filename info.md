@@ -6,7 +6,7 @@ Shows how every file should be formatted
 
 A json object that has an ``announcements`` array in the following format:
 
-```
+```json
 "announcements" : [
     {
         "name" : "Name of announcement",
@@ -21,7 +21,7 @@ This object also has a ``mod_info`` object in the following format:
 
 (Note ``latest_version_description`` and ``latest_version_release_date`` are currently unused)
 
-```
+```json
 "mod_info" : {
     "latest_version" : "prealpha-v0.0.1",
     "latest_version_description" : "Description of latest version",
@@ -35,7 +35,7 @@ A json object that contains a ``bits_shop`` object, that has the id of each of t
 
 Example:
 
-```
+```json
 "bits_shop": {
     "ITEM_ID": -1
 }
@@ -47,7 +47,7 @@ A json object containing both an object named ``positive_strings`` and an object
 
 Example:
 
-```
+```json
 "positive_strings" : {
     "{player} has obtained Wither Key!" : "Keys"
 },
@@ -63,7 +63,7 @@ An object containing an array named ``hoes`` that dictates all mathematical hoes
 
 Example:
 
-```
+```json
 "hoes": [
     "ITEM_ID"
 ]
@@ -75,7 +75,7 @@ An object containing an object named ``skymart`` containing the the id of items 
 
 Example:
 
-```
+```json
 "skymart" : {
     "GARDEN_SCYTHE": 20,
 }
@@ -83,24 +83,39 @@ Example:
 
 ## [/data/constants/minion_data.json](/data/constants/minion_data.json)
 
-An object containing an object with each minion's id and information about the minion.
+A ``"minion"`` object containing an object with each minion's id and information about the minion and a ``"fuel"`` object containing information about the minion fuels. Infinite minion fuels have a ``"duration"`` of ``-1``.
 
 Example:
 
-```
-"COW_GENERATOR" : {
-    "displayName" : "Example Cow Minion",
-    "drops" : [
-        "RAW_BEEF",
-    ],
-    "upgrades" : {
-        "superCompactor" : false,
-        "autoSmelter" : false,
-        "compactor" : false
-    },
-    "maxTier" : 1,
-    "cooldown" : {
-        "1" : 26,
+```json
+"minions" : {
+    "COW_GENERATOR" : {
+        "displayName" : "Example Cow Minion",
+        "drops" : [
+            "RAW_BEEF",
+        ],
+        "upgrades" : {
+            "superCompactor" : false,
+            "autoSmelter" : false,
+            "compactor" : false
+        },
+        "maxTier" : 1,
+        "cooldown" : {
+            "1" : 26,
+        }
     }
 }
+
+"fuel": {
+    "COAL" : {
+        "speed_upgrade" : 0.05,
+        "duration" : 30
+    },
+
+    "PLASMA_BUCKET" : {
+        "speed_upgrade" : 0.35,
+        "duration" : -1
+    }
+}
+
 ```
