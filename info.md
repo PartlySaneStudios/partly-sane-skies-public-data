@@ -106,7 +106,7 @@ Example:
     }
 }
 
-"fuel": {
+"fuels": {
     "COAL" : {
         "speed_upgrade" : 0.05,
         "duration" : 30
