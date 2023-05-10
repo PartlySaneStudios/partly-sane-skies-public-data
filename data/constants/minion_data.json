@@ -1618,7 +1618,7 @@
             "duration" : -1
         },
 
-        "TASTY_CHEESE" : {
+        "CHEESE_FUEL" : {
             "speed_upgrade" : 2,
             "duration" : 60
         }
