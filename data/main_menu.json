@@ -10,16 +10,16 @@
 
     "announcements" : [
         {
-            "name" : "SkyBlock Patch 0.18.3",
-            "description" : "Hey Everyone! Today's Patch includes quite a lot of different things, including (but not limited to): The Long Awaited Crop Growth Changes (tm), Garden Preset Changes, Bazaar Additions New Sacks and Updates to old Sacks",
-            "date" : "18 April 2023",
-            "link" : "https://hypixel.net/threads/skyblock-patch-0-18-3-garden-crop-growth-presets-bazaar-sack-additions-bug-fixes-more.5324136/"
+            "name" : "SkyBlock Patch 0.19 - The Rift",
+            "description" : "Hey all! The Wizard Portal is finally repaired! It only took 3-5 business days. Rumors are that, upon completion, Barry the Wizard (the ex-mayor) took the risk for all of us and stepped into the portal.",
+            "date" : "20 June 2023",
+            "link" : "https://hypixel.net/threads/skyblock-patch-0-19-the-rift.5399251/"
         },
         {
-            "name" : "SkyBlock Patch March 24 - Various Grammatical Fixes",
-            "description" : "We are here to inform you about the latest update that was just rolled to SkyBlock! This update focuses on correcting some grammar mistakes in different areas in the game",
-            "date" : "24 March 2023",
-            "link" : "https://hypixel.net/threads/march-24-various-grammatical-fixes.5314082/"
+            "name" : "[June 14] SkyBlock Patch Notes",
+            "description" : "Hey all! We are here to inform you about the latest update that was just rolled to SkyBlock!",
+            "date" : "14 June 2023",
+            "link" : "https://hypixel.net/threads/june-14-skyblock-patch-notes.5393862/"
         }
     ]
 }
