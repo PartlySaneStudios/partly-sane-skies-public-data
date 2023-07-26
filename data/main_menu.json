@@ -10,12 +10,6 @@
 
     "announcements" : [
         {
-            "name" : "&d[TEMPORARY] HYPIXEL R/PLACE PROJECT",
-            "description" : "&eHey! The Hypixel community is creating a logo on r/place along with Technoblade. Click here for more information",
-            "date" : "23 July 2023",
-            "link" : "https://discord.gg/esCvrjBQXv"
-        },
-        {
             "name" : "[July 25] SkyBlock Patch Notes",
             "description" : "Hey all! We are here to inform you about the latest update that was just rolled to SkyBlock!",
             "date" : "25 July 2023",
