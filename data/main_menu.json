@@ -14,12 +14,12 @@
             "description" : "Hey all! We are here to inform you about the latest update that was just rolled to SkyBlock!",
             "date" : "25 July 2023",
             "link" : "https://hypixel.net/threads/july-25-skyblock-patch-notes.5439599/"
-        },
+        }, 
         {
-            "name" : "SkyBlock Patch 0.19.1 - Leveling and Bug Fixes",
-            "description" : "Hey Guys! SkyBlock has been updated to version 0.19.1. New features in this patch are Item Linking and several Leveling updates, as well as many other changes and bug fixes.",
-            "date" : "12 July 2023",
-            "link" : "https://hypixel.net/threads/skyblock-patch-0-19-1-item-linking-leveling-update-stash-qol-bug-fixes.5422629/"
+            "name" : "SkyBlock Patch 0.19.2 - Bestiary, QoL, & Bug Fixes",
+            "description" : "Welcome to SkyBlock Patch 0.19.2. Hop on aboard to learn more about the updated Bestiary, new Experimentation Table item, general improvements, bug fixes, and more!",
+            "date" : "1 August 2023",
+            "link" : "https://hypixel.net/threads/skyblock-patch-0-19-2-bestiary-qol-bug-fixes.5442976/"
         }
     ]
 }
