@@ -10,16 +10,16 @@
 
     "announcements" : [
         {
-            "name" : "[August 8] SkyBlock Patch Notes",
-            "description" : "Hey all! We are here to inform you about the latest update that was just rolled to SkyBlock!",
-            "date" : "08 August 2023",
-            "link" : "https://hypixel.net/threads/august-8-skyblock-patch-notes.5455296/"
+            "name" : "SkyBlock Patch 0.19.3 - Crystal Hollows, QoL, & Bug Fixes",
+            "description" : "Hello! Welcome to SkyBlock Patch 0.19.3. This update includes many Crystal Hollows changes, solo Dungeons, general improvements, bug fixes, and more!",
+            "date" : "23 August 2023",
+            "link" : "https://hypixel.net/threads/skyblock-patch-0-19-3-crystal-hollows-qol-bug-fixes.5465058/"
         }, 
         {
-            "name" : "SkyBlock Patch 0.19.2 - Bestiary, QoL, and Bug Fixes",
-            "description" : "Welcome to SkyBlock Patch 0.19.2. Hop on aboard to learn more about the updated Bestiary, new Experimentation Table item, general improvements, bug fixes, and more!",
-            "date" : "1 August 2023",
-            "link" : "https://hypixel.net/threads/skyblock-patch-0-19-2-bestiary-qol-bug-fixes.5442976/"
+            "name" : "[August 15] SkyBlock Patch Notes",
+            "description" : "Hey all! We are here to inform you about the latest update that was just rolled to SkyBlock!",
+            "date" : "15 August 2023",
+            "link" : "https://hypixel.net/threads/august-15-skyblock-patch-notes.5462618/"
         }
     ]
 }
