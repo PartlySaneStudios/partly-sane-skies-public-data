@@ -2,7 +2,7 @@
     "mod_info" : {
         "latest_version" : "beta-v0.3.3",
         "latest_version_description" : "",
-        "latest_version_release_date" : "02 August 2023",
+        "latest_version_release_date" : "03 September 2023",
         "discord_invite_full" : "https://discord.gg/v4PU3WeH7z",
         "discord_invite_short_link" : "discord.gg/v4PU3WeH7z",
         "discord_invite_code" : "v4PU3WeH7z"
@@ -10,16 +10,16 @@
 
     "announcements" : [
         {
-            "name" : "[August 25] SkyBlock Patch Notes",
+            "name" : "[September 26] SkyBlock Patch Notes",
             "description" : "Hey all! We are here to inform you about the latest update that was just rolled to SkyBlock!",
-            "date" : "25 August 2023",
-            "link" : "https://hypixel.net/threads/august-29-skyblock-patch-notes.5477790/"
+            "date" : "26 September 2023",
+            "link" : "https://hypixel.net/threads/september-26-skyblock-patch-notes.5500920/"
         }, 
         {
-            "name" : "SkyBlock Patch 0.19.3 - Crystal Hollows and QoL",
-            "description" : "Hello! Welcome to SkyBlock Patch 0.19.3. This update includes many Crystal Hollows changes, solo Dungeons, general improvements, bug fixes, and more!",
-            "date" : "23 August 2023",
-            "link" : "https://hypixel.net/threads/skyblock-patch-0-19-3-crystal-hollows-qol-bug-fixes.5465058/"
+            "name" : "Inferno Minion Design & Heads Up",
+            "description" : "Hello! We've taken a look at the inferno minion and how expensive it is to run.",
+            "date" : "24 September 2023",
+            "link" : "https://hypixel.net/threads/inferno-minion-design-heads-up.5499078/"
         }
     ]
 }
