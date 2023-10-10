@@ -1,6 +1,6 @@
 {
     "mod_info" : {
-        "latest_version" : "beta-v0.3.3",
+        "latest_version" : "beta-v0.4",
         "latest_version_description" : "",
         "latest_version_release_date" : "03 September 2023",
         "discord_invite_full" : "https://discord.gg/v4PU3WeH7z",
@@ -16,10 +16,10 @@
             "link" : "https://hypixel.net/threads/october-10-skyblock-patch-notes.5511676/"
         }, 
         {
-            "name" : "[October 9] SkyBlock Patch Notes",
-            "description" : "Hey all! We are here to inform you about the latest update that was just rolled to SkyBlock!",
-            "date" : "9 October 2023",
-            "link" : "https://hypixel.net/threads/october-9-skyblock-patch-notes.5510960/"
+            "name" : "SkyBlock Patch Notes 0.19.5",
+            "description" : "Hey guys! Here are the patch notes for SkyBlock Patch 0.19.5.",
+            "date" : "04 October 2023",
+            "link" : "https://hypixel.net/threads/skyblock-patch-notes-0-19-5.5507009/"
         }
     ]
 }
