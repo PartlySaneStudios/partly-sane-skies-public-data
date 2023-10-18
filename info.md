@@ -29,6 +29,10 @@ This object also has a ``mod_info`` object in the following format:
 },
 ```
 
+This object also has a ``prank_sound`` boolean,
+it's a kill switch for the sound prank feature, incase something goes wrong.
+
+
 ## [/data/constants/bits_shop.json](/data/constants/bits_shop.json)
 
 A json object that contains a ``bits_shop`` object, that has the id of each of the items that is sold in the community centre bit cost, with the associated cost in bits.
