@@ -8,6 +8,8 @@
         "discord_invite_code" : "v4PU3WeH7z"
     },
 
+    "prank_sound": true,
+
     "announcements" : [
         {
             "name" : "[October 10] SkyBlock Patch Notes",
