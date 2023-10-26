@@ -83,6 +83,60 @@
       "versions": {
         "1.10.37+nea": "477a2ecf0b53e2d9d9d5b620a2d7177e81c4204055126e608d8e89d9647887be"
       }
+    },
+    "Dulkir Mod": {
+      "download": "https://github.com/inglettronald/DulkirMod",
+      "versions": {
+        "1.2.5": "7cf225ec7970bb466c1b12c7a33bccb6258ddc4bff4caf98cc2e08ed0b86e524"
+      }
+    },
+    "SkyblockPersonalized": {
+      "download": "https://github.com/Cobble8/SkyblockPersonalized",
+      "versions": {
+        "1.7.0.0": "bbc5e22d659b761d903fdd0e3be6c68e1bd1445a8831f8636c0331759b571519"
+      }
+    },
+    "Apec": {
+      "download": "https://github.com/BananaFructa/Apec",
+      "versions": {
+        "1.11.6": "6c494a24f8d6c2ec1ceab2d5b9dac207acbbc980648e6414d00e52d6fae0cd5f"
+      }
+    },
+    "BazaarNotifier": {
+      "download": "https://github.com/symt/BazaarNotifier",
+      "versions": {
+        "1.6.1": "d4fe6e0755c7f545b27bbd90e65e1cad7f523405058af34c407e9c7a8c82e79b"
+      }
+    },
+    "Dungeon Rooms Mod": {
+      "download": "https://github.com/Quantizr/DungeonRoomsMod",
+      "versions": {
+        "3.4.0": "f9e8345be0413ceb957fa4429144e960000d86278903c8315a4eafe87cfaafda"
+      }
+    },
+    "Hytils Reborn": {
+      "download": "https://github.com/Polyfrost/Hytils-Reborn",
+      "versions": {
+        "1.5.0": "3bec56269402f3444e497a1bd5bbb969254c5234639205847c941c0c6523e18d"
+      }
+    },
+    "Danker's Skyblock Mod": {
+      "download": "https://github.com/bowser0000/SkyblockMod",
+      "versions": {
+        "2.1": "905819c9c65d4bebb64133e428de2ed2b4f0097475d014bee037a96ae65a7921"
+      }
+    },
+    "Skyblock Hud": {
+      "download": "https://github.com/nea89o/SkyblockHud-Death-Defied",
+      "versions": {
+        "1.17.1+nea": "efa18b398f25505331b79b3622f0f1ce10f677867dfcab741f3188a7e3be9926"
+      }
+    },
+    "SkyGuide": {
+      "download": "https://modrinth.com/mod/skyguide",
+      "versions": {
+        "1.2.1": "6d482772aca1a309be6ef3a63a3caf7372ca4ef8ae702b667e7f16e3ac20bb29"
+      }
     }
   }
 }
