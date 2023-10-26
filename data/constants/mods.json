@@ -29,6 +29,18 @@
       "versions": {
         "0.2.1-alpha181": "004fc41df0eaa5e5e5cdc1e50f66f3b7b85ab85b03b453898db97726e43dc472"
       }
+    },
+    "ChatTriggers": {
+      "download": "https://www.chattriggers.com/",
+      "versions": {
+        "2.2.0": "3b077d3e99eb714d13e76826d75929807e8ab582023c59bc405d4bad67193254"
+      }
+    },
+    "NotEnoughUpdates": {
+      "download": "https://github.com/NotEnoughUpdates/NotEnoughUpdates",
+      "versions": {
+        "2.1.1+Alpha-22": "955a263c158e422d9b4f9e6cf1eca1a4f8518e3b195868d11ffa5977dc047253"
+      }
     }
   }
 }
