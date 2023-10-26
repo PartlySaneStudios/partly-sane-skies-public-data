@@ -7,9 +7,27 @@
       }
     },
     "Smooth Font": {
-      "download": "",
+      "download": "https://legacy.curseforge.com/minecraft/mc-mods/smooth-font/files/all",
       "versions": {
         "1.8.9-1.15.2": "b0e057451f09f732759e161366abe188c04da25b126695184aa865df15b28098"
+      }
+    },
+    "Minecraft Forge": {
+      "download": "https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html",
+      "versions": {
+        "11.15.1.2318": "596512ad5f12f95d8a3170321543d4455d23b8fe649c68580c5f828fe74f6668"
+      }
+    },
+    "Essential": {
+      "download": "https://essential.gg/",
+      "versions": {
+        "1.0.0-13428": "a70c02554a96faff60647eb204652a20b5551798506f1e4c0970daef401f782e"
+      }
+    },
+    "OneConfig": {
+      "download": "https://github.com/Polyfrost/OneConfig",
+      "versions": {
+        "0.2.1-alpha181": "004fc41df0eaa5e5e5cdc1e50f66f3b7b85ab85b03b453898db97726e43dc472"
       }
     }
   }
