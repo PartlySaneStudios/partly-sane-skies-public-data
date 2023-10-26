@@ -1,0 +1,10 @@
+{
+  "mods": {
+    "Fancy Warp Menu": {
+      "download": "https://github.com/ILikePlayingGames/FancyWarpMenu",
+      "versions": {
+        "0.8.0.69": "685e3234864170a433dd6717635170562a40d920f83f927a6ecfa228ae957e0d"
+      }
+    }
+  }
+}
