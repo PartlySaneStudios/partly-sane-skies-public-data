@@ -9,7 +9,8 @@
     "Fancy Warp Menu": {
       "download": "https://github.com/ILikePlayingGames/FancyWarpMenu",
       "versions": {
-        "0.8.0.69": "685e3234864170a433dd6717635170562a40d920f83f927a6ecfa228ae957e0d"
+        "0.8.0.69": "685e3234864170a433dd6717635170562a40d920f83f927a6ecfa228ae957e0d",
+        "1.0+96": "4c118847291d8a4e6a521664d4c3ebff761d1a5ce65996bb30f5e994a192a339"
       }
     },
     "Smooth Font": {
@@ -57,13 +58,14 @@
     "Patcher": {
       "download": "https://sk1er.club/mods/patcher",
       "versions": {
-        "1.8.6": "4a134770967bf18c91345d39f70f49373adfcbce9a4adc8d3f4116c44f1ad3a9"
+        "1.8.6": "4a134770967bf18c91345d39f70f49373adfcbce9a4adc8d3f4116c44f1ad3a9",
+        "1.8.7": "0c61939fbd472f96c02c40bd77ef447c5719fecbb52c0a40eb90aaf198e7dd34"
       }
     },
     "SkyblockAddons": {
       "download": "https://github.com/BiscuitDevelopment/SkyblockAddons",
       "versions": {
-        "1.7.0": "5f3f023254f2e8216ed3657cd31858f46dc44eeede134b62d57af9d5cdfcda6a"
+        "1.7.0": "d78b8b7d8e11bf3dcfa6bc0e11ff5828ae160f5fa67de4bd344cbb7b91cf2fb4"
       }
     },
     "SkyHanni": {
@@ -129,6 +131,7 @@
     "Danker's Skyblock Mod": {
       "download": "https://github.com/bowser0000/SkyblockMod",
       "versions": {
+        "1.9": "8bd5a505c5d98135dd7ee622d74ed0960870d238ab51354a3b52a7d8aadeab08",
         "2.1": "905819c9c65d4bebb64133e428de2ed2b4f0097475d014bee037a96ae65a7921"
       }
     },
@@ -148,6 +151,54 @@
       "download": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide",
       "versions": {
         "4.0.0": "aec8bedcee875a2a277b4fadad2ace2592d9856f276487e3f4caabf78b78dcaf"
+      }
+    },
+    "Cowlection": {
+      "download": "https://github.com/cow-mc/Cowlection",
+      "versions": {
+        "1.8.9-0.16.0": "9d843ccce2842e5872aa053d7b42e3b08b31dd3ac9e280654b6bf0a8a099995c"
+      }
+    },
+    "CrashPatch": {
+      "download": "",
+      "versions": {
+        "1.4.0": "17d7055778f912b87c39aa0991c1f3816b6d6e3a504e9101817956412aabb416"
+      }
+    },
+    "Sk1er Old Animations": {
+      "download": "",
+      "versions": {
+        "0.2.0": "8b02f7dcb3248966cd3919d3880102eeb8c1b58e60bc36cc9c44a180ba2e8a43"
+      }
+    },
+    "OverflowAnimations": {
+      "download": "",
+      "versions": {
+        "1.1.0": "f53225a81b54e3b7d231b865a32e2314d4864806901f46a16befa5e33be93fab"
+      }
+    },
+    "SkyClient Updater": {
+      "download": "",
+      "versions": {
+        "1.3.2": "0062913fea649050e6e47750627d592e2dc03cff9f112b45bcfee79e4c66e498"
+      }
+    },
+    "SkyClientCosmetics": {
+      "download": "",
+      "versions": {
+        "1.1.13": "4947bcaf3ea210dddc21cbb47e575fd0ce579cb764cc4021978a4dc6b0eeda5b"
+      }
+    },
+    "SkyGuide": {
+      "download": "",
+      "versions": {
+        "1.3.0": "17f41b34bd60a01fac342a7aed00cdae80af616c89fae00d39f69793173f3780"
+      }
+    },
+    "Synthesis": {
+      "download": "https://github.com/SynthesisMod/Synthesis",
+      "versions": {
+        "0.3.1": "a3f3701330101dd884da4bd99056b160606c77a87781de9008b3c04d3416023d"
       }
     }
   }
