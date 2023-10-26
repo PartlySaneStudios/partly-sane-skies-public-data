@@ -144,7 +144,8 @@
     "SkyGuide": {
       "download": "https://modrinth.com/mod/skyguide",
       "versions": {
-        "1.2.1": "6d482772aca1a309be6ef3a63a3caf7372ca4ef8ae702b667e7f16e3ac20bb29"
+        "1.2.1": "6d482772aca1a309be6ef3a63a3caf7372ca4ef8ae702b667e7f16e3ac20bb29",
+        "1.3.0": "17f41b34bd60a01fac342a7aed00cdae80af616c89fae00d39f69793173f3780"
       }
     },
     "Dungeons Guide": {
@@ -187,12 +188,6 @@
       "download": "",
       "versions": {
         "1.1.13": "4947bcaf3ea210dddc21cbb47e575fd0ce579cb764cc4021978a4dc6b0eeda5b"
-      }
-    },
-    "SkyGuide": {
-      "download": "",
-      "versions": {
-        "1.3.0": "17f41b34bd60a01fac342a7aed00cdae80af616c89fae00d39f69793173f3780"
       }
     },
     "Synthesis": {
