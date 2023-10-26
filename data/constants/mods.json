@@ -3,7 +3,7 @@
     "Partly Sane Skies": {
       "download": "https://github.com/PartlySaneStudios/partly-sane-skies",
       "versions": {
-        "beta-v0.4.2-custom-pr-from-hannibal2": "48e9e69a7f4a174928864622558cace7fd7001fa3a17f56eb45e52e49e739848"
+        "beta-v0.4.2+custom+pr+from+hannibal2": "48e9e69a7f4a174928864622558cace7fd7001fa3a17f56eb45e52e49e739848"
       }
     },
     "Fancy Warp Menu": {
@@ -58,6 +58,30 @@
       "download": "https://github.com/BiscuitDevelopment/SkyblockAddons",
       "versions": {
         "1.7.0": "5f3f023254f2e8216ed3657cd31858f46dc44eeede134b62d57af9d5cdfcda6a"
+      }
+    },
+    "SkyHanni": {
+      "download": "https://github.com/hannibal002/SkyHanni",
+      "versions": {
+        "0.21.Beta.12": "f7514c894fe647873026d5e227327b181ccbfef7be433828b6eaeacdb1378395"
+      }
+    },
+    "Skytils": {
+      "download": "https://github.com/Skytils/SkytilsMod",
+      "versions": {
+        "1.7.8": "bed2f299f5acebc4c1fbbc1a753d351a518b1ce8944be87403db73ff298fc778"
+      }
+    },
+    "SoopyV2Forge": {
+      "download": "https://github.com/Soopyboo32/SoopyV2",
+      "versions": {
+        "1.1": "9623d49290b41f9d271bc3c53a69a48e77eda323614e92fc73ba288ff3a648f3"
+      }
+    },
+    "spark": {
+      "download": "https://github.com/nea89o/spark",
+      "versions": {
+        "1.10.37+nea": "477a2ecf0b53e2d9d9d5b620a2d7177e81c4204055126e608d8e89d9647887be"
       }
     }
   }
