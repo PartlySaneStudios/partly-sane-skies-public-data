@@ -77,6 +77,7 @@
     "SkyHanni": {
       "download": "https://github.com/hannibal002/SkyHanni",
       "versions": {
+        "0.20": "9053dfb1b572f96283bcf461bdb09e8779dcfe67d291c558585e86a28f4349cf",
         "0.21.Beta.12": "f7514c894fe647873026d5e227327b181ccbfef7be433828b6eaeacdb1378395"
       }
     },
@@ -200,6 +201,30 @@
       "download": "https://github.com/SynthesisMod/Synthesis",
       "versions": {
         "0.3.1": "a3f3701330101dd884da4bd99056b160606c77a87781de9008b3c04d3416023d"
+      }
+    },
+    "Scatha-Pro": {
+      "download": "https://github.com/NamelessJu/Scatha-Pro",
+      "versions": {
+        "1.2.3.1": "9df8f87103f2f498ee9fdbfeac7b9f58c2f054e5fcd6f1583959c8c9dca9c50b"
+      }
+    },
+    "Scrollable Tooltips": {
+      "download": "https://sk1er.club/mods/text_overflow_scroll",
+      "versions": {
+        "1.4.0": "0f1fdcc3cafbd4c2d44e5b015ed62b015a04e2a93f7a61c866f1248ac104fd25"
+      }
+    },
+    "SimpleToggleSprint": {
+      "download": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint",
+      "versions": {
+        "2.2.0": "7c69e59c00d11a36b6a59e534a6aaf945992b688b7706220703dd57ff2e06785"
+      }
+    },
+    "Skyblock Utils": {
+      "download": "https://github.com/mastermindgolem/SkyBlock-Utils",
+      "versions": {
+        "1.0.4": "a17b72cce63a90b8d3f061449f9de0089d79f5097660cbfeef9b2bb71512779d"
       }
     }
   }
