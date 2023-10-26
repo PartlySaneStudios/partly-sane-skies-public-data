@@ -160,13 +160,13 @@
       }
     },
     "CrashPatch": {
-      "download": "",
+      "download": "https://github.com/Polyfrost/CrashPatch",
       "versions": {
         "1.4.0": "17d7055778f912b87c39aa0991c1f3816b6d6e3a504e9101817956412aabb416"
       }
     },
     "Sk1er Old Animations": {
-      "download": "",
+      "download": "https://github.com/Sk1erLLC/OldAnimations",
       "versions": {
         "0.2.0": "8b02f7dcb3248966cd3919d3880102eeb8c1b58e60bc36cc9c44a180ba2e8a43"
       }
