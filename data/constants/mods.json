@@ -3,7 +3,7 @@
     "Partly Sane Skies": {
       "download": "https://github.com/PartlySaneStudios/partly-sane-skies",
       "versions": {
-        "beta-v0.4.2+custom+pr+from+hannibal2": "48e9e69a7f4a174928864622558cace7fd7001fa3a17f56eb45e52e49e739848"
+        "beta-v0.4.2+hannibal2+pr": "54a1d666dcd20a9d23c3df5d86f894da186865d5371dad420b612632f6e2793d"
       }
     },
     "Fancy Warp Menu": {
@@ -20,6 +20,12 @@
       }
     },
     "Minecraft Forge": {
+      "download": "https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html",
+      "versions": {
+        "11.15.1.2318": "596512ad5f12f95d8a3170321543d4455d23b8fe649c68580c5f828fe74f6668"
+      }
+    },
+    "Minecraft Forge (SkyClient)": {
       "download": "https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html",
       "versions": {
         "11.15.1.2318": "596512ad5f12f95d8a3170321543d4455d23b8fe649c68580c5f828fe74f6668"
@@ -173,19 +179,19 @@
       }
     },
     "OverflowAnimations": {
-      "download": "",
+      "download": "https://github.com/Polyfrost/OverflowAnimationsV2",
       "versions": {
         "1.1.0": "f53225a81b54e3b7d231b865a32e2314d4864806901f46a16befa5e33be93fab"
       }
     },
     "SkyClient Updater": {
-      "download": "",
+      "download": "https://github.com/SkyblockClient/SkyblockClient-Updater",
       "versions": {
         "1.3.2": "0062913fea649050e6e47750627d592e2dc03cff9f112b45bcfee79e4c66e498"
       }
     },
     "SkyClientCosmetics": {
-      "download": "",
+      "download": "https://github.com/SkyblockClient/Skyclient-Cosmetics",
       "versions": {
         "1.1.13": "4947bcaf3ea210dddc21cbb47e575fd0ce579cb764cc4021978a4dc6b0eeda5b"
       }
