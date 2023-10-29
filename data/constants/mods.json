@@ -96,7 +96,7 @@
     "spark": {
       "download": "https://github.com/nea89o/spark",
       "versions": {
-        "1.10.37+nea": "477a2ecf0b53e2d9d9d5b620a2d7177e81c4204055126e608d8e89d9647887be"
+        "1.10.37+nea": "477a2ecf0b53e2d9d9d5b620a2d7177e81c4204055126e608d8e89d9647887be",
       }
     },
     "Dulkir Mod": {
@@ -226,6 +226,35 @@
       "versions": {
         "1.0.4": "a17b72cce63a90b8d3f061449f9de0089d79f5097660cbfeef9b2bb71512779d"
       }
+    },
+    "SomeWaterSolver": {
+      "download": "https://github.com/Desco1/WaterSolver",
+      "versions": {
+        "1.0": "3323a8355947254b92a108601c8314ab8981cb196b12e93a2c185bf9bb9cb8a6"
+     }
+   },
+   "VolcAddons": {
+      "download": "https://github.com/zhenga8533/VolcAddons",
+      "versions": {
+         "1.0": "7a6ce55856c83d4ec8e734c5c036cc2bf036cb3009ba3c83d8355145ea48e4da"
+       }
+    },
+    "Controls Saved": {
+       "download": "https://hypixel.net/threads/forge-1-8-9-controls-saved-–-save-controls-as-presets.2010689/",
+       "versions": {
+          "1.0.0.2": "5771a46dc3db4c4cdef4f6221e9e0975628090304acaca1f1ac52d22fb72c33a"
+       }
+    },
+    "Report Plus": {
+       "download": "https://github.com/ThatGravyBoat/ReportPlus",
+       "versions": {
+          "1.0.0": "03eb83b3c6a655d1b8c97026ee2377278232201d12560c91cb1c7a800fc13614"
+       }
+    },
+    "SkyblockExtras": {
+       "download": "https://sbewebsite.appspot.com",
+       "versions": {
+          "2.2.0-pre16": "616c701a02d2eccf436bbcf6a544e85097d0cfb64c14234a4fa761e23671c38b"
+       }
     }
-  }
 }
