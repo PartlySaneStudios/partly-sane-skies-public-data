@@ -122,3 +122,12 @@ Example:
     }
 }
 ```
+
+## [/data/constants/mods.json](/data/constants/mods.json)
+
+A ``"mods"`` object containing an object with the mods name, which contains the mods download link and another ``"versions"`` object containing the version as the key and the file sha as the value.
+You can use ``/modchecker`` ingame and paste the data automatically copied to your clipboard into a file to see unknown mods or versions.
+
+Example:
+
+```json
