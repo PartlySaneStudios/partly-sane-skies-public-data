@@ -131,3 +131,13 @@ You can use ``/modchecker`` ingame and paste the data automatically copied to yo
 Example:
 
 ```json
+{
+  "mods": {
+    "Partly Sane Skies": {
+      "download": "https://github.com/PartlySaneStudios/partly-sane-skies",
+      "versions": {
+        "beta-v0.4.2+hannibal2+pr": "b881d55dafe87df209c82e45ca689704bd2847ab62b0c053e14c4fcc1b392857"
+      }
+    }
+}
+```
