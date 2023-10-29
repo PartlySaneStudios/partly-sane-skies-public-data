@@ -1,0 +1,48 @@
+{
+  "ingame": {
+    "onecookiegem": 325,
+    "sixcookiesgem": 1950,
+    "twelvecookiesgem": 3900
+  },
+  "storehypixelnet": {
+    "baseurl": "https://store.hypixel.net/category/skyblock-gems?currency=",
+    "smallestgembundle": 675,
+    "AUD": 7.87,
+    "BRL": 25.02,
+    "CAD": 6.92,
+    "DKK": 35.25,
+    "EUR": 4.72,
+    "NOK": 55.71,
+    "NZD": 8.58,
+    "PLN": 21.08,
+    "GBP": 4.11,
+    "SEK": 56.02,
+    "USD": 4.99
+  }
+  "currencysymbols": {
+    "AUD": "AU$",
+    "BRL": "R$",
+    "CAD": "CA$",
+    "DKK": "kr. ",
+    "EUR": "€",
+    "NOK": "kr ",
+    "NZD": "NZ$",
+    "PLN": " zł",
+    "GBP": "£",
+    "SEK": " kr",
+    "USD": "US$"
+  }
+  "currencysymbolprecedes": {
+    "AUD": true,
+    "BRL": true,
+    "CAD": true,
+    "DKK": true,
+    "EUR": true,
+    "NOK": true,
+    "NZD": true,
+    "PLN": false,
+    "GBP": true,
+    "SEK": false,
+    "USD": true
+  }
+}
