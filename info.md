@@ -122,3 +122,22 @@ Example:
     }
 }
 ```
+
+## [/data/constants/mods.json](/data/constants/mods.json)
+
+A ``"mods"`` object containing an object with the mods name, which contains the mods download link and another ``"versions"`` object containing the version as the key and the file sha as the value.
+You can use ``/modchecker`` ingame and paste the data automatically copied to your clipboard into a file to see unknown mods or versions.
+
+Example:
+
+```json
+{
+  "mods": {
+    "Partly Sane Skies": {
+      "download": "https://github.com/PartlySaneStudios/partly-sane-skies",
+      "versions": {
+        "beta-v0.4.2+hannibal2+pr": "b881d55dafe87df209c82e45ca689704bd2847ab62b0c053e14c4fcc1b392857"
+      }
+   }
+}
+```
