@@ -17,6 +17,7 @@ A json object that has an ``announcements`` array in the following format:
 ]
 ```
 If you don't know how to update the list, consider watching this [video](https://1drv.ms/v/s!AuWyYgAuSoGDgqZv9dlJPpc8CL1A_A?e=fkeK57).
+
 Please note that there will always be a max amount of 2 accouncements at any time. The upper announcement is always the newest patch, while the lower annoucement is the newest, big update (for example: 1.19.0 Update). If the newest announcement happens to be a big one, it will be put as the upper announcement, while the newest patch is now second in the list.
 
 This object also has a ``mod_info`` object in the following format:
