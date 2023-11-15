@@ -12,16 +12,16 @@
 
     "announcements" : [
         {
+            "name": "SkyBlock Patch Notes 0.19.7 - Garden Pests",
+            "description": "Hello! Welcome to SkyBlock Patch 0.19.7. Following a fruitful period pf Alpha testing, today's update includes a whole bunch of creepy crawlies that will be making their way into your garden.",
+            "date": "14 November 2023",
+            "link": "https://hypixel.net/threads/5537683"
+        },
+        {
             "name" : "[November 9] SkyBlock Patch Notes",
             "description" : "Hey all! We are here to inform you about the latest update that was just rolled to SkyBlock!",
             "date" : "09 November 2023",
             "link" : "https://hypixel.net/threads/november-9-skyblock-patch-notes.5534325//"
-        }, 
-        {
-            "name" : "SkyBlock Patch Notes 0.19.6 - The Great Spook & More",
-            "description" : "Hello! Welcome to SkyBlock Patch 0.19.6. This update contains permanent Spooky content in the form of The Great Spook, several additions and changes to Essence Shops, and much more!",
-            "date" : "24 October 2023",
-            "link" : "https://hypixel.net/threads/skyblock-patch-notes-0-19-6-the-great-spook-essence-shops-more.5522422/"
         }
     ]
 }
