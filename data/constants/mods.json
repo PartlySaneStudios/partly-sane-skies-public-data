@@ -58,7 +58,7 @@
     "NotEnoughUpdates": {
       "download": "https://github.com/NotEnoughUpdates/NotEnoughUpdates",
       "versions": {
-        "2.1.1+Alpha-22": "955a263c158e422d9b4f9e6cf1eca1a4f8518e3b195868d11ffa5977dc047253"
+        "2.1.1+Alpha-23.e9c3bbb": "945e90438a1e9925d8ea4dbe5ecd8efa5bd3f57d71953bbe2855c158df8903e00"
       }
     },
     "Patcher": {
@@ -102,7 +102,7 @@
     "Dulkir Mod": {
       "download": "https://github.com/inglettronald/DulkirMod",
       "versions": {
-        "1.2.5": "7cf225ec7970bb466c1b12c7a33bccb6258ddc4bff4caf98cc2e08ed0b86e524"
+        "1.2.6": "e6274e5392e72ed4064401b7142861337a08442c0ad451bd32f45a8fa57cee15"
       }
     },
     "SkyblockPersonalized": {
