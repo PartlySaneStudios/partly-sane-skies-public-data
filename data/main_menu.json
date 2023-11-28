@@ -12,16 +12,16 @@
 
     "announcements" : [
         {
+            "name": "SkyBlock Patch Notes 0.19.8 - Winter Update and Secret Bingo",
+            "description": "Hello! Welcome to SkyBlock Patch 0.19.8. Today's update contains a new Advent Calendar, new gifting rewards on Jerry’s Workshop, Secret Bingo, several bug fixes, and more!",
+            "date": "28 November 2023",
+            "link": "https://hypixel.net/threads/skyblock-patch-notes-0-19-8-winter-update-and-secret-bingo.5547064/"
+        },
+        {
             "name": "SkyBlock Patch Notes 0.19.7 - Garden Pests",
             "description": "Hello! Welcome to SkyBlock Patch 0.19.7. Following a fruitful period pf Alpha testing, today's update includes a whole bunch of creepy crawlies that will be making their way into your garden.",
             "date": "14 November 2023",
             "link": "https://hypixel.net/threads/5537683"
-        },
-        {
-            "name" : "[November 9] SkyBlock Patch Notes",
-            "description" : "Hey all! We are here to inform you about the latest update that was just rolled to SkyBlock!",
-            "date" : "09 November 2023",
-            "link" : "https://hypixel.net/threads/november-9-skyblock-patch-notes.5534325//"
         }
     ]
 }
