@@ -10,6 +10,12 @@
     "prank_sound": false,
     "announcements": [
         {
+            "name": "5555555",
+            "date": "uuuuuuu",
+            "description": "ggggggggg",
+            "link": "dddddddd"
+        },
+        {
             "name": "6666666",
             "date": "kjjjjjjjjjjjj",
             "description": "dfffffff",
