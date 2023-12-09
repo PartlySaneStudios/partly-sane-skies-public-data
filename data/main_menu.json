@@ -10,6 +10,12 @@
     "prank_sound": false,
     "announcements": [
         {
+            "name": "This announcement was added with a bot",
+            "date": "08 December 2023",
+            "description": "Woahhh this is soo cool look at this",
+            "link": "https://github.com/PartlySaneStudios/sanity"
+        },
+        {
             "name": "[December 5] SkyBlock Patch Notes",
             "description": "Hey all! We are here to inform you about the latest update that was just rolled to SkyBlock!",
             "date": "5 December 2023",
