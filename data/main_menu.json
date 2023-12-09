@@ -10,12 +10,6 @@
     "prank_sound": false,
     "announcements": [
         {
-            "name": "Test3",
-            "date": "test3",
-            "description": "test3",
-            "link": "test"
-        },
-        {
             "name": "test",
             "date": "test",
             "description": "test",
