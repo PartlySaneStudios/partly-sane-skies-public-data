@@ -12,6 +12,12 @@
         {
             "name": "[December 7] SkyBlock Patch Notes",
             "date": "today",
+            "description": "Hi!1",
+            "link": "https://hypixel.net/threads/december-7-skyblock-patch-notes.5552875/"
+        },
+        {
+            "name": "[December 7] SkyBlock Patch Notes",
+            "date": "today",
             "description": "Hi!\nWe have rolled another small SkyBlock patch today, mostly containing fixes to the Advent Calendar.\n\nAdvent Calendar\n\nFixed past days being unclaimable when it was the 1st gift bundle, or the player had met the requirements for that day and just didn't claim it.\nMade already claimed rewards in each bundle more clear.\nMade the required rank show for sprays, furniture, etc if the player did not meet the rank requirement.\nAdded a command to open the SkyBlock advent calendar, /sbadvent\nPotion Effects\n\nAdded a sort option to the Active Effects Menu.\nAdded a filter option to the Toggle Potion Effects Menu.\nFixed Night Vision effect sometimes disappearing from the Active Effects Menu.\nOther\n\nFixed some Bingo goal typos.\nFixed an issue where Fire Sale previews would stick around longer than they should've.\n\nIf you have a bug to report to us, please make a report HERE! Thanks to everyone who has reported bugs!1",
             "link": "https://hypixel.net/threads/december-7-skyblock-patch-notes.5552875/"
         },
