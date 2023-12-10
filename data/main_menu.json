@@ -10,6 +10,12 @@
     "prank_sound": false,
     "announcements": [
         {
+            "name": "This announcement was made with a bot",
+            "date": "09 December 2023",
+            "description": "Hey guys! I'm just creating an announcement with a bot",
+            "link": "www.github.com/PartlySaneStudios/partly-sane-skies"
+        },
+        {
             "name": "This announcement was added with a bot",
             "date": "08 December 2023",
             "description": "Woahhh this is soo cool look at this",
