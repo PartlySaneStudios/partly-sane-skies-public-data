@@ -10,52 +10,16 @@
     "prank_sound": false,
     "announcements": [
         {
-            "name": "[December 7] SkyBlock Patch Notes",
-            "date": "today",
-            "description": "Hi! We have rolled another small SkyBlock patch today, mostly containing fixes to the Advent Calendar.",
-            "link": "https://hypixel.net/threads/december-7-skyblock-patch-notes.5552875/"
-        },
-        {
-            "name": "[December 7] SkyBlock Patch Notes",
-            "date": "today",
-            "description": "Hi!\nWe have rolled another small SkyBlock patch today, mostly containing fixes to the Advent Calendar.",
-            "link": "https://hypixel.net/threads/december-7-skyblock-patch-notes.5552875/"
-        },
-        {
-            "name": "[December 7] SkyBlock Patch Notes",
-            "date": "today",
-            "description": "i",
-            "link": "https://hypixel.net/threads/december-7-skyblock-patch-notes.5552875/"
-        },
-        {
-            "name": "[December 7] SkyBlock Patch Notes",
-            "date": "today",
-            "description": "Hi!1",
-            "link": "https://hypixel.net/threads/december-7-skyblock-patch-notes.5552875/"
-        },
-        {
-            "name": "[December 7] SkyBlock Patch Notes",
-            "date": "today",
-            "description": "Hi!\nWe have rolled another small SkyBlock patch today, mostly containing fixes to the Advent Calendar.\n\nAdvent Calendar\n\nFixed past days being unclaimable when it was the 1st gift bundle, or the player had met the requirements for that day and just didn't claim it.\nMade already claimed rewards in each bundle more clear.\nMade the required rank show for sprays, furniture, etc if the player did not meet the rank requirement.\nAdded a command to open the SkyBlock advent calendar, /sbadvent\nPotion Effects\n\nAdded a sort option to the Active Effects Menu.\nAdded a filter option to the Toggle Potion Effects Menu.\nFixed Night Vision effect sometimes disappearing from the Active Effects Menu.\nOther\n\nFixed some Bingo goal typos.\nFixed an issue where Fire Sale previews would stick around longer than they should've.\n\nIf you have a bug to report to us, please make a report HERE! Thanks to everyone who has reported bugs!1",
-            "link": "https://hypixel.net/threads/december-7-skyblock-patch-notes.5552875/"
-        },
-        {
-            "name": "[December 7] SkyBlock Patch Notes",
-            "date": "today",
-            "description": "[December 7] SkyBlock Patch Notes1",
-            "link": "https://hypixel.net/threads/december-7-skyblock-patch-notes.5552875/"
+            "name": "Patch Notes 0.19.9 - Pet Training and Bestiary Changes",
+            "description": "Hello! Welcome to SkyBlock Patch 0.19.9. Today's update includes Pet Care, some Bestiary improvements, new items, and more!",
+            "date": "12 December 2023",
+            "link": "https://hypixel.net/threads/skyblock-patch-notes-0-19-9-pet-training-and-bestiary-changes.5555803/"
         },
         {
             "name": "[December 5] SkyBlock Patch Notes",
             "description": "Hey all! We are here to inform you about the latest update that was just rolled to SkyBlock!",
             "date": "5 December 2023",
             "link": "https://hypixel.net/threads/december-5-skyblock-patch-notes.5551629/"
-        },
-        {
-            "name": "Patch Notes 0.19.8 - Winter Update and Secret Bingo",
-            "description": "Hello! Welcome to SkyBlock Patch 0.19.8. Today's update contains a new Advent Calendar, new gifting rewards on Jerry’s Workshop, Secret Bingo, several bug fixes, and more!",
-            "date": "28 November 2023",
-            "link": "https://hypixel.net/threads/skyblock-patch-notes-0-19-8-winter-update-and-secret-bingo.5547064/"
         }
     ]
 }
