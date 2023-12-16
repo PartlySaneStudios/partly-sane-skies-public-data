@@ -301,6 +301,13 @@
             "versions": {
                 "1.0.2": "3f4909158853e062e4a4cf4687f1ba014f45f0863221460fe874b5d884e0cf4d"
             }
+        },
+        "damagetilt": {
+            "name": "Damage Tilt",
+            "download": "https://www.curseforge.com/minecraft/mc-mods/damage-tilt",
+            "versions": {
+                "1.8.9-0.2.0-clientonly": "51d9d0af71eca71ef2a486580089bf56c34284bcfeb76c9110f80ab14e6ed67e"
+            }
         }
     }
 }
