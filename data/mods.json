@@ -531,6 +531,13 @@
             "versions": {
                 "1.0": "5638aabf6a3f59b0739065191d35e55384dcfae68895d0eee6649afcd9b0e066"
             }
+        },
+        "wyvtils": {
+            "name": "Wyvtils",
+            "download": "https://github.com/Wyvest/Wyvtils/releases",
+            "versions": {
+                "2.0.0": "269c15619b471c6be4d7d7b111ed0b110e8e4b36669d6232fa71f21bd966a75a"
+            }
         }
     }
 }
