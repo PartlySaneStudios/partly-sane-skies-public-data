@@ -489,6 +489,13 @@
             "versions": {
                 "3.1.1": "1ec3e5d27a9cab610ba539ee9c0cffd4d223e95b27aed7288c4755db20d39303"
             }
+        },
+        "refractionoof": {
+            "name": "OofMod",
+            "download": "https://www.sk1er.club/mods/refractionoof",
+            "versions": {
+                "3.0": "9ecf4e8eeaf7d15127c64fae1e3597f2901ead13f60e6deac0c610a97c1d9f90"
+            }
         }
     }
 }
