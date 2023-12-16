@@ -420,6 +420,13 @@
             "versions": {
                 "1.3.7": "055a3f5721ab7c8c10247437d760ed8721b21c7fdc01da245728bb1eef8a73d6"
             }
+        },
+        "behindyouv3": {
+            "name": "BehindYouV3",
+            "download": "https://modrinth.com/mod/behindyou",
+            "versions": {
+                "3.1.2": "e83eb73b4f577250dafbe5c21a92dcab77eb77b91330827b6793d3f90d9116a6"
+            }
         }
     }
 }
