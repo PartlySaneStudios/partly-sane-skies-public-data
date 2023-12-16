@@ -1,292 +1,290 @@
 {
+  "mods": {
     "fancywarpmenu": {
-        "name": "Fancy Warp Menu",
-        "download": "https://github.com/ILikePlayingGames/FancyWarpMenu",
-        "versions": {
-            "0.8.0.69": "685e3234864170a433dd6717635170562a40d920f83f927a6ecfa228ae957e0d",
-            "1.0+96": "4c118847291d8a4e6a521664d4c3ebff761d1a5ce65996bb30f5e994a192a339"
-        }
+      "name": "Fancy Warp Menu",
+      "download": "https://github.com/ILikePlayingGames/FancyWarpMenu",
+      "versions": {
+        "0.8.0.69": "685e3234864170a433dd6717635170562a40d920f83f927a6ecfa228ae957e0d",
+        "1.0+96": "4c118847291d8a4e6a521664d4c3ebff761d1a5ce65996bb30f5e994a192a339"
+      }
     },
     "smoothfont": {
-        "name": "Smooth Font",
-        "download": "https://legacy.curseforge.com/minecraft/mc-mods/smooth-font/files/all",
-        "versions": {
-            "1.8.9-1.15.2": "b0e057451f09f732759e161366abe188c04da25b126695184aa865df15b28098"
-        }
+      "name": "Smooth Font",
+      "download": "https://legacy.curseforge.com/minecraft/mc-mods/smooth-font/files/all",
+      "versions": {
+        "1.8.9-1.15.2": "b0e057451f09f732759e161366abe188c04da25b126695184aa865df15b28098"
+      }
     },
     "Forge": {
-        "name": "Minecraft Forge",
-        "download": "https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html",
-        "versions": {
-            "11.15.1.2318": "596512ad5f12f95d8a3170321543d4455d23b8fe649c68580c5f828fe74f6668",
-            "11.15.1.2318-SkyClient": "596512ad5f12f95d8a3170321543d4455d23b8fe649c68580c5f828fe74f6668"
-        }
+      "name": "Minecraft Forge",
+      "download": "https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html",
+      "versions": {
+        "11.15.1.2318": "596512ad5f12f95d8a3170321543d4455d23b8fe649c68580c5f828fe74f6668",
+        "11.15.1.2318-SkyClient": "596512ad5f12f95d8a3170321543d4455d23b8fe649c68580c5f828fe74f6668"
+      }
     },
     "essential": {
-        "name": "Essential",
-        "download": "https://essential.gg/",
-        "versions": {
-            "1.0.0-13428": "a70c02554a96faff60647eb204652a20b5551798506f1e4c0970daef401f782e"
-        }
+      "name": "Essential",
+      "download": "https://essential.gg/",
+      "versions": {
+        "1.0.0-13428": "a70c02554a96faff60647eb204652a20b5551798506f1e4c0970daef401f782e"
+      }
     },
     "oneconfig": {
-        "name": "OneConfig",
-        "download": "https://github.com/Polyfrost/OneConfig",
-        "versions": {
-            "0.2.1-alpha181": "004fc41df0eaa5e5e5cdc1e50f66f3b7b85ab85b03b453898db97726e43dc472"
-        }
+      "name": "OneConfig",
+      "download": "https://github.com/Polyfrost/OneConfig",
+      "versions": {
+        "0.2.1-alpha181": "004fc41df0eaa5e5e5cdc1e50f66f3b7b85ab85b03b453898db97726e43dc472"
+      }
     },
     "OneCore by OneConfig": {
-        "name": "OneCore by OneConfig",
-        "download": "https://github.com/Polyfrost/OneConfig",
-        "versions": {
-            "1.3.4": "7b0a95bbe06a49c3acf3fb63dccc5c65b5317f4b912477245dea24d52de605f2"
-        }
+      "name": "OneCore by OneConfig",
+      "download": "https://github.com/Polyfrost/OneConfig",
+      "versions": {
+        "1.3.4": "7b0a95bbe06a49c3acf3fb63dccc5c65b5317f4b912477245dea24d52de605f2"
+      }
     },
     "ChatTriggers": {
-        "name": "ChatTriggers",
-        "download": "https://www.chattriggers.com/",
-        "versions": {
-            "2.2.0": "3b077d3e99eb714d13e76826d75929807e8ab582023c59bc405d4bad67193254"
-        }
+      "name": "ChatTriggers",
+      "download": "https://www.chattriggers.com/",
+      "versions": {
+        "2.2.0": "3b077d3e99eb714d13e76826d75929807e8ab582023c59bc405d4bad67193254"
+      }
     },
     "NotEnoughUpdates": {
-        "name": "NotEnoughUpdates",
-        "download": "https://github.com/NotEnoughUpdates/NotEnoughUpdates",
-        "versions": {
-            "2.1.1+Alpha-23.e9c3bbb": "945e90438a1e9925d8ea4dbe5ecd8efa5bd3f57d71953bbe2855c158df8903e00"
-        }
+      "name": "NotEnoughUpdates",
+      "download": "https://github.com/NotEnoughUpdates/NotEnoughUpdates",
+      "versions": {
+        "2.1.1+Alpha-23.e9c3bbb": "945e90438a1e9925d8ea4dbe5ecd8efa5bd3f57d71953bbe2855c158df8903e00"
+      }
     },
     "Patcher": {
-        "name": "Patcher",
-        "download": "https://sk1er.club/mods/patcher",
-        "versions": {
-            "1.8.6": "4a134770967bf18c91345d39f70f49373adfcbce9a4adc8d3f4116c44f1ad3a9",
-            "1.8.7": "0c61939fbd472f96c02c40bd77ef447c5719fecbb52c0a40eb90aaf198e7dd34"
-        }
+      "name": "Patcher",
+      "download": "https://sk1er.club/mods/patcher",
+      "versions": {
+        "1.8.6": "4a134770967bf18c91345d39f70f49373adfcbce9a4adc8d3f4116c44f1ad3a9",
+        "1.8.7": "0c61939fbd472f96c02c40bd77ef447c5719fecbb52c0a40eb90aaf198e7dd34"
+      }
     },
     "SkyblockAddons": {
-        "name": "SkyblockAddons",
-        "download": "https://github.com/BiscuitDevelopment/SkyblockAddons",
-        "versions": {
-            "1.7.0": "d78b8b7d8e11bf3dcfa6bc0e11ff5828ae160f5fa67de4bd344cbb7b91cf2fb4"
-        }
+      "name": "SkyblockAddons",
+      "download": "https://github.com/BiscuitDevelopment/SkyblockAddons",
+      "versions": {
+        "1.7.0": "d78b8b7d8e11bf3dcfa6bc0e11ff5828ae160f5fa67de4bd344cbb7b91cf2fb4"
+      }
     },
     "SkyHanni": {
-        "name": "SkyHanni",
-        "download": "https://github.com/hannibal002/SkyHanni",
-        "versions": {
-            "0.20": "9053dfb1b572f96283bcf461bdb09e8779dcfe67d291c558585e86a28f4349cf",
-            "0.21.Beta.12": "f7514c894fe647873026d5e227327b181ccbfef7be433828b6eaeacdb1378395"
-        }
+      "name": "SkyHanni",
+      "download": "https://github.com/hannibal002/SkyHanni",
+      "versions": {
+        "0.20": "9053dfb1b572f96283bcf461bdb09e8779dcfe67d291c558585e86a28f4349cf",
+        "0.21.Beta.12": "f7514c894fe647873026d5e227327b181ccbfef7be433828b6eaeacdb1378395"
+      }
     },
     "Skytils": {
-        "name": "Skytils",
-        "download": "https://github.com/Skytils/SkytilsMod",
-        "versions": {
-            "1.7.8": "bed2f299f5acebc4c1fbbc1a753d351a518b1ce8944be87403db73ff298fc778"
-        }
+      "name": "Skytils",
+      "download": "https://github.com/Skytils/SkytilsMod",
+      "versions": {
+        "1.7.8": "bed2f299f5acebc4c1fbbc1a753d351a518b1ce8944be87403db73ff298fc778"
+      }
     },
     "SoopyV2Forge": {
-        "name": "SoopyV2Forge",
-        "download": "https://github.com/Soopyboo32/SoopyV2",
-        "versions": {
-            "1.1": "9623d49290b41f9d271bc3c53a69a48e77eda323614e92fc73ba288ff3a648f3"
-        }
+      "name": "SoopyV2Forge",
+      "download": "https://github.com/Soopyboo32/SoopyV2",
+      "versions": {
+        "1.1": "9623d49290b41f9d271bc3c53a69a48e77eda323614e92fc73ba288ff3a648f3"
+      }
     },
     "spark": {
-        "name": "Spark",
-        "download": "https://github.com/nea89o/spark",
-        "versions": {
-            "1.10.37+nea": "477a2ecf0b53e2d9d9d5b620a2d7177e81c4204055126e608d8e89d9647887be"
-        }
+      "name": "Spark",
+      "download": "https://github.com/nea89o/spark",
+      "versions": {
+        "1.10.37+nea": "477a2ecf0b53e2d9d9d5b620a2d7177e81c4204055126e608d8e89d9647887be"
+      }
     },
     "Dulkir Mod": {
-        "name": "Dulkir Mod",
-        "download": "https://github.com/inglettronald/DulkirMod",
-        "versions": {
-            "1.2.6": "e6274e5392e72ed4064401b7142861337a08442c0ad451bd32f45a8fa57cee15"
-        }
+      "name": "Dulkir Mod",
+      "download": "https://github.com/inglettronald/DulkirMod",
+      "versions": {
+        "1.2.6": "e6274e5392e72ed4064401b7142861337a08442c0ad451bd32f45a8fa57cee15"
+      }
     },
     "SkyblockPersonalized": {
-        "name": "Skyblock Personalized",
-        "download": "https://github.com/Cobble8/SkyblockPersonalized",
-        "versions": {
-            "1.7.0.0": "bbc5e22d659b761d903fdd0e3be6c68e1bd1445a8831f8636c0331759b571519"
-        }
+      "name": "Skyblock Personalized",
+      "download": "https://github.com/Cobble8/SkyblockPersonalized",
+      "versions": {
+        "1.7.0.0": "bbc5e22d659b761d903fdd0e3be6c68e1bd1445a8831f8636c0331759b571519"
+      }
     },
     "Apec": {
-        "name": "Apec",
-        "download": "https://github.com/BananaFructa/Apec",
-        "versions": {
-            "1.11.6": "6c494a24f8d6c2ec1ceab2d5b9dac207acbbc980648e6414d00e52d6fae0cd5f"
-        }
+      "name": "Apec",
+      "download": "https://github.com/BananaFructa/Apec",
+      "versions": {
+        "1.11.6": "6c494a24f8d6c2ec1ceab2d5b9dac207acbbc980648e6414d00e52d6fae0cd5f"
+      }
     },
     "BazaarNotifier": {
-        "name": "BazaarNotifier",
-        "download": "https://github.com/symt/BazaarNotifier",
-        "versions": {
-            "1.6.1": "d4fe6e0755c7f545b27bbd90e65e1cad7f523405058af34c407e9c7a8c82e79b"
-        }
+      "name": "BazaarNotifier",
+      "download": "https://github.com/symt/BazaarNotifier",
+      "versions": {
+        "1.6.1": "d4fe6e0755c7f545b27bbd90e65e1cad7f523405058af34c407e9c7a8c82e79b"
+      }
     },
     "Dungeon Rooms Mod": {
-        "name": "Dungeon Rooms Mod",
-        "download": "https://github.com/Quantizr/DungeonRoomsMod",
-        "versions": {
-            "3.4.0": "f9e8345be0413ceb957fa4429144e960000d86278903c8315a4eafe87cfaafda"
-        }
+      "name": "Dungeon Rooms Mod",
+      "download": "https://github.com/Quantizr/DungeonRoomsMod",
+      "versions": {
+        "3.4.0": "f9e8345be0413ceb957fa4429144e960000d86278903c8315a4eafe87cfaafda"
+      }
     },
     "Hytils Reborn": {
-        "name": "Hytils Reborn",
-        "download": "https://github.com/Polyfrost/Hytils-Reborn",
-        "versions": {
-            "1.5.0": "3bec56269402f3444e497a1bd5bbb969254c5234639205847c941c0c6523e18d"
-        }
+      "name": "Hytils Reborn",
+      "download": "https://github.com/Polyfrost/Hytils-Reborn",
+      "versions": {
+        "1.5.0": "3bec56269402f3444e497a1bd5bbb969254c5234639205847c941c0c6523e18d"
+      }
     },
     "Danker's Skyblock Mod": {
-        "name": "Danker's Skyblock Mod",
-        "download": "https://github.com/bowser0000/SkyblockMod",
-        "versions": {
-            "1.9": "8bd5a505c5d98135dd7ee622d74ed0960870d238ab51354a3b52a7d8aadeab08",
-            "2.1": "905819c9c65d4bebb64133e428de2ed2b4f0097475d014bee037a96ae65a7921"
-        }
+      "name": "Danker's Skyblock Mod",
+      "download": "https://github.com/bowser0000/SkyblockMod",
+      "versions": {
+        "1.9": "8bd5a505c5d98135dd7ee622d74ed0960870d238ab51354a3b52a7d8aadeab08",
+        "2.1": "905819c9c65d4bebb64133e428de2ed2b4f0097475d014bee037a96ae65a7921"
+      }
     },
     "Skyblock Hud": {
-        "name": "Skyblock HUD",
-        "download": "https://github.com/nea89o/SkyblockHud-Death-Defied",
-        "versions": {
-            "1.17.1+nea": "efa18b398f25505331b79b3622f0f1ce10f677867dfcab741f3188a7e3be9926"
-        }
+      "name": "Skyblock HUD",
+      "download": "https://github.com/nea89o/SkyblockHud-Death-Defied",
+      "versions": {
+        "1.17.1+nea": "efa18b398f25505331b79b3622f0f1ce10f677867dfcab741f3188a7e3be9926"
+      }
     },
     "SkyGuide": {
-        "name": "Skyguide",
-        "download": "https://modrinth.com/mod/skyguide",
-        "versions": {
-            "1.2.1": "6d482772aca1a309be6ef3a63a3caf7372ca4ef8ae702b667e7f16e3ac20bb29",
-            "1.3.0": "17f41b34bd60a01fac342a7aed00cdae80af616c89fae00d39f69793173f3780"
-        }
+      "name": "Skyguide",
+      "download": "https://modrinth.com/mod/skyguide",
+      "versions": {
+        "1.2.1": "6d482772aca1a309be6ef3a63a3caf7372ca4ef8ae702b667e7f16e3ac20bb29",
+        "1.3.0": "17f41b34bd60a01fac342a7aed00cdae80af616c89fae00d39f69793173f3780"
+      }
     },
     "Dungeons Guide": {
-        "name": "Dungeon's Guide",
-        "download": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide",
-        "versions": {
-            "4.0.0": "aec8bedcee875a2a277b4fadad2ace2592d9856f276487e3f4caabf78b78dcaf"
-        }
+      "name": "Dungeon's Guide",
+      "download": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide",
+      "versions": {
+        "4.0.0": "aec8bedcee875a2a277b4fadad2ace2592d9856f276487e3f4caabf78b78dcaf"
+      }
     },
     "Cowlection": {
-        "name": "Cowlection",
-        "download": "https://github.com/cow-mc/Cowlection",
-        "versions": {
-            "1.8.9-0.16.0": "9d843ccce2842e5872aa053d7b42e3b08b31dd3ac9e280654b6bf0a8a099995c"
-        }
+      "name": "Cowlection",
+      "download": "https://github.com/cow-mc/Cowlection",
+      "versions": {
+        "1.8.9-0.16.0": "9d843ccce2842e5872aa053d7b42e3b08b31dd3ac9e280654b6bf0a8a099995c"
+      }
     },
     "CrashPatch": {
-        "name": "CrashPatch",
-        "download": "https://github.com/Polyfrost/CrashPatch",
-        "versions": {
-            "1.4.0": "17d7055778f912b87c39aa0991c1f3816b6d6e3a504e9101817956412aabb416"
-        }
+      "name": "CrashPatch",
+      "download": "https://github.com/Polyfrost/CrashPatch",
+      "versions": {
+        "1.4.0": "17d7055778f912b87c39aa0991c1f3816b6d6e3a504e9101817956412aabb416"
+      }
     },
     "Sk1er Old Animations": {
-        "name": "Sk1er Old Animations",
-        "download": "https://github.com/Sk1erLLC/OldAnimations",
-        "versions": {
-            "0.2.0": "8b02f7dcb3248966cd3919d3880102eeb8c1b58e60bc36cc9c44a180ba2e8a43"
-        }
+      "name": "Sk1er Old Animations",
+      "download": "https://github.com/Sk1erLLC/OldAnimations",
+      "versions": {
+        "0.2.0": "8b02f7dcb3248966cd3919d3880102eeb8c1b58e60bc36cc9c44a180ba2e8a43"
+      }
     },
     "OverflowAnimations": {
-        "name": "OverflowAnimations",
-        "download": "https://github.com/Polyfrost/OverflowAnimationsV2",
-        "versions": {
-            "1.1.0": "f53225a81b54e3b7d231b865a32e2314d4864806901f46a16befa5e33be93fab"
-        }
+      "name": "OverflowAnimations",
+      "download": "https://github.com/Polyfrost/OverflowAnimationsV2",
+      "versions": {
+        "1.1.0": "f53225a81b54e3b7d231b865a32e2314d4864806901f46a16befa5e33be93fab"
+      }
     },
     "SkyClient Updater": {
-        "name": "SkyClient Updater",
-        "download": "https://github.com/SkyblockClient/SkyblockClient-Updater",
-        "versions": {
-            "1.3.2": "0062913fea649050e6e47750627d592e2dc03cff9f112b45bcfee79e4c66e498"
-        }
+      "name": "SkyClient Updater",
+      "download": "https://github.com/SkyblockClient/SkyblockClient-Updater",
+      "versions": {
+        "1.3.2": "0062913fea649050e6e47750627d592e2dc03cff9f112b45bcfee79e4c66e498"
+      }
     },
     "SkyClientCosmetics": {
-        "name": "SkyClient Cosmetics",
-        "download": "https://github.com/SkyblockClient/Skyclient-Cosmetics",
-        "versions": {
-            "1.1.13": "4947bcaf3ea210dddc21cbb47e575fd0ce579cb764cc4021978a4dc6b0eeda5b"
-        }
+      "name": "SkyClient Cosmetics",
+      "download": "https://github.com/SkyblockClient/Skyclient-Cosmetics",
+      "versions": {
+        "1.1.13": "4947bcaf3ea210dddc21cbb47e575fd0ce579cb764cc4021978a4dc6b0eeda5b"
+      }
     },
     "Synthesis": {
-        "name": "Synthesis",
-        "download": "https://github.com/SynthesisMod/Synthesis",
-        "versions": {
-            "0.3.1": "a3f3701330101dd884da4bd99056b160606c77a87781de9008b3c04d3416023d"
-        }
+      "name": "Synthesis",
+      "download": "https://github.com/SynthesisMod/Synthesis",
+      "versions": {
+        "0.3.1": "a3f3701330101dd884da4bd99056b160606c77a87781de9008b3c04d3416023d"
+      }
     },
     "Scatha-Pro": {
-        "name": "Scatha-Pro",
-        "download": "https://github.com/NamelessJu/Scatha-Pro",
-        "versions": {
-            "1.2.3.1": "9df8f87103f2f498ee9fdbfeac7b9f58c2f054e5fcd6f1583959c8c9dca9c50b"
-        }
+      "name": "Scatha-Pro",
+      "download": "https://github.com/NamelessJu/Scatha-Pro",
+      "versions": {
+        "1.2.3.1": "9df8f87103f2f498ee9fdbfeac7b9f58c2f054e5fcd6f1583959c8c9dca9c50b"
+      }
     },
     "Scrollable Tooltips": {
-        "name": "Scrollable Tooltips",
-        "download": "https://sk1er.club/mods/text_overflow_scroll",
-        "versions": {
-            "1.4.0": "0f1fdcc3cafbd4c2d44e5b015ed62b015a04e2a93f7a61c866f1248ac104fd25"
-        }
+      "name": "Scrollable Tooltips",
+      "download": "https://sk1er.club/mods/text_overflow_scroll",
+      "versions": {
+        "1.4.0": "0f1fdcc3cafbd4c2d44e5b015ed62b015a04e2a93f7a61c866f1248ac104fd25"
+      }
     },
     "SimpleToggleSprint": {
-        "name": "SimpleToggleSprint",
-        "download": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint",
-        "versions": {
-            "2.2.0": "7c69e59c00d11a36b6a59e534a6aaf945992b688b7706220703dd57ff2e06785"
-        }
+      "name": "SimpleToggleSprint",
+      "download": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint",
+      "versions": {
+        "2.2.0": "7c69e59c00d11a36b6a59e534a6aaf945992b688b7706220703dd57ff2e06785"
+      }
     },
     "Skyblock Utils": {
-        "name": "Skyblock Utils",
-        "download": "https://github.com/mastermindgolem/SkyBlock-Utils",
-        "versions": {
-            "1.0.4": "a17b72cce63a90b8d3f061449f9de0089d79f5097660cbfeef9b2bb71512779d"
-        }
+      "name": "Skyblock Utils",
+      "download": "https://github.com/mastermindgolem/SkyBlock-Utils",
+      "versions": {
+        "1.0.4": "a17b72cce63a90b8d3f061449f9de0089d79f5097660cbfeef9b2bb71512779d"
+      }
     },
     "SomeWaterSolver": {
-        "name": "SomeWater Solver",
-        "download": "https://github.com/Desco1/WaterSolver",
-        "versions": {
-            "1.0": "3323a8355947254b92a108601c8314ab8981cb196b12e93a2c185bf9bb9cb8a6"
-        }
+      "name": "SomeWater Solver",
+      "download": "https://github.com/Desco1/WaterSolver",
+      "versions": {
+        "1.0": "3323a8355947254b92a108601c8314ab8981cb196b12e93a2c185bf9bb9cb8a6"
+      }
     },
     "VolcAddons": {
-        "name": "VolcAddons",
-        "download": "https://github.com/zhenga8533/VolcAddons",
-        "versions": {
-            "1.0": "7a6ce55856c83d4ec8e734c5c036cc2bf036cb3009ba3c83d8355145ea48e4da"
-        }
+      "name": "VolcAddons",
+      "download": "https://github.com/zhenga8533/VolcAddons",
+      "versions": {
+        "1.0": "7a6ce55856c83d4ec8e734c5c036cc2bf036cb3009ba3c83d8355145ea48e4da"
+      }
     },
     "Controls Saved": {
-        "name": "Controls Saved",
-        "download": "https://hypixel.net/threads/forge-1-8-9-controls-saved-–-save-controls-as-presets.2010689/",
-        "versions": {
-            "1.0.0.2": "5771a46dc3db4c4cdef4f6221e9e0975628090304acaca1f1ac52d22fb72c33a"
-        }
+      "name": "Controls Saved",
+      "download": "https://hypixel.net/threads/forge-1-8-9-controls-saved-–-save-controls-as-presets.2010689/",
+      "versions": {
+        "1.0.0.2": "5771a46dc3db4c4cdef4f6221e9e0975628090304acaca1f1ac52d22fb72c33a"
+      }
     },
     "Report Plus": {
-        "name": "Report Plus",
-        "download": "https://github.com/ThatGravyBoat/ReportPlus",
-        "versions": {
-            "1.0.0": "03eb83b3c6a655d1b8c97026ee2377278232201d12560c91cb1c7a800fc13614"
-        }
+      "name": "Report Plus",
+      "download": "https://github.com/ThatGravyBoat/ReportPlus",
+      "versions": {
+        "1.0.0": "03eb83b3c6a655d1b8c97026ee2377278232201d12560c91cb1c7a800fc13614"
+      }
     },
     "SkyblockExtras": {
-        "name": "SkyblockExtras",
-        "download": "https://sbewebsite.appspot.com",
-        "versions": {
-            "2.2.0-pre16": "616c701a02d2eccf436bbcf6a544e85097d0cfb64c14234a4fa761e23671c38b"
-        }
-    },
-    "partlysaneskies": {
-        "name": "Partly Sane Skies",
-        "download": "test"
+      "name": "SkyblockExtras",
+      "download": "https://sbewebsite.appspot.com",
+      "versions": {
+        "2.2.0-pre16": "616c701a02d2eccf436bbcf6a544e85097d0cfb64c14234a4fa761e23671c38b"
+      }
     }
+  }
 }
