@@ -343,6 +343,13 @@
             "versions": {
                 "7.0.0.2": "e88312bde2cd50a53f0d8eaa04afe82026cf45709ab4a35905473e695285a70c"
             }
+        },
+        "popup_events": {
+            "name": "Popup Events",
+            "download": "https://sk1er.club/mods/popup_events",
+            "versions": {
+                "LOCAL": "20de96eace9b3c5334fd38ee04cd026207ad239a54eed5c959dae6c8ef47fbc6"
+            }
         }
     }
 }
