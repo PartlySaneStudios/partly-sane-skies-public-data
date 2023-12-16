@@ -427,6 +427,13 @@
             "versions": {
                 "3.1.2": "e83eb73b4f577250dafbe5c21a92dcab77eb77b91330827b6793d3f90d9116a6"
             }
+        },
+        "keystrokesmod": {
+            "name": "KeystrokesMod",
+            "download": "https://sk1er.club/mods/keystrokesmod",
+            "versions": {
+                "LOCAL": "06bb0915ea3f16d3d821009b9fc46ba9abfe1e23bdebd56e75763c192074d5e2"
+            }
         }
     }
 }
