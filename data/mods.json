@@ -434,6 +434,13 @@
             "versions": {
                 "LOCAL": "06bb0915ea3f16d3d821009b9fc46ba9abfe1e23bdebd56e75763c192074d5e2"
             }
+        },
+        "polyfrostkeystrokes": {
+            "name": "Keystrokes",
+            "download": "https://modrinth.com/mod/keystrokes",
+            "versions": {
+                "1.0.0": "a2b25adcecc9c84feb914ba1b81ce36da74d8e9f0d4a8a227cc131d5479e9ab0"
+            }
         }
     }
 }
