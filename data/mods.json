@@ -524,6 +524,13 @@
             "versions": {
                 "4.0.3": "aff707afe762957e7bcddff9dbe3ff9a19da5a63364c550b4c91497ae7dc72d5"
             }
+        },
+        "skywars-sorter": {
+            "name": "Skywars Sorter",
+            "download": "https://github.com/NopoTheGamer/skywars-inv-sorter/releases",
+            "versions": {
+                "1.0": "5638aabf6a3f59b0739065191d35e55384dcfae68895d0eee6649afcd9b0e066"
+            }
         }
     }
 }
