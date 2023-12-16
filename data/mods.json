@@ -290,5 +290,9 @@
     "undefined": {
         "name": "Partly Sane Skies",
         "download": "test"
+    },
+    "partlysaneskies": {
+        "name": "Partly Sane Skies",
+        "download": "test"
     }
 }
