@@ -21,6 +21,15 @@
                 "LOCAL": "0f1fdcc3cafbd4c2d44e5b015ed62b015a04e2a93f7a61c866f1248ac104fd25",
                 "1.2": "0a203853fad22d9685698dd14d3351fe3b08bf63e37a78aab5bf06ec8c12af06"
             }
+        },
+        "evergreenhud": {
+            "name": "EvergreenHUD",
+            "download": "https://modrinth.com/mod/evergreenhud/",
+            "versions": {
+                "LOCAL": "0f1fdcc3cafbd4c2d44e5b015ed62b015a04e2a93f7a61c866f1248ac104fd25",
+                "1.2": "0a203853fad22d9685698dd14d3351fe3b08bf63e37a78aab5bf06ec8c12af06",
+                "2.1.0": "711872a0a3c4bc51a11bfcb53e7dc8c1fbbbeca2182a5f220230beebec24aa35"
+            }
         }
     }
 }
