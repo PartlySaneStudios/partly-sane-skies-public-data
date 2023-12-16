@@ -448,6 +448,12 @@
             "versions": {
                 "1.0-beta-2": "f48a8e3cd90490bd8d3d04a0a69395c957adc63a8c023ae2b3a32a9e02d23436"
             }
+        },
+        "notsoessential": {
+            "download": "https://github.com/Scherso/NotSoEssential",
+            "versions": {
+                "1.0.3": "e2acae749c7fc68de2ccfd681744e3fb846f14957c99e3a02690bf3c5de6c3cd"
+            }
         }
     }
 }
