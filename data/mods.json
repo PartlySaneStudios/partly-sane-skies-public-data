@@ -441,6 +441,13 @@
             "versions": {
                 "1.0.0": "a2b25adcecc9c84feb914ba1b81ce36da74d8e9f0d4a8a227cc131d5479e9ab0"
             }
+        },
+        "potioneffects": {
+            "name": "Potion Effects",
+            "download": "https://github.com/Tellinq/Potion-Effects",
+            "versions": {
+                "1.0-beta-2": "f48a8e3cd90490bd8d3d04a0a69395c957adc63a8c023ae2b3a32a9e02d23436"
+            }
         }
     }
 }
