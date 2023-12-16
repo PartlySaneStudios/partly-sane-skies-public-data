@@ -315,6 +315,13 @@
             "versions": {
                 "1.2.2": "f1c774490bfeeecdb86b33df2a4a7333750fdae2baac09909d52d69fd6a98d9b"
             }
+        },
+        "chattriggers": {
+            "name": "ChatTriggers",
+            "download": "https://www.chattriggers.com/",
+            "versions": {
+                "2.2.0-1.8.9": "3b077d3e99eb714d13e76826d75929807e8ab582023c59bc405d4bad67193254"
+            }
         }
     }
 }
