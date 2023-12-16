@@ -371,6 +371,13 @@
             "versions": {
                 "2.2.0": "7c69e59c00d11a36b6a59e534a6aaf945992b688b7706220703dd57ff2e06785"
             }
+        },
+        "hypixel_auto_complete": {
+            "name": "Hypixel Autocomplete Mod",
+            "download": "https://sk1er.club/mods/hypixel_auto_complete",
+            "versions": {
+                "LOCAL": "1e55e023ba72810945732938b3b0ad19f68be2fb43625874ae6047aa85c9179d"
+            }
         }
     }
 }
