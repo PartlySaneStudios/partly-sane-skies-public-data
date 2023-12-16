@@ -545,6 +545,13 @@
             "versions": {
                 "${pluginVersion}": "00019d86715a19796f6dda8f9216427274c586ec795089c627159a1cff4a57c9"
             }
+        },
+        "autoskyblockrejoin": {
+            "name": "Auto Skyblock Rejoin",
+            "download": "https://modrinth.com/mod/autoskyblockrejoin",
+            "versions": {
+                "1.1.3": "c414b7b4001bf89c0d027efa6d70d7ce6080fa141a9f076bebe51ccf9e187055"
+            }
         }
     }
 }
