@@ -18,7 +18,6 @@
             "name": "Smooth Scrolling Everywhere",
             "download": "https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere",
             "versions": {
-                "LOCAL": "0f1fdcc3cafbd4c2d44e5b015ed62b015a04e2a93f7a61c866f1248ac104fd25",
                 "1.2": "0a203853fad22d9685698dd14d3351fe3b08bf63e37a78aab5bf06ec8c12af06"
             }
         },
@@ -26,8 +25,6 @@
             "name": "EvergreenHUD",
             "download": "https://modrinth.com/mod/evergreenhud/",
             "versions": {
-                "LOCAL": "0f1fdcc3cafbd4c2d44e5b015ed62b015a04e2a93f7a61c866f1248ac104fd25",
-                "1.2": "0a203853fad22d9685698dd14d3351fe3b08bf63e37a78aab5bf06ec8c12af06",
                 "2.1.0": "711872a0a3c4bc51a11bfcb53e7dc8c1fbbbeca2182a5f220230beebec24aa35"
             }
         },
@@ -35,9 +32,6 @@
             "name": "Insomnia",
             "download": "https://github.com/Moulberry/Insomnia/",
             "versions": {
-                "LOCAL": "0f1fdcc3cafbd4c2d44e5b015ed62b015a04e2a93f7a61c866f1248ac104fd25",
-                "1.2": "0a203853fad22d9685698dd14d3351fe3b08bf63e37a78aab5bf06ec8c12af06",
-                "2.1.0": "711872a0a3c4bc51a11bfcb53e7dc8c1fbbbeca2182a5f220230beebec24aa35",
                 "1.0-REL": "0396dd42f00a6e7f379a7c27ba3adc0fb231eaf399c2940aa5fc48b93fe1aed7"
             }
         },
@@ -45,10 +39,6 @@
             "name": "DamageTint",
             "download": "https://modrinth.com/mod/damage-tint",
             "versions": {
-                "LOCAL": "0f1fdcc3cafbd4c2d44e5b015ed62b015a04e2a93f7a61c866f1248ac104fd25",
-                "1.2": "0a203853fad22d9685698dd14d3351fe3b08bf63e37a78aab5bf06ec8c12af06",
-                "2.1.0": "711872a0a3c4bc51a11bfcb53e7dc8c1fbbbeca2182a5f220230beebec24aa35",
-                "1.0-REL": "0396dd42f00a6e7f379a7c27ba3adc0fb231eaf399c2940aa5fc48b93fe1aed7",
                 "3.3.0": "62225bb68b68d4ce97ef050a45fb3d12caff4a7c0c2bf6c63573060cbaa005cd"
             }
         },
@@ -56,11 +46,6 @@
             "name": "SkyClient Updater",
             "download": "https://github.com/SkyblockClient/SkyblockClient-Updater",
             "versions": {
-                "LOCAL": "0f1fdcc3cafbd4c2d44e5b015ed62b015a04e2a93f7a61c866f1248ac104fd25",
-                "1.2": "0a203853fad22d9685698dd14d3351fe3b08bf63e37a78aab5bf06ec8c12af06",
-                "2.1.0": "711872a0a3c4bc51a11bfcb53e7dc8c1fbbbeca2182a5f220230beebec24aa35",
-                "1.0-REL": "0396dd42f00a6e7f379a7c27ba3adc0fb231eaf399c2940aa5fc48b93fe1aed7",
-                "3.3.0": "62225bb68b68d4ce97ef050a45fb3d12caff4a7c0c2bf6c63573060cbaa005cd",
                 "1.3.5": "d17fa4c2c3f65cb904f9fd4f82fb80fcab124a338d9bc8093392cc8a614ace72"
             }
         },
@@ -68,12 +53,6 @@
             "name": "SkyClientCosmetics",
             "download": "https://github.com/SkyblockClient/Skyclient-Cosmetics/",
             "versions": {
-                "LOCAL": "0f1fdcc3cafbd4c2d44e5b015ed62b015a04e2a93f7a61c866f1248ac104fd25",
-                "1.2": "0a203853fad22d9685698dd14d3351fe3b08bf63e37a78aab5bf06ec8c12af06",
-                "2.1.0": "711872a0a3c4bc51a11bfcb53e7dc8c1fbbbeca2182a5f220230beebec24aa35",
-                "1.0-REL": "0396dd42f00a6e7f379a7c27ba3adc0fb231eaf399c2940aa5fc48b93fe1aed7",
-                "3.3.0": "62225bb68b68d4ce97ef050a45fb3d12caff4a7c0c2bf6c63573060cbaa005cd",
-                "1.3.5": "d17fa4c2c3f65cb904f9fd4f82fb80fcab124a338d9bc8093392cc8a614ace72",
                 "1.1.14": "434703ce3d04ee9dbeb4dc2bfb9ba946dcb4249b7fe586fa68f7f60b4038ffdb"
             }
         },
@@ -81,13 +60,6 @@
             "name": "Patcher",
             "download": "https://sk1er.club/mods/patcher",
             "versions": {
-                "LOCAL": "0f1fdcc3cafbd4c2d44e5b015ed62b015a04e2a93f7a61c866f1248ac104fd25",
-                "1.2": "0a203853fad22d9685698dd14d3351fe3b08bf63e37a78aab5bf06ec8c12af06",
-                "2.1.0": "711872a0a3c4bc51a11bfcb53e7dc8c1fbbbeca2182a5f220230beebec24aa35",
-                "1.0-REL": "0396dd42f00a6e7f379a7c27ba3adc0fb231eaf399c2940aa5fc48b93fe1aed7",
-                "3.3.0": "62225bb68b68d4ce97ef050a45fb3d12caff4a7c0c2bf6c63573060cbaa005cd",
-                "1.3.5": "d17fa4c2c3f65cb904f9fd4f82fb80fcab124a338d9bc8093392cc8a614ace72",
-                "1.1.14": "434703ce3d04ee9dbeb4dc2bfb9ba946dcb4249b7fe586fa68f7f60b4038ffdb",
                 "1.8.7": "0c61939fbd472f96c02c40bd77ef447c5719fecbb52c0a40eb90aaf198e7dd34"
             }
         },
@@ -95,14 +67,6 @@
             "name": "CrashPatch",
             "download": "https://modrinth.com/mod/crashpatch",
             "versions": {
-                "LOCAL": "0f1fdcc3cafbd4c2d44e5b015ed62b015a04e2a93f7a61c866f1248ac104fd25",
-                "1.2": "0a203853fad22d9685698dd14d3351fe3b08bf63e37a78aab5bf06ec8c12af06",
-                "2.1.0": "711872a0a3c4bc51a11bfcb53e7dc8c1fbbbeca2182a5f220230beebec24aa35",
-                "1.0-REL": "0396dd42f00a6e7f379a7c27ba3adc0fb231eaf399c2940aa5fc48b93fe1aed7",
-                "3.3.0": "62225bb68b68d4ce97ef050a45fb3d12caff4a7c0c2bf6c63573060cbaa005cd",
-                "1.3.5": "d17fa4c2c3f65cb904f9fd4f82fb80fcab124a338d9bc8093392cc8a614ace72",
-                "1.1.14": "434703ce3d04ee9dbeb4dc2bfb9ba946dcb4249b7fe586fa68f7f60b4038ffdb",
-                "1.8.7": "0c61939fbd472f96c02c40bd77ef447c5719fecbb52c0a40eb90aaf198e7dd34",
                 "2.0.0": "f8b37287c4f3667b0b8cf0188a4ea6d36515fd4c19717285556fea006422c318"
             }
         },
@@ -110,15 +74,6 @@
             "name": "Hytils Reborn",
             "download": "https://github.com/Polyfrost/Hytils-Reborn",
             "versions": {
-                "LOCAL": "0f1fdcc3cafbd4c2d44e5b015ed62b015a04e2a93f7a61c866f1248ac104fd25",
-                "1.2": "0a203853fad22d9685698dd14d3351fe3b08bf63e37a78aab5bf06ec8c12af06",
-                "2.1.0": "711872a0a3c4bc51a11bfcb53e7dc8c1fbbbeca2182a5f220230beebec24aa35",
-                "1.0-REL": "0396dd42f00a6e7f379a7c27ba3adc0fb231eaf399c2940aa5fc48b93fe1aed7",
-                "3.3.0": "62225bb68b68d4ce97ef050a45fb3d12caff4a7c0c2bf6c63573060cbaa005cd",
-                "1.3.5": "d17fa4c2c3f65cb904f9fd4f82fb80fcab124a338d9bc8093392cc8a614ace72",
-                "1.1.14": "434703ce3d04ee9dbeb4dc2bfb9ba946dcb4249b7fe586fa68f7f60b4038ffdb",
-                "1.8.7": "0c61939fbd472f96c02c40bd77ef447c5719fecbb52c0a40eb90aaf198e7dd34",
-                "2.0.0": "f8b37287c4f3667b0b8cf0188a4ea6d36515fd4c19717285556fea006422c318",
                 "1.6.0": "a4716a1d7793701ecdc04d5ab638b0a17641d4bf5adb52d7672bd91a7cbe1415"
             }
         },
@@ -126,16 +81,6 @@
             "name": "Replay Mod",
             "download": "https://www.replaymod.com/download",
             "versions": {
-                "LOCAL": "0f1fdcc3cafbd4c2d44e5b015ed62b015a04e2a93f7a61c866f1248ac104fd25",
-                "1.2": "0a203853fad22d9685698dd14d3351fe3b08bf63e37a78aab5bf06ec8c12af06",
-                "2.1.0": "711872a0a3c4bc51a11bfcb53e7dc8c1fbbbeca2182a5f220230beebec24aa35",
-                "1.0-REL": "0396dd42f00a6e7f379a7c27ba3adc0fb231eaf399c2940aa5fc48b93fe1aed7",
-                "3.3.0": "62225bb68b68d4ce97ef050a45fb3d12caff4a7c0c2bf6c63573060cbaa005cd",
-                "1.3.5": "d17fa4c2c3f65cb904f9fd4f82fb80fcab124a338d9bc8093392cc8a614ace72",
-                "1.1.14": "434703ce3d04ee9dbeb4dc2bfb9ba946dcb4249b7fe586fa68f7f60b4038ffdb",
-                "1.8.7": "0c61939fbd472f96c02c40bd77ef447c5719fecbb52c0a40eb90aaf198e7dd34",
-                "2.0.0": "f8b37287c4f3667b0b8cf0188a4ea6d36515fd4c19717285556fea006422c318",
-                "1.6.0": "a4716a1d7793701ecdc04d5ab638b0a17641d4bf5adb52d7672bd91a7cbe1415",
                 "1.8.9-2.6.8": "201afaa9f1e68857ca553d0750dce23b53afe7135bd9a43060e0e38704db4b4c"
             }
         },
@@ -143,17 +88,6 @@
             "name": "Block Overlay",
             "download": "https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/",
             "versions": {
-                "LOCAL": "0f1fdcc3cafbd4c2d44e5b015ed62b015a04e2a93f7a61c866f1248ac104fd25",
-                "1.2": "0a203853fad22d9685698dd14d3351fe3b08bf63e37a78aab5bf06ec8c12af06",
-                "2.1.0": "711872a0a3c4bc51a11bfcb53e7dc8c1fbbbeca2182a5f220230beebec24aa35",
-                "1.0-REL": "0396dd42f00a6e7f379a7c27ba3adc0fb231eaf399c2940aa5fc48b93fe1aed7",
-                "3.3.0": "62225bb68b68d4ce97ef050a45fb3d12caff4a7c0c2bf6c63573060cbaa005cd",
-                "1.3.5": "d17fa4c2c3f65cb904f9fd4f82fb80fcab124a338d9bc8093392cc8a614ace72",
-                "1.1.14": "434703ce3d04ee9dbeb4dc2bfb9ba946dcb4249b7fe586fa68f7f60b4038ffdb",
-                "1.8.7": "0c61939fbd472f96c02c40bd77ef447c5719fecbb52c0a40eb90aaf198e7dd34",
-                "2.0.0": "f8b37287c4f3667b0b8cf0188a4ea6d36515fd4c19717285556fea006422c318",
-                "1.6.0": "a4716a1d7793701ecdc04d5ab638b0a17641d4bf5adb52d7672bd91a7cbe1415",
-                "1.8.9-2.6.8": "201afaa9f1e68857ca553d0750dce23b53afe7135bd9a43060e0e38704db4b4c",
                 "4.0.3": "b0caa6d09cd0f1d94d72e9ce335d2feaa4c2de111859d8981486ba53cb7bf1e9"
             }
         },
@@ -161,18 +95,6 @@
             "name": "BetterHurtCam",
             "download": "https://modrinth.com/mod/betterhurtcam",
             "versions": {
-                "LOCAL": "0f1fdcc3cafbd4c2d44e5b015ed62b015a04e2a93f7a61c866f1248ac104fd25",
-                "1.2": "0a203853fad22d9685698dd14d3351fe3b08bf63e37a78aab5bf06ec8c12af06",
-                "2.1.0": "711872a0a3c4bc51a11bfcb53e7dc8c1fbbbeca2182a5f220230beebec24aa35",
-                "1.0-REL": "0396dd42f00a6e7f379a7c27ba3adc0fb231eaf399c2940aa5fc48b93fe1aed7",
-                "3.3.0": "62225bb68b68d4ce97ef050a45fb3d12caff4a7c0c2bf6c63573060cbaa005cd",
-                "1.3.5": "d17fa4c2c3f65cb904f9fd4f82fb80fcab124a338d9bc8093392cc8a614ace72",
-                "1.1.14": "434703ce3d04ee9dbeb4dc2bfb9ba946dcb4249b7fe586fa68f7f60b4038ffdb",
-                "1.8.7": "0c61939fbd472f96c02c40bd77ef447c5719fecbb52c0a40eb90aaf198e7dd34",
-                "2.0.0": "f8b37287c4f3667b0b8cf0188a4ea6d36515fd4c19717285556fea006422c318",
-                "1.6.0": "a4716a1d7793701ecdc04d5ab638b0a17641d4bf5adb52d7672bd91a7cbe1415",
-                "1.8.9-2.6.8": "201afaa9f1e68857ca553d0750dce23b53afe7135bd9a43060e0e38704db4b4c",
-                "4.0.3": "b0caa6d09cd0f1d94d72e9ce335d2feaa4c2de111859d8981486ba53cb7bf1e9",
                 "2.2.0": "dda8b4853bcd0aa87ec210112788a6eb5943b84a591079a53ce92ae6701d625e"
             }
         },
@@ -180,19 +102,6 @@
             "name": "PolyBlur",
             "download": "https://modrinth.com/mod/polyblur",
             "versions": {
-                "LOCAL": "0f1fdcc3cafbd4c2d44e5b015ed62b015a04e2a93f7a61c866f1248ac104fd25",
-                "1.2": "0a203853fad22d9685698dd14d3351fe3b08bf63e37a78aab5bf06ec8c12af06",
-                "2.1.0": "711872a0a3c4bc51a11bfcb53e7dc8c1fbbbeca2182a5f220230beebec24aa35",
-                "1.0-REL": "0396dd42f00a6e7f379a7c27ba3adc0fb231eaf399c2940aa5fc48b93fe1aed7",
-                "3.3.0": "62225bb68b68d4ce97ef050a45fb3d12caff4a7c0c2bf6c63573060cbaa005cd",
-                "1.3.5": "d17fa4c2c3f65cb904f9fd4f82fb80fcab124a338d9bc8093392cc8a614ace72",
-                "1.1.14": "434703ce3d04ee9dbeb4dc2bfb9ba946dcb4249b7fe586fa68f7f60b4038ffdb",
-                "1.8.7": "0c61939fbd472f96c02c40bd77ef447c5719fecbb52c0a40eb90aaf198e7dd34",
-                "2.0.0": "f8b37287c4f3667b0b8cf0188a4ea6d36515fd4c19717285556fea006422c318",
-                "1.6.0": "a4716a1d7793701ecdc04d5ab638b0a17641d4bf5adb52d7672bd91a7cbe1415",
-                "1.8.9-2.6.8": "201afaa9f1e68857ca553d0750dce23b53afe7135bd9a43060e0e38704db4b4c",
-                "4.0.3": "b0caa6d09cd0f1d94d72e9ce335d2feaa4c2de111859d8981486ba53cb7bf1e9",
-                "2.2.0": "dda8b4853bcd0aa87ec210112788a6eb5943b84a591079a53ce92ae6701d625e",
                 "1.0.0": "ed0092478cd354b1a968f05c9d05860a7598d9efa48eec6e7c3cb998b9ba0c48"
             }
         },
@@ -200,21 +109,6 @@
             "name": "Raw Input",
             "download": "https://github.com/Mixces/RawInputMod",
             "versions": {
-                "LOCAL": "0f1fdcc3cafbd4c2d44e5b015ed62b015a04e2a93f7a61c866f1248ac104fd25",
-                "1.2": "0a203853fad22d9685698dd14d3351fe3b08bf63e37a78aab5bf06ec8c12af06",
-                "2.1.0": "711872a0a3c4bc51a11bfcb53e7dc8c1fbbbeca2182a5f220230beebec24aa35",
-                "1.0-REL": "0396dd42f00a6e7f379a7c27ba3adc0fb231eaf399c2940aa5fc48b93fe1aed7",
-                "3.3.0": "62225bb68b68d4ce97ef050a45fb3d12caff4a7c0c2bf6c63573060cbaa005cd",
-                "1.3.5": "d17fa4c2c3f65cb904f9fd4f82fb80fcab124a338d9bc8093392cc8a614ace72",
-                "1.1.14": "434703ce3d04ee9dbeb4dc2bfb9ba946dcb4249b7fe586fa68f7f60b4038ffdb",
-                "1.8.7": "0c61939fbd472f96c02c40bd77ef447c5719fecbb52c0a40eb90aaf198e7dd34",
-                "2.0.0": "f8b37287c4f3667b0b8cf0188a4ea6d36515fd4c19717285556fea006422c318",
-                "1.6.0": "a4716a1d7793701ecdc04d5ab638b0a17641d4bf5adb52d7672bd91a7cbe1415",
-                "1.8.9-2.6.8": "201afaa9f1e68857ca553d0750dce23b53afe7135bd9a43060e0e38704db4b4c",
-                "4.0.3": "b0caa6d09cd0f1d94d72e9ce335d2feaa4c2de111859d8981486ba53cb7bf1e9",
-                "2.2.0": "dda8b4853bcd0aa87ec210112788a6eb5943b84a591079a53ce92ae6701d625e",
-                "1.0.0": "ed0092478cd354b1a968f05c9d05860a7598d9efa48eec6e7c3cb998b9ba0c48",
-                "1.1.5": "eb4d2bf6ba3cfa0d5386eae8865d2a60331b7a2c5dd887c01804db24b128bf50",
                 "1.1.1": "ed5cfb957baac86cb750fcf0624cddcf329d0fb3410104560b81ab9033665cfa"
             }
         }
