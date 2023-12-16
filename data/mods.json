@@ -13,6 +13,14 @@
             "versions": {
                 "LOCAL": "0f1fdcc3cafbd4c2d44e5b015ed62b015a04e2a93f7a61c866f1248ac104fd25"
             }
+        },
+        "smooth-scrolling-everywhere": {
+            "name": "Smooth Scrolling Everywhere",
+            "download": "https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere",
+            "versions": {
+                "LOCAL": "0f1fdcc3cafbd4c2d44e5b015ed62b015a04e2a93f7a61c866f1248ac104fd25",
+                "1.2": "0a203853fad22d9685698dd14d3351fe3b08bf63e37a78aab5bf06ec8c12af06"
+            }
         }
     }
 }
