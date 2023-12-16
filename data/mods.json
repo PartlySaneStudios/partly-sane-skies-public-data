@@ -266,6 +266,13 @@
             "versions": {
                 "1.2.0": "ff2d6ff18dfc08988d19bbd768746eb3c8557f72f211ac5522056fa6aca0d722"
             }
+        },
+        "mixmetica": {
+            "name": "Mixmetica",
+            "download": "https://modrinth.com/mod/mixmetica",
+            "versions": {
+                "2.0.1": "64c460fa93f95a13e0823f3596e6e05eef2d39114d9bd810171a1fd7d723a487"
+            }
         }
     }
 }
