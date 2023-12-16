@@ -399,6 +399,13 @@
             "versions": {
                 "1.0.0": "03eb83b3c6a655d1b8c97026ee2377278232201d12560c91cb1c7a800fc13614"
             }
+        },
+        "vanillahud": {
+            "name": "VanillaHUD",
+            "download": "https://modrinth.com/mod/vanillahud",
+            "versions": {
+                "2.1.0": "c81a0999398c09890921395ed3c4432203ec55122afbb5440ac55d23984e6898"
+            }
         }
     }
 }
