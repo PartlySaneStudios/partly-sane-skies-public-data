@@ -6,6 +6,13 @@
             "versions": {
                 "beta-v0.4.1": "89f33940388058bf3d68b110188bb6fea9fc158e74654e7e6db857df6238867c"
             }
+        },
+        "text_overflow_scroll": {
+            "name": "Scrollable Tooltips",
+            "download": "https://www.sk1er.club/mods/text_overflow_scroll",
+            "versions": {
+                "LOCAL": "0f1fdcc3cafbd4c2d44e5b015ed62b015a04e2a93f7a61c866f1248ac104fd25"
+            }
         }
     }
 }
