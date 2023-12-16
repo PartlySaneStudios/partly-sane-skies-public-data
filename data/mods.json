@@ -336,6 +336,13 @@
             "versions": {
                 "1.2": "29da8005b1ed9ca9373f3908345a344632d3dc4bbb91833ee04533385a20b4d2"
             }
+        },
+        "controlling": {
+            "name": "Controlling",
+            "download": "https://www.curseforge.com/minecraft/mc-mods/controlling",
+            "versions": {
+                "7.0.0.2": "e88312bde2cd50a53f0d8eaa04afe82026cf45709ab4a35905473e695285a70c"
+            }
         }
     }
 }
