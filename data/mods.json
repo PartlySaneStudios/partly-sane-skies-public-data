@@ -294,6 +294,13 @@
             "versions": {
                 "MC1.8.9-1.0.4-2": "895ab00da22925bc9d50bd2c78d253c7015c3214c4493fda387429e4911981db"
             }
+        },
+        "glintcolorizer": {
+            "name": "GlintColorizer",
+            "download": "https://github.com/Polyfrost/GlintColorizer",
+            "versions": {
+                "1.0.2": "3f4909158853e062e4a4cf4687f1ba014f45f0863221460fe874b5d884e0cf4d"
+            }
         }
     }
 }
