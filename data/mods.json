@@ -357,6 +357,13 @@
             "versions": {
                 "1.0.5": "0bcc372709fe7e7703df73c2299525ac130bfc7fa7edfb6aa6c4cdaf24076479"
             }
+        },
+        "polysprint": {
+            "name": "PolySprint",
+            "download": "https://modrinth.com/mod/polysprint",
+            "versions": {
+                "1.0.0": "73b938f8ae57f7b2c4e09f043553c9e99261e74db21a71c0b3893afb065d2244"
+            }
         }
     }
 }
