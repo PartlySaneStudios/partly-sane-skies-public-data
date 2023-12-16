@@ -329,6 +329,13 @@
             "versions": {
                 "1.0": "c6f1bc086e802b6de209decb3edcef8be31a88fd306fec59e7ac6709bbe2bade"
             }
+        },
+        "resourcepackmanager": {
+            "name": "Resource Pack Manager",
+            "download": "https://github.com/SkyblockClient/SkyblockClient-REPO/tree/main/files/mods",
+            "versions": {
+                "1.2": "29da8005b1ed9ca9373f3908345a344632d3dc4bbb91833ee04533385a20b4d2"
+            }
         }
     }
 }
