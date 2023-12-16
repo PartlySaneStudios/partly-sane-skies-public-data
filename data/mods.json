@@ -503,6 +503,13 @@
             "versions": {
                 "1.3.2": "36c3dc863e0d1cd628b3a22781df190d3fdb34e075621ab5f5e349782ac55dc3"
             }
+        },
+        "synthesis": {
+            "name": "Synthesis",
+            "download": "https://github.com/SynthesisMod/Synthesis/blob/main/README.md",
+            "versions": {
+                "0.3.1": "a3f3701330101dd884da4bd99056b160606c77a87781de9008b3c04d3416023d"
+            }
         }
     }
 }
