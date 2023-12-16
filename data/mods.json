@@ -743,6 +743,40 @@
                 "1.8.9-0.2.0-clientonly": "51d9d0af71eca71ef2a486580089bf56c34284bcfeb76c9110f80ab14e6ed67e",
                 "1.2.2": "f1c774490bfeeecdb86b33df2a4a7333750fdae2baac09909d52d69fd6a98d9b"
             }
+        },
+        "chattriggers": {
+            "name": "ChatTriggers",
+            "download": "https://www.chattriggers.com/",
+            "versions": {
+                "1.1.1": "ed5cfb957baac86cb750fcf0624cddcf329d0fb3410104560b81ab9033665cfa",
+                "1.1.5": "eb4d2bf6ba3cfa0d5386eae8865d2a60331b7a2c5dd887c01804db24b128bf50",
+                "6.0.2": "ff8a965dbb8e98f39f1dd1e9b6a56a68589bd7c0793c711938173d8dcbd3c5b3",
+                "1.7.3+7380": "fb2f7d36afa61ae84e13a685afc37cd6e47e983b5190a3195ad1784fa40d4f17",
+                "1.0": "d6ffa5ebb78f8de2dbad30a4ba41ce88fc9973b1a56a3a45a4fca635b8cb87b3",
+                "2.1.1+Alpha-25.9fb6633": "e3281a49903624c3aa75c9cdda2b828516dddb656b4e77cb8e682944b1e046b9",
+                "2.1": "905819c9c65d4bebb64133e428de2ed2b4f0097475d014bee037a96ae65a7921",
+                "1.8.0-pre3": "cea29515de2238167f0eef5f95116a441c38fbce3d5c4235f16244b9b54c13e4",
+                "beta-v0.4.1": "89f33940388058bf3d68b110188bb6fea9fc158e74654e7e6db857df6238867c",
+                "1.11.6": "6c494a24f8d6c2ec1ceab2d5b9dac207acbbc980648e6414d00e52d6fae0cd5f",
+                "1.8.9-0.16.0": "9d843ccce2842e5872aa053d7b42e3b08b31dd3ac9e280654b6bf0a8a099995c",
+                "1.7.0.0": "bbc5e22d659b761d903fdd0e3be6c68e1bd1445a8831f8636c0331759b571519",
+                "4.0.0": "aec8bedcee875a2a277b4fadad2ace2592d9856f276487e3f4caabf78b78dcaf",
+                "3.0": "a5ed0ff75b34e71113ffc84281819a4504885a59481172a65211691f31cfb78b",
+                "3.4.0": "f9e8345be0413ceb957fa4429144e960000d86278903c8315a4eafe87cfaafda",
+                "1.6.1": "d4fe6e0755c7f545b27bbd90e65e1cad7f523405058af34c407e9c7a8c82e79b",
+                "1.3.0+oneconfig": "e68658945f989e57f954bf2b1f2c2e84252a4272e3fec6dc8e991c5f0e9f8f82",
+                "2.0.1": "64c460fa93f95a13e0823f3596e6e05eef2d39114d9bd810171a1fd7d723a487",
+                "LOCAL": "8b02f7dcb3248966cd3919d3880102eeb8c1b58e60bc36cc9c44a180ba2e8a43",
+                "1.0.0": "3f56e4b7983725e43969b67423e92bc05e260f6ff9d9f85f13ddc2b6875e4ee8",
+                "2.2.1": "6b0abfef3c927fd3011b80bf42de4114028db1f0c3c588dc8d131a6dc0b5bf7b",
+                "1.3": "4178c32389ec9b7cd75b7b110be5715475ea1be00f649ec0f728e5169a0f650a",
+                "1.2.0": "ff2d6ff18dfc08988d19bbd768746eb3c8557f72f211ac5522056fa6aca0d722",
+                "MC1.8.9-1.0.4-2": "895ab00da22925bc9d50bd2c78d253c7015c3214c4493fda387429e4911981db",
+                "1.12.0": "21559ecfe2986d6a8dfce963d9acb2295824dab7fc85dcb9e370713bbf4d19cd",
+                "1.8.9-0.2.0-clientonly": "51d9d0af71eca71ef2a486580089bf56c34284bcfeb76c9110f80ab14e6ed67e",
+                "1.2.2": "f1c774490bfeeecdb86b33df2a4a7333750fdae2baac09909d52d69fd6a98d9b",
+                "2.2.0-1.8.9": "3b077d3e99eb714d13e76826d75929807e8ab582023c59bc405d4bad67193254"
+            }
         }
     }
 }
