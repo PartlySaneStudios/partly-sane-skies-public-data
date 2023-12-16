@@ -468,6 +468,13 @@
             "versions": {
                 "LOCAL": "5fdcde4169a144095be0eb9571a8d9d3630278df1de15c1df805cf0616aa3a59"
             }
+        },
+        "level_head": {
+            "name": "LevelHead",
+            "download": "https://sk1er.club/mods/level_head",
+            "versions": {
+                "8.2.2": "3e1d313b6b88d12142c1a56d7518902da7e361a92f7a0f3e107501ac41608987"
+            }
         }
     }
 }
