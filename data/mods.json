@@ -392,6 +392,13 @@
             "versions": {
                 "1.5.0": "6bc122b4530afa9a7e461c0d9f4929376440551dc2ef1d1301510a711d43cc7a"
             }
+        },
+        "reportplus": {
+            "name": "Report Plus",
+            "download": "https://github.com/ThatGravyBoat/ReportPlus/releases/",
+            "versions": {
+                "1.0.0": "03eb83b3c6a655d1b8c97026ee2377278232201d12560c91cb1c7a800fc13614"
+            }
         }
     }
 }
