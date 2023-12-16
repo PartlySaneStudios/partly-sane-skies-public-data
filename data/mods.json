@@ -406,6 +406,13 @@
             "versions": {
                 "2.1.0": "c81a0999398c09890921395ed3c4432203ec55122afbb5440ac55d23984e6898"
             }
+        },
+        "itlt": {
+            "name": "It's the little things",
+            "download": "https://www.curseforge.com/minecraft/mc-mods/its-the-little-things",
+            "versions": {
+                "1.8.8/9-1.0.1": "99a4955bd8f94229f28fb3f9b648625e1d278ce96044a5b04ea77379c294fb04"
+            }
         }
     }
 }
