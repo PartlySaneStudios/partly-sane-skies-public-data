@@ -454,6 +454,13 @@
             "versions": {
                 "1.0.3": "e2acae749c7fc68de2ccfd681744e3fb846f14957c99e3a02690bf3c5de6c3cd"
             }
+        },
+        "bossbar_customizer": {
+            "name": "BossbarCustomizer",
+            "download": "https://sk1er.club/mods/bossbar_customizer",
+            "versions": {
+                "LOCAL": "03a11d4f087b8743988f393b5129b72249d96ec4d752d2656c37eb20ce027ed6"
+            }
         }
     }
 }
