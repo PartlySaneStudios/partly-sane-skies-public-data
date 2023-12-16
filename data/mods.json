@@ -517,6 +517,13 @@
             "versions": {
                 "0.21.1": "8aeb3f56795358c8af46eb4c057cb0c952eab1823448acda97bac3888cf284bf"
             }
+        },
+        "reauth": {
+            "name": "ReAuth",
+            "download": "https://www.curseforge.com/minecraft/mc-mods/reauth/files?page=1&pageSize=20&version=1.8.9",
+            "versions": {
+                "4.0.3": "aff707afe762957e7bcddff9dbe3ff9a19da5a63364c550b4c91497ae7dc72d5"
+            }
         }
     }
 }
