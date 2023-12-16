@@ -482,6 +482,13 @@
             "versions": {
                 "LOCAL": "7ad843d6d95f4654febbf410ec389d48078f874437bb51b5cc94e68221379b32"
             }
+        },
+        "autotip": {
+            "name": "Autotip",
+            "download": "https://autotip.pro/",
+            "versions": {
+                "3.1.1": "1ec3e5d27a9cab610ba539ee9c0cffd4d223e95b27aed7288c4755db20d39303"
+            }
         }
     }
 }
