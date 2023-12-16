@@ -287,6 +287,13 @@
             "versions": {
                 "1.12.0": "21559ecfe2986d6a8dfce963d9acb2295824dab7fc85dcb9e370713bbf4d19cd"
             }
+        },
+        "blur": {
+            "name": "Blur",
+            "download": "https://www.curseforge.com/minecraft/mc-mods/blur",
+            "versions": {
+                "MC1.8.9-1.0.4-2": "895ab00da22925bc9d50bd2c78d253c7015c3214c4493fda387429e4911981db"
+            }
         }
     }
 }
