@@ -364,6 +364,13 @@
             "versions": {
                 "1.0.0": "73b938f8ae57f7b2c4e09f043553c9e99261e74db21a71c0b3893afb065d2244"
             }
+        },
+        "simpletogglesprint": {
+            "name": "SimpleToggleSprint",
+            "download": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint",
+            "versions": {
+                "2.2.0": "7c69e59c00d11a36b6a59e534a6aaf945992b688b7706220703dd57ff2e06785"
+            }
         }
     }
 }
