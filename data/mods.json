@@ -378,6 +378,13 @@
             "versions": {
                 "LOCAL": "1e55e023ba72810945732938b3b0ad19f68be2fb43625874ae6047aa85c9179d"
             }
+        },
+        "betterchat": {
+            "name": "Better Chat",
+            "download": "https://www.curseforge.com/minecraft/mc-mods/better-chat",
+            "versions": {
+                "1.5": "b498f3081bf4e5d695bde0be2319d54293037ae2858b57add6a37e5df04c4fb6"
+            }
         }
     }
 }
