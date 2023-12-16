@@ -385,6 +385,13 @@
             "versions": {
                 "1.5": "b498f3081bf4e5d695bde0be2319d54293037ae2858b57add6a37e5df04c4fb6"
             }
+        },
+        "chatting": {
+            "name": "Chatting",
+            "download": "https://modrinth.com/mod/chatting",
+            "versions": {
+                "1.5.0": "6bc122b4530afa9a7e461c0d9f4929376440551dc2ef1d1301510a711d43cc7a"
+            }
         }
     }
 }
