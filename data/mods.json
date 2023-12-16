@@ -280,6 +280,13 @@
             "versions": {
                 "1.0": "d6ffa5ebb78f8de2dbad30a4ba41ce88fc9973b1a56a3a45a4fca635b8cb87b3"
             }
+        },
+        "craftify": {
+            "name": "Craftify",
+            "download": "https://github.com/ThatGravyBoat/Craftify",
+            "versions": {
+                "1.12.0": "21559ecfe2986d6a8dfce963d9acb2295824dab7fc85dcb9e370713bbf4d19cd"
+            }
         }
     }
 }
