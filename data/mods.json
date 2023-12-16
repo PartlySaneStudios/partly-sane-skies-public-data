@@ -308,6 +308,13 @@
             "versions": {
                 "1.8.9-0.2.0-clientonly": "51d9d0af71eca71ef2a486580089bf56c34284bcfeb76c9110f80ab14e6ed67e"
             }
+        },
+        "subtitles_mod": {
+            "name": "Backported Subtitles",
+            "download": "https://sk1er.club/mods/subtitles_mod",
+            "versions": {
+                "1.2.2": "f1c774490bfeeecdb86b33df2a4a7333750fdae2baac09909d52d69fd6a98d9b"
+            }
         }
     }
 }
