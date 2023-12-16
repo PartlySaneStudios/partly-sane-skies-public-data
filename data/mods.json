@@ -273,6 +273,13 @@
             "versions": {
                 "2.0.1": "64c460fa93f95a13e0823f3596e6e05eef2d39114d9bd810171a1fd7d723a487"
             }
+        },
+        "twitcher": {
+            "name": "Twitcher",
+            "download": "https://github.com/BackendLlama/Twitcher",
+            "versions": {
+                "1.0": "d6ffa5ebb78f8de2dbad30a4ba41ce88fc9973b1a56a3a45a4fca635b8cb87b3"
+            }
         }
     }
 }
