@@ -259,6 +259,26 @@
                 "1.7.0.0": "bbc5e22d659b761d903fdd0e3be6c68e1bd1445a8831f8636c0331759b571519",
                 "4.0.0": "aec8bedcee875a2a277b4fadad2ace2592d9856f276487e3f4caabf78b78dcaf"
             }
+        },
+        "skyblock_dungeons_guide": {
+            "name": "Skyblock Dungeons Guide",
+            "download": "https://github.com/cyoung06/Skyblock-Dungeons-Guide",
+            "versions": {
+                "1.1.1": "ed5cfb957baac86cb750fcf0624cddcf329d0fb3410104560b81ab9033665cfa",
+                "1.1.5": "eb4d2bf6ba3cfa0d5386eae8865d2a60331b7a2c5dd887c01804db24b128bf50",
+                "6.0.2": "ff8a965dbb8e98f39f1dd1e9b6a56a68589bd7c0793c711938173d8dcbd3c5b3",
+                "1.7.3+7380": "fb2f7d36afa61ae84e13a685afc37cd6e47e983b5190a3195ad1784fa40d4f17",
+                "1.0": "b8663d1f746ac3a4caa2f497f3627b606dbb9c527051df900c305fce81529d1e",
+                "2.1.1+Alpha-25.9fb6633": "e3281a49903624c3aa75c9cdda2b828516dddb656b4e77cb8e682944b1e046b9",
+                "2.1": "905819c9c65d4bebb64133e428de2ed2b4f0097475d014bee037a96ae65a7921",
+                "1.8.0-pre3": "cea29515de2238167f0eef5f95116a441c38fbce3d5c4235f16244b9b54c13e4",
+                "beta-v0.4.1": "89f33940388058bf3d68b110188bb6fea9fc158e74654e7e6db857df6238867c",
+                "1.11.6": "6c494a24f8d6c2ec1ceab2d5b9dac207acbbc980648e6414d00e52d6fae0cd5f",
+                "1.8.9-0.16.0": "9d843ccce2842e5872aa053d7b42e3b08b31dd3ac9e280654b6bf0a8a099995c",
+                "1.7.0.0": "bbc5e22d659b761d903fdd0e3be6c68e1bd1445a8831f8636c0331759b571519",
+                "4.0.0": "aec8bedcee875a2a277b4fadad2ace2592d9856f276487e3f4caabf78b78dcaf",
+                "3.0": "a5ed0ff75b34e71113ffc84281819a4504885a59481172a65211691f31cfb78b"
+            }
         }
     }
 }
