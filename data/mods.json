@@ -266,69 +266,6 @@
             "versions": {
                 "1.2.0": "ff2d6ff18dfc08988d19bbd768746eb3c8557f72f211ac5522056fa6aca0d722"
             }
-        },
-        "mixmetica": {
-            "name": "Mixmetica",
-            "download": "https://modrinth.com/mod/mixmetica",
-            "versions": {
-                "1.2.0": "ff2d6ff18dfc08988d19bbd768746eb3c8557f72f211ac5522056fa6aca0d722"
-            }
-        },
-        "twitcher": {
-            "name": "Twitcher",
-            "download": "https://github.com/BackendLlama/Twitcher",
-            "versions": {
-                "1.2.0": "ff2d6ff18dfc08988d19bbd768746eb3c8557f72f211ac5522056fa6aca0d722"
-            }
-        },
-        "blur": {
-            "name": "Blur",
-            "download": "https://www.curseforge.com/minecraft/mc-mods/blur",
-            "versions": {
-                "MC1.8.9-1.0.4-2": "895ab00da22925bc9d50bd2c78d253c7015c3214c4493fda387429e4911981db"
-            }
-        },
-        "craftify": {
-            "name": "Craftify",
-            "download": "https://github.com/ThatGravyBoat/Craftify",
-            "versions": {
-                "1.12.0": "21559ecfe2986d6a8dfce963d9acb2295824dab7fc85dcb9e370713bbf4d19cd"
-            }
-        },
-        "damagetilt": {
-            "name": "Damage Tilt",
-            "download": "https://github.com/Charles445/DamageTilt",
-            "versions": {
-                "1.8.9-0.2.0-clientonly": "51d9d0af71eca71ef2a486580089bf56c34284bcfeb76c9110f80ab14e6ed67e"
-            }
-        },
-        "subtitles_mod": {
-            "name": "Backported Subtitles",
-            "download": "https://sk1er.club/mods/subtitles_mod",
-            "versions": {
-                "1.2.2": "f1c774490bfeeecdb86b33df2a4a7333750fdae2baac09909d52d69fd6a98d9b"
-            }
-        },
-        "chattriggers": {
-            "name": "ChatTriggers",
-            "download": "https://www.chattriggers.com/",
-            "versions": {
-                "2.2.0-1.8.9": "3b077d3e99eb714d13e76826d75929807e8ab582023c59bc405d4bad67193254"
-            }
-        },
-        "examplemod": {
-            "name": "Example Mod",
-            "download": "https://github.com/Moulberry/SBCustomMobTex/releases",
-            "versions": {
-                "2.2.0-1.8.9": "3b077d3e99eb714d13e76826d75929807e8ab582023c59bc405d4bad67193254"
-            }
-        },
-        "resourcepackmanager": {
-            "name": "Resource Pack Manager",
-            "download": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods",
-            "versions": {
-                "1.2": "29da8005b1ed9ca9373f3908345a344632d3dc4bbb91833ee04533385a20b4d2"
-            }
         }
     }
 }
