@@ -350,6 +350,13 @@
             "versions": {
                 "LOCAL": "20de96eace9b3c5334fd38ee04cd026207ad239a54eed5c959dae6c8ef47fbc6"
             }
+        },
+        "gravyrewardclaim": {
+            "name": "Gravy's Reward Claim",
+            "download": "https://modrinth.com/mod/reward-claim",
+            "versions": {
+                "1.0.5": "0bcc372709fe7e7703df73c2299525ac130bfc7fa7edfb6aa6c4cdaf24076479"
+            }
         }
     }
 }
