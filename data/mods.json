@@ -322,6 +322,13 @@
             "versions": {
                 "2.2.0-1.8.9": "3b077d3e99eb714d13e76826d75929807e8ab582023c59bc405d4bad67193254"
             }
+        },
+        "examplemod": {
+            "name": "Example Mod",
+            "download": "https://github.com/Moulberry/SBCustomMobTex/releases",
+            "versions": {
+                "1.0": "c6f1bc086e802b6de209decb3edcef8be31a88fd306fec59e7ac6709bbe2bade"
+            }
         }
     }
 }
