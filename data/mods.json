@@ -475,6 +475,13 @@
             "versions": {
                 "8.2.2": "3e1d313b6b88d12142c1a56d7518902da7e361a92f7a0f3e107501ac41608987"
             }
+        },
+        "autogg": {
+            "name": "AutoGG",
+            "download": "https://sk1er.club/mods/autogg",
+            "versions": {
+                "LOCAL": "7ad843d6d95f4654febbf410ec389d48078f874437bb51b5cc94e68221379b32"
+            }
         }
     }
 }
