@@ -510,6 +510,13 @@
             "versions": {
                 "0.3.1": "a3f3701330101dd884da4bd99056b160606c77a87781de9008b3c04d3416023d"
             }
+        },
+        "skyhanni": {
+            "name": "SkyHanni",
+            "download": "https://github.com/hannibal002/SkyHanni",
+            "versions": {
+                "0.21.1": "8aeb3f56795358c8af46eb4c057cb0c952eab1823448acda97bac3888cf284bf"
+            }
         }
     }
 }
