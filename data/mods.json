@@ -461,6 +461,13 @@
             "versions": {
                 "LOCAL": "03a11d4f087b8743988f393b5129b72249d96ec4d752d2656c37eb20ce027ed6"
             }
+        },
+        "tnttime": {
+            "name": "TNT Time",
+            "download": "https://sk1er.club/mods/tnttime",
+            "versions": {
+                "LOCAL": "5fdcde4169a144095be0eb9571a8d9d3630278df1de15c1df805cf0616aa3a59"
+            }
         }
     }
 }
