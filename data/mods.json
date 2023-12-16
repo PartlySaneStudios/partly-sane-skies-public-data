@@ -109,7 +109,8 @@
             "name": "Raw Input",
             "download": "https://github.com/Mixces/RawInputMod",
             "versions": {
-                "1.1.1": "ed5cfb957baac86cb750fcf0624cddcf329d0fb3410104560b81ab9033665cfa"
+                "1.1.1": "ed5cfb957baac86cb750fcf0624cddcf329d0fb3410104560b81ab9033665cfa",
+                "1.1.5": "eb4d2bf6ba3cfa0d5386eae8865d2a60331b7a2c5dd887c01804db24b128bf50"
             }
         }
     }
