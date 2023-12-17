@@ -1,5 +1,12 @@
 {
     "mods": {
+        "Forge": {
+            "name": "Minecraft Forge",
+            "download": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json",
+            "versions": {
+                "11.15.1.2318": "596512ad5f12f95d8a3170321543d4455d23b8fe649c68580c5f828fe74f6668"
+            }
+        },
         "partlysaneskies": {
             "name": "Partly Sane Skies",
             "download": "test",
@@ -131,13 +138,15 @@
             "name": "Skyblock Hud",
             "download": "https://discord.gg/moulberry",
             "versions": {
-                "1.0": "b8663d1f746ac3a4caa2f497f3627b606dbb9c527051df900c305fce81529d1e"
+                "1.0": "b8663d1f746ac3a4caa2f497f3627b606dbb9c527051df900c305fce81529d1e",
+                "1.17.1": "efa18b398f25505331b79b3622f0f1ce10f677867dfcab741f3188a7e3be9926"
             }
         },
         "notenoughupdates": {
             "name": "NotEnoughUpdates",
             "download": "https://github.com/Moulberry/NotEnoughUpdates/releases",
             "versions": {
+                "2.1.1-PRE": "a1aa859481b11865d771bf72baa2aa7cb895f165a3e16574e6aaefade12e4230",
                 "2.1.1+Alpha-25.9fb6633": "e3281a49903624c3aa75c9cdda2b828516dddb656b4e77cb8e682944b1e046b9"
             }
         },
@@ -152,6 +161,7 @@
             "name": "Skytils",
             "download": "https://github.com/Skytils/SkytilsMod/releases",
             "versions": {
+                "1.7.9": "6d167cb9487127a3a9b6f1f89d32543277768cae2d99bdb960e066a1c7528c84",
                 "1.8.0-pre3": "cea29515de2238167f0eef5f95116a441c38fbce3d5c4235f16244b9b54c13e4"
             }
         },
@@ -551,6 +561,111 @@
             "download": "https://modrinth.com/mod/autoskyblockrejoin",
             "versions": {
                 "1.1.3": "c414b7b4001bf89c0d027efa6d70d7ce6080fa141a9f076bebe51ccf9e187055"
+            }
+        },
+        "smoothfont": {
+            "name": "Smooth Font",
+            "download": "https://www.curseforge.com/minecraft/mc-mods/smooth-font",
+            "versions": {
+                "1.8.9-1.15.2": "b0e057451f09f732759e161366abe188c04da25b126695184aa865df15b28098"
+            }
+        },
+        "essential": {
+            "name": "Essential",
+            "download": "https://essential.gg/",
+            "versions": {
+                "1.0.0": "a88b1d8075f8b2c232eb3d504f3015d63adda666b1af2bffc83fe78d135cbb4b"
+            }
+        },
+        "oneconfig": {
+            "name": "OneConfig",
+            "download": "",
+            "versions": {
+                "0.2.1-alpha189": "d5d5db06ed5d0c32810fe730ba2b32a0abe3c26201476ebd8fa8c7e347edd814"
+            }
+        },
+        "arrowpath": {
+            "name": "Arrow Path",
+            "download": "",
+            "versions": {
+                "1.0": "5a516d4f7c9cd53f7f616e8f23a5e147fd4e974f7b8d787b1652127ea19c8c42"
+            }
+        },
+        "fancywarpmenu": {
+            "name": "Fancy Warp Menu",
+            "download": "https://github.com/ILikePlayingGames/FancyWarpMenu",
+            "versions": {
+                "1.0+96": "4c118847291d8a4e6a521664d4c3ebff761d1a5ce65996bb30f5e994a192a339"
+            }
+        },
+        "optibye": {
+            "name": "Optibye",
+            "download": "",
+            "versions": {
+                "1.0.0": "263daafd53e41960f5117d818599536ada781d26a568f5a999e4225740a34fb7"
+            }
+        },
+        "soopyv2forge": {
+            "name": "SoopyV2Forge",
+            "download": "",
+            "versions": {
+                "1.1": "9623d49290b41f9d271bc3c53a69a48e77eda323614e92fc73ba288ff3a648f3"
+            }
+        },
+        "ctrlsaved": {
+            "name": "Controls Saved",
+            "download": "",
+            "versions": {
+                "1.0.0.2": "5771a46dc3db4c4cdef4f6221e9e0975628090304acaca1f1ac52d22fb72c33a"
+            }
+        },
+        "dulkirmod": {
+            "name": "Dulkir Mod",
+            "download": "",
+            "versions": {
+                "1.2.6": "e6274e5392e72ed4064401b7142861337a08442c0ad451bd32f45a8fa57cee15"
+            }
+        },
+        "janutils": {
+            "name": "Example Mod",
+            "download": "https://github.com/romangraef/Forge1.8.9Template/",
+            "versions": {
+                "1.0.0": "6363e661a0aa539487bcbf74c6c2c20873d33fdeab55521e37a22ef66bd95632"
+            }
+        },
+        "scathapro": {
+            "name": "Scatha-Pro",
+            "download": "https://github.com/NamelessJu/Scatha-Pro/releases",
+            "versions": {
+                "1.2.3.1": "9df8f87103f2f498ee9fdbfeac7b9f58c2f054e5fcd6f1583959c8c9dca9c50b"
+            }
+        },
+        "SkyblockExtras": {
+            "name": "SkyblockExtras",
+            "download": "https://skyblockextras.com",
+            "versions": {
+                "2.2.0-pre17": "e32a0556a4fe29a671cd5c593966edc0928f278c78e129436d259133e197539f"
+            }
+        },
+        "neuhax": {
+            "name": "NEUHAX",
+            "download": "https://git.nea.moe/nea/neuhax",
+            "versions": {
+                "1.1.3": "0433e69a4b50b73854ef14df407aa3c7119187335d5f258926e7828ef2676e79"
+            }
+        },
+        "VolcAddons": {
+            "name": "VolcAddons",
+            "download": "",
+            "versions": {
+                "1.0": "7a6ce55856c83d4ec8e734c5c036cc2bf036cb3009ba3c83d8355145ea48e4da"
+            }
+        },
+        "somewatersolver": {
+            "name": "SomeWaterSolver",
+            "download": "",
+            "versions": {
+                "1.0": "3323a8355947254b92a108601c8314ab8981cb196b12e93a2c185bf9bb9cb8a6"
             }
         }
     }
