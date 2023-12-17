@@ -32,7 +32,8 @@
             "name": "EvergreenHUD",
             "download": "https://modrinth.com/mod/evergreenhud/",
             "versions": {
-                "2.1.0": "711872a0a3c4bc51a11bfcb53e7dc8c1fbbbeca2182a5f220230beebec24aa35"
+                "2.1.0": "711872a0a3c4bc51a11bfcb53e7dc8c1fbbbeca2182a5f220230beebec24aa35",
+                "2.1.1": "e5576c868cbf2945527ba33897f6b1c922800c4ab2a4ad2f89b4462b6257b16a"
             }
         },
         "insomnia": {
