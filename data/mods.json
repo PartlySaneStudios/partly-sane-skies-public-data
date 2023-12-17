@@ -527,7 +527,8 @@
             "name": "SkyHanni",
             "download": "https://github.com/hannibal002/SkyHanni",
             "versions": {
-                "0.21.1": "8aeb3f56795358c8af46eb4c057cb0c952eab1823448acda97bac3888cf284bf"
+                "0.21.1": "8aeb3f56795358c8af46eb4c057cb0c952eab1823448acda97bac3888cf284bf",
+                "0.22.Beta.15": "36bbf70dd33dcbfdfa7335095f81ca47fdaeeadff698684c026cc3618ee702af"
             }
         },
         "reauth": {
