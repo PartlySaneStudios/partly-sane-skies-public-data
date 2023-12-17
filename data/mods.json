@@ -336,7 +336,7 @@
             }
         },
         "examplemod": {
-            "name": "Example Mod",
+            "name": "Skyblock Custom Mob Textures",
             "download": "https://github.com/Moulberry/SBCustomMobTex/releases",
             "versions": {
                 "1.0": "c6f1bc086e802b6de209decb3edcef8be31a88fd306fec59e7ac6709bbe2bade"
@@ -632,7 +632,7 @@
             }
         },
         "janutils": {
-            "name": "Example Mod",
+            "name": "JanUtils",
             "download": "https://github.com/romangraef/Forge1.8.9Template/",
             "versions": {
                 "1.0.0": "6363e661a0aa539487bcbf74c6c2c20873d33fdeab55521e37a22ef66bd95632"
