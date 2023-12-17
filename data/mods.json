@@ -1,5 +1,12 @@
 {
     "mods": {
+        "Forge": {
+            "name": "Minecraft Forge",
+            "download": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json",
+            "versions": {
+                "11.15.1.2318": "596512ad5f12f95d8a3170321543d4455d23b8fe649c68580c5f828fe74f6668"
+            }
+        },
         "partlysaneskies": {
             "name": "Partly Sane Skies",
             "download": "test",
@@ -551,6 +558,13 @@
             "download": "https://modrinth.com/mod/autoskyblockrejoin",
             "versions": {
                 "1.1.3": "c414b7b4001bf89c0d027efa6d70d7ce6080fa141a9f076bebe51ccf9e187055"
+            }
+        },
+        "smoothfont": {
+            "name": "Smooth Font",
+            "download": "https://www.curseforge.com/minecraft/mc-mods/smooth-font",
+            "versions": {
+                "1.8.9-1.15.2": "b0e057451f09f732759e161366abe188c04da25b126695184aa865df15b28098"
             }
         }
     }
