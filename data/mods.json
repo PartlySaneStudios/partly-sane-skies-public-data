@@ -9,7 +9,7 @@
         },
         "partlysaneskies": {
             "name": "Partly Sane Skies",
-            "download": "test",
+            "download": "https://github.com/PartlySaneStudios/partly-sane-skies/",
             "versions": {
                 "beta-v0.4.1": "89f33940388058bf3d68b110188bb6fea9fc158e74654e7e6db857df6238867c"
             }
@@ -553,7 +553,8 @@
             "name": "spark",
             "download": "https://discord.gg/v4PU3WeH7z",
             "versions": {
-                "${pluginVersion}": "00019d86715a19796f6dda8f9216427274c586ec795089c627159a1cff4a57c9"
+                "1.10.0": "d0eae25b1f329214c4edb5a305207dfc8e846a1883ce0104b2a81728371b4766",
+                "${pluginVersion}-skyclientversion": "00019d86715a19796f6dda8f9216427274c586ec795089c627159a1cff4a57c9"
             }
         },
         "autoskyblockrejoin": {
@@ -579,14 +580,14 @@
         },
         "oneconfig": {
             "name": "OneConfig",
-            "download": "",
+            "download": "https://modrinth.com/mod/oneconfig",
             "versions": {
                 "0.2.1-alpha189": "d5d5db06ed5d0c32810fe730ba2b32a0abe3c26201476ebd8fa8c7e347edd814"
             }
         },
         "arrowpath": {
             "name": "Arrow Path",
-            "download": "",
+            "download": "https://www.youtube.com/watch?v=f3iP-lzobxk",
             "versions": {
                 "1.0": "5a516d4f7c9cd53f7f616e8f23a5e147fd4e974f7b8d787b1652127ea19c8c42"
             }
@@ -600,28 +601,28 @@
         },
         "optibye": {
             "name": "Optibye",
-            "download": "",
+            "download": "https://discord.gg/jRhkYFmpCa",
             "versions": {
                 "1.0.0": "263daafd53e41960f5117d818599536ada781d26a568f5a999e4225740a34fb7"
             }
         },
         "soopyv2forge": {
             "name": "SoopyV2Forge",
-            "download": "",
+            "download": "https://soopy.dev/soopyv2",
             "versions": {
                 "1.1": "9623d49290b41f9d271bc3c53a69a48e77eda323614e92fc73ba288ff3a648f3"
             }
         },
         "ctrlsaved": {
             "name": "Controls Saved",
-            "download": "",
+            "download": "https://hypixel.net/threads/forge-1-8-9-controls-saved-%E2%80%93-save-controls-as-presets.2010689/",
             "versions": {
                 "1.0.0.2": "5771a46dc3db4c4cdef4f6221e9e0975628090304acaca1f1ac52d22fb72c33a"
             }
         },
         "dulkirmod": {
             "name": "Dulkir Mod",
-            "download": "",
+            "download": "https://github.com/inglettronald/DulkirMod",
             "versions": {
                 "1.2.6": "e6274e5392e72ed4064401b7142861337a08442c0ad451bd32f45a8fa57cee15"
             }
@@ -656,16 +657,44 @@
         },
         "VolcAddons": {
             "name": "VolcAddons",
-            "download": "",
+            "download": "https://github.com/zhenga8533/VolcAddons",
             "versions": {
                 "1.0": "7a6ce55856c83d4ec8e734c5c036cc2bf036cb3009ba3c83d8355145ea48e4da"
             }
         },
         "somewatersolver": {
             "name": "SomeWaterSolver",
-            "download": "",
+            "download": "https://github.com/Desco1/WaterSolver",
             "versions": {
                 "1.0": "3323a8355947254b92a108601c8314ab8981cb196b12e93a2c185bf9bb9cb8a6"
+            }
+        },
+        "inventoryhud": {
+            "name": "Inventory HUD+",
+            "download": "https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge",
+            "versions": {
+                "3.1.0": "220eca71b40ab36383fd706f6be83c539dc0cf442944742e76adc5cdcc45c591"
+            }
+        },
+        "LunatriusCore": {
+            "name": "LunatriusCore",
+            "download": "http://mc.lunatri.us/",
+            "versions": {
+                "1.1.2.32": "65432a76ef94fb6e3c7b1cdfc994d14d770ae0e0d032cf76f4528aadfb7e3259"
+            }
+        },
+        "modhider": {
+            "name": "ForgeModHider",
+            "download": "https://github.com/sduoduo233/ForgeModHider",
+            "versions": {
+                "1.1": "6195706b458991dd6e270a82a6fcdf9e28b1df07dd199cf61f5f29f8e4e5d045"
+            }
+        },
+        "djperspectivemod": {
+            "name": "Perspective Mod v4",
+            "download": "https://github.com/DJtheRedstoner/PerspectiveModv4",
+            "versions": {
+                "4.5": "cbe85dd003f7f46f700c1c26f5afef75ece06b1e275e73a181d4759862ff6fa5"
             }
         }
     }
