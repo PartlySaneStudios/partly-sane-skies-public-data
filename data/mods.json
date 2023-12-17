@@ -17,7 +17,7 @@
         },
         "text_overflow_scroll": {
             "name": "Scrollable Tooltips",
-            "download": "https://www.sk1er.club/mods/text_overflow_scroll",
+            "download": "https://www.sk1enr.club/mods/text_overflow_scroll",
             "versions": {
                 "LOCAL": "0f1fdcc3cafbd4c2d44e5b015ed62b015a04e2a93f7a61c866f1248ac104fd25"
             }
@@ -462,6 +462,7 @@
             }
         },
         "notsoessential": {
+            "name": "Not So Essential",
             "download": "https://github.com/Scherso/NotSoEssential",
             "versions": {
                 "1.0.3": "e2acae749c7fc68de2ccfd681744e3fb846f14957c99e3a02690bf3c5de6c3cd"
