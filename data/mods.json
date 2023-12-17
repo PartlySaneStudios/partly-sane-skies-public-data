@@ -699,6 +699,13 @@
             "versions": {
                 "4.5": "cbe85dd003f7f46f700c1c26f5afef75ece06b1e275e73a181d4759862ff6fa5"
             }
+        },
+        "quickplay": {
+            "name": "Quickplay",
+            "download": "https://bugg.co/quickplay/",
+            "versions": {
+                "2.0.8": "14d037fe71f477ea5592440403226e12bf4ec2229166db3491035948b8090bd2"
+            }
         }
     }
 }
