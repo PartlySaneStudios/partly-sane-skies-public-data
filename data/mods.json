@@ -5,6 +5,8 @@
             "download": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json",
             "versions": {
                 "11.15.1.2318": "596512ad5f12f95d8a3170321543d4455d23b8fe649c68580c5f828fe74f6668"
+            },
+            "beta-versions": {
             }
         },
         "partlysaneskies": {
@@ -12,6 +14,8 @@
             "download": "https://github.com/PartlySaneStudios/partly-sane-skies/",
             "versions": {
                 "beta-v0.4.1": "89f33940388058bf3d68b110188bb6fea9fc158e74654e7e6db857df6238867c"
+            },
+            "beta-versions": {
             }
         },
         "text_overflow_scroll": {
@@ -19,6 +23,8 @@
             "download": "https://www.sk1er.club/mods/text_overflow_scroll",
             "versions": {
                 "LOCAL": "0f1fdcc3cafbd4c2d44e5b015ed62b015a04e2a93f7a61c866f1248ac104fd25"
+            },
+            "beta-versions": {
             }
         },
         "smooth-scrolling-everywhere": {
@@ -26,6 +32,8 @@
             "download": "https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere",
             "versions": {
                 "1.2": "0a203853fad22d9685698dd14d3351fe3b08bf63e37a78aab5bf06ec8c12af06"
+            },
+            "beta-versions": {
             }
         },
         "evergreenhud": {
@@ -33,6 +41,8 @@
             "download": "https://modrinth.com/mod/evergreenhud/",
             "versions": {
                 "2.1.0": "711872a0a3c4bc51a11bfcb53e7dc8c1fbbbeca2182a5f220230beebec24aa35"
+            },
+            "beta-versions": {
             }
         },
         "insomnia": {
@@ -40,6 +50,8 @@
             "download": "https://github.com/Moulberry/Insomnia/",
             "versions": {
                 "1.0-REL": "0396dd42f00a6e7f379a7c27ba3adc0fb231eaf399c2940aa5fc48b93fe1aed7"
+            },
+            "beta-versions": {
             }
         },
         "damagetint": {
@@ -47,6 +59,8 @@
             "download": "https://modrinth.com/mod/damage-tint",
             "versions": {
                 "3.3.0": "62225bb68b68d4ce97ef050a45fb3d12caff4a7c0c2bf6c63573060cbaa005cd"
+            },
+            "beta-versions": {
             }
         },
         "skyblockclientupdater": {
@@ -54,6 +68,8 @@
             "download": "https://github.com/SkyblockClient/SkyblockClient-Updater",
             "versions": {
                 "1.3.5": "d17fa4c2c3f65cb904f9fd4f82fb80fcab124a338d9bc8093392cc8a614ace72"
+            },
+            "beta-versions": {
             }
         },
         "skyclientcosmetics": {
@@ -61,6 +77,8 @@
             "download": "https://github.com/SkyblockClient/Skyclient-Cosmetics/",
             "versions": {
                 "1.1.14": "434703ce3d04ee9dbeb4dc2bfb9ba946dcb4249b7fe586fa68f7f60b4038ffdb"
+            },
+            "beta-versions": {
             }
         },
         "patcher": {
@@ -68,6 +86,8 @@
             "download": "https://sk1er.club/mods/patcher",
             "versions": {
                 "1.8.7": "0c61939fbd472f96c02c40bd77ef447c5719fecbb52c0a40eb90aaf198e7dd34"
+            },
+            "beta-versions": {
             }
         },
         "crashpatch": {
@@ -75,6 +95,8 @@
             "download": "https://modrinth.com/mod/crashpatch",
             "versions": {
                 "2.0.0": "f8b37287c4f3667b0b8cf0188a4ea6d36515fd4c19717285556fea006422c318"
+            },
+            "beta-versions": {
             }
         },
         "hytils-reborn": {
@@ -82,6 +104,8 @@
             "download": "https://github.com/Polyfrost/Hytils-Reborn",
             "versions": {
                 "1.6.0": "a4716a1d7793701ecdc04d5ab638b0a17641d4bf5adb52d7672bd91a7cbe1415"
+            },
+            "beta-versions": {
             }
         },
         "replaymod": {
@@ -89,6 +113,8 @@
             "download": "https://www.replaymod.com/download",
             "versions": {
                 "1.8.9-2.6.8": "201afaa9f1e68857ca553d0750dce23b53afe7135bd9a43060e0e38704db4b4c"
+            },
+            "beta-versions": {
             }
         },
         "blockoverlay": {
@@ -96,6 +122,8 @@
             "download": "https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/",
             "versions": {
                 "4.0.3": "b0caa6d09cd0f1d94d72e9ce335d2feaa4c2de111859d8981486ba53cb7bf1e9"
+            },
+            "beta-versions": {
             }
         },
         "betterhurtcam": {
@@ -103,6 +131,8 @@
             "download": "https://modrinth.com/mod/betterhurtcam",
             "versions": {
                 "2.2.0": "dda8b4853bcd0aa87ec210112788a6eb5943b84a591079a53ce92ae6701d625e"
+            },
+            "beta-versions": {
             }
         },
         "polyblur": {
@@ -110,6 +140,8 @@
             "download": "https://modrinth.com/mod/polyblur",
             "versions": {
                 "1.0.0": "ed0092478cd354b1a968f05c9d05860a7598d9efa48eec6e7c3cb998b9ba0c48"
+            },
+            "beta-versions": {
             }
         },
         "rawinput": {
@@ -118,6 +150,8 @@
             "versions": {
                 "1.1.1": "ed5cfb957baac86cb750fcf0624cddcf329d0fb3410104560b81ab9033665cfa",
                 "1.1.5": "eb4d2bf6ba3cfa0d5386eae8865d2a60331b7a2c5dd887c01804db24b128bf50"
+            },
+            "beta-versions": {
             }
         },
         "nick_hider": {
@@ -125,6 +159,8 @@
             "download": "https://www.sk1er.club/mods/nick_hider",
             "versions": {
                 "6.0.2": "ff8a965dbb8e98f39f1dd1e9b6a56a68589bd7c0793c711938173d8dcbd3c5b3"
+            },
+            "beta-versions": {
             }
         },
         "skyblockaddons": {
@@ -132,6 +168,8 @@
             "download": "https://biscuit.codes/mods/skyblockaddons/",
             "versions": {
                 "1.7.3+7380": "fb2f7d36afa61ae84e13a685afc37cd6e47e983b5190a3195ad1784fa40d4f17"
+            },
+            "beta-versions": {
             }
         },
         "skyblockhud": {
@@ -140,6 +178,8 @@
             "versions": {
                 "1.0": "b8663d1f746ac3a4caa2f497f3627b606dbb9c527051df900c305fce81529d1e",
                 "1.17.1": "efa18b398f25505331b79b3622f0f1ce10f677867dfcab741f3188a7e3be9926"
+            },
+            "beta-versions": {
             }
         },
         "notenoughupdates": {
@@ -148,6 +188,8 @@
             "versions": {
                 "2.1.1-PRE": "a1aa859481b11865d771bf72baa2aa7cb895f165a3e16574e6aaefade12e4230",
                 "2.1.1+Alpha-25.9fb6633": "e3281a49903624c3aa75c9cdda2b828516dddb656b4e77cb8e682944b1e046b9"
+            },
+            "beta-versions": {
             }
         },
         "Danker's Skyblock Mod": {
@@ -155,6 +197,8 @@
             "download": "https://github.com/bowser0000/SkyblockMod/releases",
             "versions": {
                 "2.1": "905819c9c65d4bebb64133e428de2ed2b4f0097475d014bee037a96ae65a7921"
+            },
+            "beta-versions": {
             }
         },
         "skytils": {
@@ -163,6 +207,8 @@
             "versions": {
                 "1.7.9": "6d167cb9487127a3a9b6f1f89d32543277768cae2d99bdb960e066a1c7528c84",
                 "1.8.0-pre3": "cea29515de2238167f0eef5f95116a441c38fbce3d5c4235f16244b9b54c13e4"
+            },
+            "beta-versions": {
             }
         },
         "apec": {
@@ -170,6 +216,8 @@
             "download": "https://github.com/BananaFructa/Apec/releases",
             "versions": {
                 "1.11.6": "6c494a24f8d6c2ec1ceab2d5b9dac207acbbc980648e6414d00e52d6fae0cd5f"
+            },
+            "beta-versions": {
             }
         },
         "cowlection": {
@@ -177,6 +225,8 @@
             "download": "https://github.com/cow-mc/Cowlection/releases",
             "versions": {
                 "1.8.9-0.16.0": "9d843ccce2842e5872aa053d7b42e3b08b31dd3ac9e280654b6bf0a8a099995c"
+            },
+            "beta-versions": {
             }
         },
         "sbp": {
@@ -184,6 +234,8 @@
             "download": "https://hypixel.net/threads/3963451/",
             "versions": {
                 "1.7.0.0": "bbc5e22d659b761d903fdd0e3be6c68e1bd1445a8831f8636c0331759b571519"
+            },
+            "beta-versions": {
             }
         },
         "dungeons_guide_loader": {
@@ -191,6 +243,8 @@
             "download": "https://github.com/cyoung06/Skyblock-Dungeons-Guide",
             "versions": {
                 "4.0.0": "aec8bedcee875a2a277b4fadad2ace2592d9856f276487e3f4caabf78b78dcaf"
+            },
+            "beta-versions": {
             }
         },
         "skyblock_dungeons_guide": {
@@ -198,6 +252,8 @@
             "download": "https://github.com/cyoung06/Skyblock-Dungeons-Guide",
             "versions": {
                 "3.0": "a5ed0ff75b34e71113ffc84281819a4504885a59481172a65211691f31cfb78b"
+            },
+            "beta-versions": {
             }
         },
         "dungeonrooms": {
@@ -205,6 +261,8 @@
             "download": "https://github.com/Quantizr/DungeonRoomsMod",
             "versions": {
                 "3.4.0": "f9e8345be0413ceb957fa4429144e960000d86278903c8315a4eafe87cfaafda"
+            },
+            "beta-versions": {
             }
         },
         "BazaarNotifier": {
@@ -212,6 +270,8 @@
             "download": "https://github.com/symt/BazaarNotifier",
             "versions": {
                 "1.6.1": "d4fe6e0755c7f545b27bbd90e65e1cad7f523405058af34c407e9c7a8c82e79b"
+            },
+            "beta-versions": {
             }
         },
         "skyguide": {
@@ -219,6 +279,8 @@
             "download": "https://github.com/DeDiamondPro/SkyGuide",
             "versions": {
                 "1.3.0+oneconfig": "e68658945f989e57f954bf2b1f2c2e84252a4272e3fec6dc8e991c5f0e9f8f82"
+            },
+            "beta-versions": {
             }
         },
         "overflowanimations": {
@@ -226,6 +288,8 @@
             "download": "https://modrinth.com/mod/animations",
             "versions": {
                 "2.0.1": "86947126f27d902a8be9529e188ce7f00435603922db64b043c25d9602899451"
+            },
+            "beta-versions": {
             }
         },
         "sk1er_old_animations": {
@@ -233,6 +297,8 @@
             "download": "https://oldanimationsmod.net/",
             "versions": {
                 "LOCAL": "8b02f7dcb3248966cd3919d3880102eeb8c1b58e60bc36cc9c44a180ba2e8a43"
+            },
+            "beta-versions": {
             }
         },
         "polytime": {
@@ -240,6 +306,8 @@
             "download": "https://github.com/Polyfrost/PolyTime",
             "versions": {
                 "1.0.0": "f53da740258cd4513e37e1cc5484ae9be432e52a0b65b1feb1bc14eaf8c9b61c"
+            },
+            "beta-versions": {
             }
         },
         "polyweather": {
@@ -247,6 +315,8 @@
             "download": "https://modrinth.com/mod/polyweather",
             "versions": {
                 "1.0.0": "3f56e4b7983725e43969b67423e92bc05e260f6ff9d9f85f13ddc2b6875e4ee8"
+            },
+            "beta-versions": {
             }
         },
         "timechanger": {
@@ -254,6 +324,8 @@
             "download": "https://hypixel.net/threads/3574261/",
             "versions": {
                 "2.2.1": "6b0abfef3c927fd3011b80bf42de4114028db1f0c3c588dc8d131a6dc0b5bf7b"
+            },
+            "beta-versions": {
             }
         },
         "itemphysic": {
@@ -261,6 +333,8 @@
             "download": "https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite",
             "versions": {
                 "1.3": "4178c32389ec9b7cd75b7b110be5715475ea1be00f649ec0f728e5169a0f650a"
+            },
+            "beta-versions": {
             }
         },
         "skinlayers3d": {
@@ -268,6 +342,8 @@
             "download": "https://github.com/tr7zw/3d-Skin-Layers",
             "versions": {
                 "1.2.0": "5c4879c3bccad0fbe196c71deb000fa5bad0cd8460c76b48b69e37ce1312d93b"
+            },
+            "beta-versions": {
             }
         },
         "waveycapes": {
@@ -275,6 +351,8 @@
             "download": "https://github.com/tr7zw/waveycapes",
             "versions": {
                 "1.2.0": "ff2d6ff18dfc08988d19bbd768746eb3c8557f72f211ac5522056fa6aca0d722"
+            },
+            "beta-versions": {
             }
         },
         "mixmetica": {
@@ -282,6 +360,8 @@
             "download": "https://modrinth.com/mod/mixmetica",
             "versions": {
                 "2.0.1": "64c460fa93f95a13e0823f3596e6e05eef2d39114d9bd810171a1fd7d723a487"
+            },
+            "beta-versions": {
             }
         },
         "twitcher": {
@@ -289,6 +369,8 @@
             "download": "https://github.com/BackendLlama/Twitcher",
             "versions": {
                 "1.0": "d6ffa5ebb78f8de2dbad30a4ba41ce88fc9973b1a56a3a45a4fca635b8cb87b3"
+            },
+            "beta-versions": {
             }
         },
         "craftify": {
@@ -296,6 +378,8 @@
             "download": "https://github.com/ThatGravyBoat/Craftify",
             "versions": {
                 "1.12.0": "21559ecfe2986d6a8dfce963d9acb2295824dab7fc85dcb9e370713bbf4d19cd"
+            },
+            "beta-versions": {
             }
         },
         "blur": {
@@ -303,6 +387,8 @@
             "download": "https://www.curseforge.com/minecraft/mc-mods/blur",
             "versions": {
                 "MC1.8.9-1.0.4-2": "895ab00da22925bc9d50bd2c78d253c7015c3214c4493fda387429e4911981db"
+            },
+            "beta-versions": {
             }
         },
         "glintcolorizer": {
@@ -310,6 +396,8 @@
             "download": "https://github.com/Polyfrost/GlintColorizer",
             "versions": {
                 "1.0.2": "3f4909158853e062e4a4cf4687f1ba014f45f0863221460fe874b5d884e0cf4d"
+            },
+            "beta-versions": {
             }
         },
         "damagetilt": {
@@ -317,6 +405,8 @@
             "download": "https://www.curseforge.com/minecraft/mc-mods/damage-tilt",
             "versions": {
                 "1.8.9-0.2.0-clientonly": "51d9d0af71eca71ef2a486580089bf56c34284bcfeb76c9110f80ab14e6ed67e"
+            },
+            "beta-versions": {
             }
         },
         "subtitles_mod": {
@@ -324,6 +414,8 @@
             "download": "https://sk1er.club/mods/subtitles_mod",
             "versions": {
                 "1.2.2": "f1c774490bfeeecdb86b33df2a4a7333750fdae2baac09909d52d69fd6a98d9b"
+            },
+            "beta-versions": {
             }
         },
         "chattriggers": {
@@ -331,6 +423,8 @@
             "download": "https://www.chattriggers.com/",
             "versions": {
                 "2.2.0-1.8.9": "3b077d3e99eb714d13e76826d75929807e8ab582023c59bc405d4bad67193254"
+            },
+            "beta-versions": {
             }
         },
         "examplemod": {
@@ -338,6 +432,8 @@
             "download": "https://github.com/Moulberry/SBCustomMobTex/releases",
             "versions": {
                 "1.0": "c6f1bc086e802b6de209decb3edcef8be31a88fd306fec59e7ac6709bbe2bade"
+            },
+            "beta-versions": {
             }
         },
         "resourcepackmanager": {
@@ -345,6 +441,8 @@
             "download": "https://github.com/SkyblockClient/SkyblockClient-REPO/tree/main/files/mods",
             "versions": {
                 "1.2": "29da8005b1ed9ca9373f3908345a344632d3dc4bbb91833ee04533385a20b4d2"
+            },
+            "beta-versions": {
             }
         },
         "controlling": {
@@ -352,6 +450,8 @@
             "download": "https://www.curseforge.com/minecraft/mc-mods/controlling",
             "versions": {
                 "7.0.0.2": "e88312bde2cd50a53f0d8eaa04afe82026cf45709ab4a35905473e695285a70c"
+            },
+            "beta-versions": {
             }
         },
         "popup_events": {
@@ -359,6 +459,8 @@
             "download": "https://sk1er.club/mods/popup_events",
             "versions": {
                 "LOCAL": "20de96eace9b3c5334fd38ee04cd026207ad239a54eed5c959dae6c8ef47fbc6"
+            },
+            "beta-versions": {
             }
         },
         "gravyrewardclaim": {
@@ -366,6 +468,8 @@
             "download": "https://modrinth.com/mod/reward-claim",
             "versions": {
                 "1.0.5": "0bcc372709fe7e7703df73c2299525ac130bfc7fa7edfb6aa6c4cdaf24076479"
+            },
+            "beta-versions": {
             }
         },
         "polysprint": {
@@ -373,6 +477,8 @@
             "download": "https://modrinth.com/mod/polysprint",
             "versions": {
                 "1.0.0": "73b938f8ae57f7b2c4e09f043553c9e99261e74db21a71c0b3893afb065d2244"
+            },
+            "beta-versions": {
             }
         },
         "simpletogglesprint": {
@@ -380,6 +486,8 @@
             "download": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint",
             "versions": {
                 "2.2.0": "7c69e59c00d11a36b6a59e534a6aaf945992b688b7706220703dd57ff2e06785"
+            },
+            "beta-versions": {
             }
         },
         "hypixel_auto_complete": {
@@ -387,6 +495,8 @@
             "download": "https://sk1er.club/mods/hypixel_auto_complete",
             "versions": {
                 "LOCAL": "1e55e023ba72810945732938b3b0ad19f68be2fb43625874ae6047aa85c9179d"
+            },
+            "beta-versions": {
             }
         },
         "betterchat": {
@@ -394,6 +504,8 @@
             "download": "https://www.curseforge.com/minecraft/mc-mods/better-chat",
             "versions": {
                 "1.5": "b498f3081bf4e5d695bde0be2319d54293037ae2858b57add6a37e5df04c4fb6"
+            },
+            "beta-versions": {
             }
         },
         "chatting": {
@@ -401,6 +513,8 @@
             "download": "https://modrinth.com/mod/chatting",
             "versions": {
                 "1.5.0": "6bc122b4530afa9a7e461c0d9f4929376440551dc2ef1d1301510a711d43cc7a"
+            },
+            "beta-versions": {
             }
         },
         "reportplus": {
@@ -408,6 +522,8 @@
             "download": "https://github.com/ThatGravyBoat/ReportPlus/releases/",
             "versions": {
                 "1.0.0": "03eb83b3c6a655d1b8c97026ee2377278232201d12560c91cb1c7a800fc13614"
+            },
+            "beta-versions": {
             }
         },
         "vanillahud": {
@@ -415,6 +531,8 @@
             "download": "https://modrinth.com/mod/vanillahud",
             "versions": {
                 "2.1.0": "c81a0999398c09890921395ed3c4432203ec55122afbb5440ac55d23984e6898"
+            },
+            "beta-versions": {
             }
         },
         "itlt": {
@@ -422,6 +540,8 @@
             "download": "https://www.curseforge.com/minecraft/mc-mods/its-the-little-things",
             "versions": {
                 "1.8.8/9-1.0.1": "99a4955bd8f94229f28fb3f9b648625e1d278ce96044a5b04ea77379c294fb04"
+            },
+            "beta-versions": {
             }
         },
         "redaction": {
@@ -429,6 +549,8 @@
             "download": "https://modrinth.com/mod/redaction",
             "versions": {
                 "1.3.7": "055a3f5721ab7c8c10247437d760ed8721b21c7fdc01da245728bb1eef8a73d6"
+            },
+            "beta-versions": {
             }
         },
         "behindyouv3": {
@@ -436,6 +558,8 @@
             "download": "https://modrinth.com/mod/behindyou",
             "versions": {
                 "3.1.2": "e83eb73b4f577250dafbe5c21a92dcab77eb77b91330827b6793d3f90d9116a6"
+            },
+            "beta-versions": {
             }
         },
         "keystrokesmod": {
@@ -443,6 +567,8 @@
             "download": "https://sk1er.club/mods/keystrokesmod",
             "versions": {
                 "LOCAL": "06bb0915ea3f16d3d821009b9fc46ba9abfe1e23bdebd56e75763c192074d5e2"
+            },
+            "beta-versions": {
             }
         },
         "polyfrostkeystrokes": {
@@ -450,6 +576,8 @@
             "download": "https://modrinth.com/mod/keystrokes",
             "versions": {
                 "1.0.0": "a2b25adcecc9c84feb914ba1b81ce36da74d8e9f0d4a8a227cc131d5479e9ab0"
+            },
+            "beta-versions": {
             }
         },
         "potioneffects": {
@@ -457,12 +585,16 @@
             "download": "https://github.com/Tellinq/Potion-Effects",
             "versions": {
                 "1.0-beta-2": "f48a8e3cd90490bd8d3d04a0a69395c957adc63a8c023ae2b3a32a9e02d23436"
+            },
+            "beta-versions": {
             }
         },
         "notsoessential": {
             "download": "https://github.com/Scherso/NotSoEssential",
             "versions": {
                 "1.0.3": "e2acae749c7fc68de2ccfd681744e3fb846f14957c99e3a02690bf3c5de6c3cd"
+            },
+            "beta-versions": {
             }
         },
         "bossbar_customizer": {
@@ -470,6 +602,8 @@
             "download": "https://sk1er.club/mods/bossbar_customizer",
             "versions": {
                 "LOCAL": "03a11d4f087b8743988f393b5129b72249d96ec4d752d2656c37eb20ce027ed6"
+            },
+            "beta-versions": {
             }
         },
         "tnttime": {
@@ -477,6 +611,8 @@
             "download": "https://sk1er.club/mods/tnttime",
             "versions": {
                 "LOCAL": "5fdcde4169a144095be0eb9571a8d9d3630278df1de15c1df805cf0616aa3a59"
+            },
+            "beta-versions": {
             }
         },
         "level_head": {
@@ -484,6 +620,8 @@
             "download": "https://sk1er.club/mods/level_head",
             "versions": {
                 "8.2.2": "3e1d313b6b88d12142c1a56d7518902da7e361a92f7a0f3e107501ac41608987"
+            },
+            "beta-versions": {
             }
         },
         "autogg": {
@@ -491,6 +629,8 @@
             "download": "https://sk1er.club/mods/autogg",
             "versions": {
                 "LOCAL": "7ad843d6d95f4654febbf410ec389d48078f874437bb51b5cc94e68221379b32"
+            },
+            "beta-versions": {
             }
         },
         "autotip": {
@@ -498,6 +638,8 @@
             "download": "https://autotip.pro/",
             "versions": {
                 "3.1.1": "1ec3e5d27a9cab610ba539ee9c0cffd4d223e95b27aed7288c4755db20d39303"
+            },
+            "beta-versions": {
             }
         },
         "refractionoof": {
@@ -505,6 +647,8 @@
             "download": "https://www.sk1er.club/mods/refractionoof",
             "versions": {
                 "3.0": "9ecf4e8eeaf7d15127c64fae1e3597f2901ead13f60e6deac0c610a97c1d9f90"
+            },
+            "beta-versions": {
             }
         },
         "particlesenhanced": {
@@ -512,6 +656,8 @@
             "download": "https://hypixel.net/threads/4416018/",
             "versions": {
                 "1.3.2": "36c3dc863e0d1cd628b3a22781df190d3fdb34e075621ab5f5e349782ac55dc3"
+            },
+            "beta-versions": {
             }
         },
         "synthesis": {
@@ -519,6 +665,8 @@
             "download": "https://github.com/SynthesisMod/Synthesis/blob/main/README.md",
             "versions": {
                 "0.3.1": "a3f3701330101dd884da4bd99056b160606c77a87781de9008b3c04d3416023d"
+            },
+            "beta-versions": {
             }
         },
         "skyhanni": {
@@ -526,6 +674,8 @@
             "download": "https://github.com/hannibal002/SkyHanni",
             "versions": {
                 "0.21.1": "8aeb3f56795358c8af46eb4c057cb0c952eab1823448acda97bac3888cf284bf"
+            },
+            "beta-versions": {
             }
         },
         "reauth": {
@@ -533,6 +683,8 @@
             "download": "https://www.curseforge.com/minecraft/mc-mods/reauth/files?page=1&pageSize=20&version=1.8.9",
             "versions": {
                 "4.0.7": "3b0e52e74883b7d422d3f43b30cda3e88283ffa066a43b2aba46cfed3658aab7"
+            },
+            "beta-versions": {
             }
         },
         "skywars-sorter": {
@@ -540,6 +692,8 @@
             "download": "https://github.com/NopoTheGamer/skywars-inv-sorter/releases",
             "versions": {
                 "1.0": "5638aabf6a3f59b0739065191d35e55384dcfae68895d0eee6649afcd9b0e066"
+            },
+            "beta-versions": {
             }
         },
         "wyvtils": {
@@ -547,6 +701,8 @@
             "download": "https://github.com/Wyvest/Wyvtils/releases",
             "versions": {
                 "2.0.0": "269c15619b471c6be4d7d7b111ed0b110e8e4b36669d6232fa71f21bd966a75a"
+            },
+            "beta-versions": {
             }
         },
         "spark": {
@@ -555,6 +711,8 @@
             "versions": {
                 "1.10.0": "d0eae25b1f329214c4edb5a305207dfc8e846a1883ce0104b2a81728371b4766",
                 "${pluginVersion}-skyclientversion": "00019d86715a19796f6dda8f9216427274c586ec795089c627159a1cff4a57c9"
+            },
+            "beta-versions": {
             }
         },
         "autoskyblockrejoin": {
@@ -562,6 +720,8 @@
             "download": "https://modrinth.com/mod/autoskyblockrejoin",
             "versions": {
                 "1.1.3": "c414b7b4001bf89c0d027efa6d70d7ce6080fa141a9f076bebe51ccf9e187055"
+            },
+            "beta-versions": {
             }
         },
         "smoothfont": {
@@ -569,6 +729,8 @@
             "download": "https://www.curseforge.com/minecraft/mc-mods/smooth-font",
             "versions": {
                 "1.8.9-1.15.2": "b0e057451f09f732759e161366abe188c04da25b126695184aa865df15b28098"
+            },
+            "beta-versions": {
             }
         },
         "essential": {
@@ -576,6 +738,8 @@
             "download": "https://essential.gg/",
             "versions": {
                 "1.0.0": "a88b1d8075f8b2c232eb3d504f3015d63adda666b1af2bffc83fe78d135cbb4b"
+            },
+            "beta-versions": {
             }
         },
         "oneconfig": {
@@ -583,6 +747,8 @@
             "download": "https://modrinth.com/mod/oneconfig",
             "versions": {
                 "0.2.1-alpha189": "d5d5db06ed5d0c32810fe730ba2b32a0abe3c26201476ebd8fa8c7e347edd814"
+            },
+            "beta-versions": {
             }
         },
         "arrowpath": {
@@ -590,6 +756,8 @@
             "download": "https://www.youtube.com/watch?v=f3iP-lzobxk",
             "versions": {
                 "1.0": "5a516d4f7c9cd53f7f616e8f23a5e147fd4e974f7b8d787b1652127ea19c8c42"
+            },
+            "beta-versions": {
             }
         },
         "fancywarpmenu": {
@@ -597,6 +765,8 @@
             "download": "https://github.com/ILikePlayingGames/FancyWarpMenu",
             "versions": {
                 "1.0+96": "4c118847291d8a4e6a521664d4c3ebff761d1a5ce65996bb30f5e994a192a339"
+            },
+            "beta-versions": {
             }
         },
         "optibye": {
@@ -604,6 +774,8 @@
             "download": "https://discord.gg/jRhkYFmpCa",
             "versions": {
                 "1.0.0": "263daafd53e41960f5117d818599536ada781d26a568f5a999e4225740a34fb7"
+            },
+            "beta-versions": {
             }
         },
         "soopyv2forge": {
@@ -611,6 +783,8 @@
             "download": "https://soopy.dev/soopyv2",
             "versions": {
                 "1.1": "9623d49290b41f9d271bc3c53a69a48e77eda323614e92fc73ba288ff3a648f3"
+            },
+            "beta-versions": {
             }
         },
         "ctrlsaved": {
@@ -618,6 +792,8 @@
             "download": "https://hypixel.net/threads/forge-1-8-9-controls-saved-%E2%80%93-save-controls-as-presets.2010689/",
             "versions": {
                 "1.0.0.2": "5771a46dc3db4c4cdef4f6221e9e0975628090304acaca1f1ac52d22fb72c33a"
+            },
+            "beta-versions": {
             }
         },
         "dulkirmod": {
@@ -625,6 +801,8 @@
             "download": "https://github.com/inglettronald/DulkirMod",
             "versions": {
                 "1.2.6": "e6274e5392e72ed4064401b7142861337a08442c0ad451bd32f45a8fa57cee15"
+            },
+            "beta-versions": {
             }
         },
         "janutils": {
@@ -632,6 +810,8 @@
             "download": "https://github.com/romangraef/Forge1.8.9Template/",
             "versions": {
                 "1.0.0": "6363e661a0aa539487bcbf74c6c2c20873d33fdeab55521e37a22ef66bd95632"
+            },
+            "beta-versions": {
             }
         },
         "scathapro": {
@@ -639,6 +819,8 @@
             "download": "https://github.com/NamelessJu/Scatha-Pro/releases",
             "versions": {
                 "1.2.3.1": "9df8f87103f2f498ee9fdbfeac7b9f58c2f054e5fcd6f1583959c8c9dca9c50b"
+            },
+            "beta-versions": {
             }
         },
         "SkyblockExtras": {
@@ -646,6 +828,8 @@
             "download": "https://skyblockextras.com",
             "versions": {
                 "2.2.0-pre17": "e32a0556a4fe29a671cd5c593966edc0928f278c78e129436d259133e197539f"
+            },
+            "beta-versions": {
             }
         },
         "neuhax": {
@@ -653,6 +837,8 @@
             "download": "https://git.nea.moe/nea/neuhax",
             "versions": {
                 "1.1.3": "0433e69a4b50b73854ef14df407aa3c7119187335d5f258926e7828ef2676e79"
+            },
+            "beta-versions": {
             }
         },
         "VolcAddons": {
@@ -660,6 +846,8 @@
             "download": "https://github.com/zhenga8533/VolcAddons",
             "versions": {
                 "1.0": "7a6ce55856c83d4ec8e734c5c036cc2bf036cb3009ba3c83d8355145ea48e4da"
+            },
+            "beta-versions": {
             }
         },
         "somewatersolver": {
@@ -667,6 +855,8 @@
             "download": "https://github.com/Desco1/WaterSolver",
             "versions": {
                 "1.0": "3323a8355947254b92a108601c8314ab8981cb196b12e93a2c185bf9bb9cb8a6"
+            },
+            "beta-versions": {
             }
         },
         "inventoryhud": {
@@ -674,6 +864,8 @@
             "download": "https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge",
             "versions": {
                 "3.1.0": "220eca71b40ab36383fd706f6be83c539dc0cf442944742e76adc5cdcc45c591"
+            },
+            "beta-versions": {
             }
         },
         "LunatriusCore": {
@@ -681,6 +873,8 @@
             "download": "http://mc.lunatri.us/",
             "versions": {
                 "1.1.2.32": "65432a76ef94fb6e3c7b1cdfc994d14d770ae0e0d032cf76f4528aadfb7e3259"
+            },
+            "beta-versions": {
             }
         },
         "modhider": {
@@ -688,6 +882,8 @@
             "download": "https://github.com/sduoduo233/ForgeModHider",
             "versions": {
                 "1.1": "6195706b458991dd6e270a82a6fcdf9e28b1df07dd199cf61f5f29f8e4e5d045"
+            },
+            "beta-versions": {
             }
         },
         "djperspectivemod": {
