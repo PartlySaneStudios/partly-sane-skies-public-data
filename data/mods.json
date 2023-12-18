@@ -14,10 +14,12 @@
             "name": "Partly Sane Skies",
             "download": "https://github.com/PartlySaneStudios/partly-sane-skies/",
             "versions": {
-                "beta-v0.4.1": "89f33940388058bf3d68b110188bb6fea9fc158e74654e7e6db857df6238867c"
+                "beta-v0.4.1": "89f33940388058bf3d68b110188bb6fea9fc158e74654e7e6db857df6238867c",
+                "beta-v0.5": "35383b31104e879e41c6b23efa748a4824343d82407f2653d2eaaff9121e3b23"
             },
             "betaVersions": {
-                "beta-v0.4.1": "89f33940388058bf3d68b110188bb6fea9fc158e74654e7e6db857df6238867c"
+                "beta-v0.4.1": "89f33940388058bf3d68b110188bb6fea9fc158e74654e7e6db857df6238867c",
+                "beta-v0.5": "35383b31104e879e41c6b23efa748a4824343d82407f2653d2eaaff9121e3b23"
             }
         },
         "text_overflow_scroll": {
@@ -232,12 +234,12 @@
             "name": "Skytils",
             "download": "https://github.com/Skytils/SkytilsMod/releases",
             "versions": {
-                "1.7.9": "6d167cb9487127a3a9b6f1f89d32543277768cae2d99bdb960e066a1c7528c84",
-                "1.8.0-pre3": "cea29515de2238167f0eef5f95116a441c38fbce3d5c4235f16244b9b54c13e4"
+                "1.7.9": "6d167cb9487127a3a9b6f1f89d32543277768cae2d99bdb960e066a1c7528c84"
             },
             "betaVersions": {
                 "1.7.9": "6d167cb9487127a3a9b6f1f89d32543277768cae2d99bdb960e066a1c7528c84",
-                "1.8.0-pre3": "cea29515de2238167f0eef5f95116a441c38fbce3d5c4235f16244b9b54c13e4"
+                "1.8.0-pre3": "cea29515de2238167f0eef5f95116a441c38fbce3d5c4235f16244b9b54c13e4",
+                "1.8.0-pre5": "7f011b20376a999b58a33bc1feb12be28465709837e95404b69dc6191212dec1"
             }
         },
         "apec": {
@@ -404,10 +406,12 @@
             "name": "Mixmetica",
             "download": "https://modrinth.com/mod/mixmetica",
             "versions": {
-                "2.0.1": "64c460fa93f95a13e0823f3596e6e05eef2d39114d9bd810171a1fd7d723a487"
+                "2.0.1": "64c460fa93f95a13e0823f3596e6e05eef2d39114d9bd810171a1fd7d723a487",
+                "2.0.2": "a107be772eba07b0ce821854a608876f0b5c03871c7c59a5545badba726b3a54"
             },
             "betaVersions": {
-                "2.0.1": "64c460fa93f95a13e0823f3596e6e05eef2d39114d9bd810171a1fd7d723a487"
+                "2.0.1": "64c460fa93f95a13e0823f3596e6e05eef2d39114d9bd810171a1fd7d723a487",
+                "2.0.2": "a107be772eba07b0ce821854a608876f0b5c03871c7c59a5545badba726b3a54"
             }
         },
         "twitcher": {
@@ -481,7 +485,7 @@
             }
         },
         "examplemod": {
-            "name": "Example Mod",
+            "name": "Skyblock Custom Mob Textures",
             "download": "https://github.com/Moulberry/SBCustomMobTex/releases",
             "versions": {
                 "1.0": "c6f1bc086e802b6de209decb3edcef8be31a88fd306fec59e7ac6709bbe2bade"
@@ -661,6 +665,7 @@
             }
         },
         "notsoessential": {
+            "name": "Not So Essential",
             "download": "https://github.com/Scherso/NotSoEssential",
             "versions": {
                 "1.0.3": "e2acae749c7fc68de2ccfd681744e3fb846f14957c99e3a02690bf3c5de6c3cd"
@@ -756,7 +761,8 @@
                 "0.21.1": "8aeb3f56795358c8af46eb4c057cb0c952eab1823448acda97bac3888cf284bf"
             },
             "betaVersions": {
-                "0.21.1": "8aeb3f56795358c8af46eb4c057cb0c952eab1823448acda97bac3888cf284bf"
+                "0.21.1": "8aeb3f56795358c8af46eb4c057cb0c952eab1823448acda97bac3888cf284bf",
+                "0.22.Beta.15": "36bbf70dd33dcbfdfa7335095f81ca47fdaeeadff698684c026cc3618ee702af"
             }
         },
         "reauth": {
@@ -902,7 +908,7 @@
             }
         },
         "janutils": {
-            "name": "Example Mod",
+            "name": "JanUtils",
             "download": "https://github.com/romangraef/Forge1.8.9Template/",
             "versions": {
                 "1.0.0": "6363e661a0aa539487bcbf74c6c2c20873d33fdeab55521e37a22ef66bd95632"
@@ -999,6 +1005,27 @@
             },
             "betaVersions": {
                 "4.5": "cbe85dd003f7f46f700c1c26f5afef75ece06b1e275e73a181d4759862ff6fa5"
+            }
+        },
+        "quickplay": {
+            "name": "Quickplay",
+            "download": "https://bugg.co/quickplay/",
+            "versions": {
+                "2.0.8": "14d037fe71f477ea5592440403226e12bf4ec2229166db3491035948b8090bd2"
+            }
+        },
+        "skyblockfeatures": {
+            "name": "Skyblock Features",
+            "download": "https://github.com/MrFast-js/SkyblockFeatures",
+            "versions": {
+                "1.2.8": "dac4c7a35bfb018f2d2fe1a136bbab2a40fa10dbab0160a968f36e060f91a222"
+            }
+        },
+        "hyblockrnganalyzer": {
+            "name": "Hyblock RNG Analyzer",
+            "download": "https://github.com/doej1367/HyblockRngAnalyzer",
+            "versions": {
+                "1.7.4": "5ced551db45cd40324ce63872527bf6e0deed8a154eae94d1ea2ed71337a6405"
             }
         }
     }
