@@ -708,6 +708,13 @@
             "versions": {
                 "2.0.8": "14d037fe71f477ea5592440403226e12bf4ec2229166db3491035948b8090bd2"
             }
+        },
+        "skyblockfeatures": {
+            "name": "Skyblock Features",
+            "download": "https://github.com/MrFast-js/SkyblockFeatures",
+            "versions": {
+                "1.2.8": "dac4c7a35bfb018f2d2fe1a136bbab2a40fa10dbab0160a968f36e060f91a222"
+            }
         }
     }
 }
