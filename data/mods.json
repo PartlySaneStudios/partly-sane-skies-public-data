@@ -239,10 +239,11 @@
             "versions": {
                 "1.7.9": "6d167cb9487127a3a9b6f1f89d32543277768cae2d99bdb960e066a1c7528c84"
             },
-            "betaVersions": {
+            "betaModVersions": {
                 "1.7.9": "6d167cb9487127a3a9b6f1f89d32543277768cae2d99bdb960e066a1c7528c84",
                 "1.8.0-pre3": "cea29515de2238167f0eef5f95116a441c38fbce3d5c4235f16244b9b54c13e4",
-                "1.8.0-pre5": "7f011b20376a999b58a33bc1feb12be28465709837e95404b69dc6191212dec1"
+                "1.8.0-pre5": "7f011b20376a999b58a33bc1feb12be28465709837e95404b69dc6191212dec1",
+                "1.8.0-pre6": "50043c87820ce2cb432dad0fc56e244e8a25c726e64f19fe3f62a16778d6c423"
             }
         },
         "apec": {
