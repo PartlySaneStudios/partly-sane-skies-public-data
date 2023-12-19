@@ -226,8 +226,9 @@
             "versions": {
                 "2.1": "905819c9c65d4bebb64133e428de2ed2b4f0097475d014bee037a96ae65a7921"
             },
-            "betaVersions": {
-                "2.1": "905819c9c65d4bebb64133e428de2ed2b4f0097475d014bee037a96ae65a7921"
+            "betaModVersions": {
+                "2.1": "905819c9c65d4bebb64133e428de2ed2b4f0097475d014bee037a96ae65a7921",
+                "2.2-beta1": "91830050bf48a043f16cbdd4fa1677e7df994b76182c951ed0e1e826171230f9"
             }
         },
         "skytils": {
