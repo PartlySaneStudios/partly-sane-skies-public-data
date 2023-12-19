@@ -1040,6 +1040,14 @@
             "betaVersions": {
                 "1.7.4": "5ced551db45cd40324ce63872527bf6e0deed8a154eae94d1ea2ed71337a6405"
             }
+        },
+        "sidebarmod": {
+            "name": "Sidebar Mod Reloaded",
+            "download": "https://github.com/Alexdoru/SidebarMod",
+            "versions": {
+                "2.1": "a4ebe702df78412a332d0f635d6ccd9b5e2959fd40a636deef46972cc054955d"
+            },
+            "betaVersions": {}
         }
     }
 }
