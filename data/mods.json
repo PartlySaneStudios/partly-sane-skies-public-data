@@ -1013,6 +1013,9 @@
             "download": "https://bugg.co/quickplay/",
             "versions": {
                 "2.0.8": "14d037fe71f477ea5592440403226e12bf4ec2229166db3491035948b8090bd2"
+            },
+            "betaVersions": {
+                "2.0.8": "14d037fe71f477ea5592440403226e12bf4ec2229166db3491035948b8090bd2"
             }
         },
         "skyblockfeatures": {
@@ -1020,12 +1023,18 @@
             "download": "https://github.com/MrFast-js/SkyblockFeatures",
             "versions": {
                 "1.2.8": "dac4c7a35bfb018f2d2fe1a136bbab2a40fa10dbab0160a968f36e060f91a222"
+            },
+            "betaVersions": {
+                "1.2.8": "dac4c7a35bfb018f2d2fe1a136bbab2a40fa10dbab0160a968f36e060f91a222"
             }
         },
         "hyblockrnganalyzer": {
             "name": "Hyblock RNG Analyzer",
             "download": "https://github.com/doej1367/HyblockRngAnalyzer",
             "versions": {
+                "1.7.4": "5ced551db45cd40324ce63872527bf6e0deed8a154eae94d1ea2ed71337a6405"
+            },
+            "betaVersions": {
                 "1.7.4": "5ced551db45cd40324ce63872527bf6e0deed8a154eae94d1ea2ed71337a6405"
             }
         }
