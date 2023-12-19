@@ -1028,7 +1028,8 @@
                 "1.2.8": "dac4c7a35bfb018f2d2fe1a136bbab2a40fa10dbab0160a968f36e060f91a222"
             },
             "betaVersions": {
-                "1.2.8": "dac4c7a35bfb018f2d2fe1a136bbab2a40fa10dbab0160a968f36e060f91a222"
+                "1.2.8": "dac4c7a35bfb018f2d2fe1a136bbab2a40fa10dbab0160a968f36e060f91a222",
+                "1.2.9-BETA4": "d75f81981d222e3a12416f30e9751a9a39d6c5c8811d0a35430581e082760cbd"
             }
         },
         "hyblockrnganalyzer": {
