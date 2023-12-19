@@ -1048,7 +1048,9 @@
             "versions": {
                 "2.1": "a4ebe702df78412a332d0f635d6ccd9b5e2959fd40a636deef46972cc054955d"
             },
-            "betaVersions": {}
+            "betaVersions": {
+                "2.1": "a4ebe702df78412a332d0f635d6ccd9b5e2959fd40a636deef46972cc054955d"
+            }
         }
     }
 }
