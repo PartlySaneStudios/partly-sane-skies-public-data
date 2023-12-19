@@ -942,10 +942,10 @@
             "name": "NEUHAX",
             "download": "https://git.nea.moe/nea/neuhax",
             "versions": {
-                "1.1.3": "0433e69a4b50b73854ef14df407aa3c7119187335d5f258926e7828ef2676e79"
+                "1.1.3": "ec0d29a434c3ac42752bb77893a3484395bafc1df505b5ecb602fb34634afa9d"
             },
             "betaVersions": {
-                "1.1.3": "0433e69a4b50b73854ef14df407aa3c7119187335d5f258926e7828ef2676e79"
+                "1.1.3": "ec0d29a434c3ac42752bb77893a3484395bafc1df505b5ecb602fb34634afa9d"                
             }
         },
         "VolcAddons": {
