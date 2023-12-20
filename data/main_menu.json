@@ -10,6 +10,12 @@
     "prank_sound": false,
     "announcements": [
         {
+            "name": "[PSA] Partly Sane Skies v0.5.1 is actually out of date",
+            "date": "20 December 2023",
+            "description": "Partly Sane Skies v0.5.1 was showing it was out of date no matter what, but we did acutally release v0.5.2, which should fix this issue, among other things.",
+            "link": "https://github.com/PartlySaneStudios/partly-sane-skies/releases/tag/beta-v0.5.2"
+        },
+        {
             "name": "[December 15] SkyBlock Patch Notes",
             "description": "Hey all! We are here to inform you about some small changes that we have rolled or are currently rolling.",
             "date": "15 December 2023",
