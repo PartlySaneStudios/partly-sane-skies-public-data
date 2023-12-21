@@ -770,7 +770,8 @@
             },
             "betaVersions": {
                 "0.21.1": "8aeb3f56795358c8af46eb4c057cb0c952eab1823448acda97bac3888cf284bf",
-                "0.22.Beta.15": "36bbf70dd33dcbfdfa7335095f81ca47fdaeeadff698684c026cc3618ee702af"
+                "0.22.Beta.15": "36bbf70dd33dcbfdfa7335095f81ca47fdaeeadff698684c026cc3618ee702af",
+                "0.22.Beta.16": "c4c814f1a3f8c902c0c3d797406d8bb658c93511f8490f98c69ccd5f4403d604"
             }
         },
         "reauth": {
