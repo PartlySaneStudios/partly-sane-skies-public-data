@@ -1079,6 +1079,14 @@
                 "1.0.0": "922009ebe818c6b05516a9da36489c908f59e84b5b0ba1f5f015747d3a4c461f"
             },
             "betaVersions": {}
+        },
+        "resourcify": {
+            "name": "Resourcify",
+            "download": "https://modrinth.com/mod/resourcify",
+            "versions": {
+                "1.2.1": "f4310555db7dadfd409dd96dfd36b61accdbe93b90cec49fc5f12df32248000f"
+            },
+            "betaVersions": {}
         }
     }
 }
