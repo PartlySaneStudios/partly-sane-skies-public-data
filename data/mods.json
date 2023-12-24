@@ -55,7 +55,8 @@
             },
             "betaVersions": {
                 "2.1.0": "711872a0a3c4bc51a11bfcb53e7dc8c1fbbbeca2182a5f220230beebec24aa35",
-                "2.1.1": "e5576c868cbf2945527ba33897f6b1c922800c4ab2a4ad2f89b4462b6257b16a"
+                "2.1.1": "e5576c868cbf2945527ba33897f6b1c922800c4ab2a4ad2f89b4462b6257b16a",
+                "2.1.2": "267a89e428954edf8f77388ec78bd1aac0e5fa9ca14aa969663792a8ec9e7407"
             }
         },
         "insomnia": {
