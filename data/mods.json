@@ -855,10 +855,12 @@
             "name": "Essential",
             "download": "https://essential.gg/",
             "versions": {
-                "1.0.0": "a88b1d8075f8b2c232eb3d504f3015d63adda666b1af2bffc83fe78d135cbb4b"
+                "1.0.0": "a88b1d8075f8b2c232eb3d504f3015d63adda666b1af2bffc83fe78d135cbb4b",
+                "1.3.0+g5efc127e6f": "621dcfa12ac2c8d063e0c96e8ae5e0857cdf7a2fe8d305af80f04413d357f39b"
             },
             "betaVersions": {
-                "1.0.0": "a88b1d8075f8b2c232eb3d504f3015d63adda666b1af2bffc83fe78d135cbb4b"
+                "1.0.0": "a88b1d8075f8b2c232eb3d504f3015d63adda666b1af2bffc83fe78d135cbb4b",
+                "1.3.0+g5efc127e6f": "621dcfa12ac2c8d063e0c96e8ae5e0857cdf7a2fe8d305af80f04413d357f39b"
             }
         },
         "oneconfig": {
