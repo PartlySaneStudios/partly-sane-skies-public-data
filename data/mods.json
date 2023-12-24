@@ -124,10 +124,12 @@
             "name": "Hytils Reborn",
             "download": "https://github.com/Polyfrost/Hytils-Reborn",
             "versions": {
-                "1.6.0": "a4716a1d7793701ecdc04d5ab638b0a17641d4bf5adb52d7672bd91a7cbe1415"
+                "1.6.0": "a4716a1d7793701ecdc04d5ab638b0a17641d4bf5adb52d7672bd91a7cbe1415",
+                "1.6.1": "e67edf7084d88c65a22bcee36555b3c916c079a9a39c7ee69f0afcf1c718feda"
             },
             "betaVersions": {
-                "1.6.0": "a4716a1d7793701ecdc04d5ab638b0a17641d4bf5adb52d7672bd91a7cbe1415"
+                "1.6.0": "a4716a1d7793701ecdc04d5ab638b0a17641d4bf5adb52d7672bd91a7cbe1415",
+                "1.6.1": "e67edf7084d88c65a22bcee36555b3c916c079a9a39c7ee69f0afcf1c718feda"
             }
         },
         "replaymod": {
