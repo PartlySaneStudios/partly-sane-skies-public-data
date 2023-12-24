@@ -609,10 +609,12 @@
             "name": "VanillaHUD",
             "download": "https://modrinth.com/mod/vanillahud",
             "versions": {
-                "2.1.0": "c81a0999398c09890921395ed3c4432203ec55122afbb5440ac55d23984e6898"
+                "2.1.0": "c81a0999398c09890921395ed3c4432203ec55122afbb5440ac55d23984e6898",
+                "2.1.1": "e15cc7ec32ef0cb1f80374920b0a4a6ef8e92274a133c2cfe2d5d13793a6f59d"
             },
             "betaVersions": {
-                "2.1.0": "c81a0999398c09890921395ed3c4432203ec55122afbb5440ac55d23984e6898"
+                "2.1.0": "c81a0999398c09890921395ed3c4432203ec55122afbb5440ac55d23984e6898",
+                "2.1.1": "e15cc7ec32ef0cb1f80374920b0a4a6ef8e92274a133c2cfe2d5d13793a6f59d"
             }
         },
         "itlt": {
