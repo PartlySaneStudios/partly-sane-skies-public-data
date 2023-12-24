@@ -592,10 +592,12 @@
             "name": "Chatting",
             "download": "https://modrinth.com/mod/chatting",
             "versions": {
-                "1.5.0": "6bc122b4530afa9a7e461c0d9f4929376440551dc2ef1d1301510a711d43cc7a"
+                "1.5.0": "6bc122b4530afa9a7e461c0d9f4929376440551dc2ef1d1301510a711d43cc7a",
+                "1.5.1": "3f73a05b8def3bd67d9ffdca6cdd589825d57af6f11fe2012b133e43ba033b50"
             },
             "betaVersions": {
-                "1.5.0": "6bc122b4530afa9a7e461c0d9f4929376440551dc2ef1d1301510a711d43cc7a"
+                "1.5.0": "6bc122b4530afa9a7e461c0d9f4929376440551dc2ef1d1301510a711d43cc7a",
+                "1.5.1": "3f73a05b8def3bd67d9ffdca6cdd589825d57af6f11fe2012b133e43ba033b50"
             }
         },
         "reportplus": {
