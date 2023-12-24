@@ -338,10 +338,12 @@
             "name": "OverflowAnimations",
             "download": "https://modrinth.com/mod/animations",
             "versions": {
-                "2.0.1": "86947126f27d902a8be9529e188ce7f00435603922db64b043c25d9602899451"
+                "2.0.1": "86947126f27d902a8be9529e188ce7f00435603922db64b043c25d9602899451",
+                "2.1.0": "9e335c01dd7a40165ebc347d9936c5c44ce2b556977fef8a6a93745d35eb8dde"
             },
             "betaVersions": {
-                "2.0.1": "86947126f27d902a8be9529e188ce7f00435603922db64b043c25d9602899451"
+                "2.0.1": "86947126f27d902a8be9529e188ce7f00435603922db64b043c25d9602899451",
+                "2.1.0": "9e335c01dd7a40165ebc347d9936c5c44ce2b556977fef8a6a93745d35eb8dde"
             }
         },
         "sk1er_old_animations": {
