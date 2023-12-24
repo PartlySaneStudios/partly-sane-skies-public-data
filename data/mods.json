@@ -1069,6 +1069,14 @@
             "betaVersions": {
                 "2.1": "a4ebe702df78412a332d0f635d6ccd9b5e2959fd40a636deef46972cc054955d"
             }
+        },
+        "polynametag": {
+            "name": "PolyNametag",
+            "download": "https://modrinth.com/mod/polynametag",
+            "versions": {
+                "1.0.0": "922009ebe818c6b05516a9da36489c908f59e84b5b0ba1f5f015747d3a4c461f"
+            },
+            "betaVersions": {}
         }
     }
 }
