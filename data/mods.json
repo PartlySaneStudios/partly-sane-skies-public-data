@@ -782,14 +782,16 @@
             "name": "SkyHanni",
             "download": "https://github.com/hannibal002/SkyHanni",
             "versions": {
-                "0.21.1": "8aeb3f56795358c8af46eb4c057cb0c952eab1823448acda97bac3888cf284bf"
+                "0.21.1": "8aeb3f56795358c8af46eb4c057cb0c952eab1823448acda97bac3888cf284bf",
+                "0.22": "52a223c2c25a3ba92d9eb4bb28b4e02cc797ffe877d33483b329186ff2deca8b"
             },
             "betaVersions": {
                 "0.21.1": "8aeb3f56795358c8af46eb4c057cb0c952eab1823448acda97bac3888cf284bf",
                 "0.22.Beta.15": "36bbf70dd33dcbfdfa7335095f81ca47fdaeeadff698684c026cc3618ee702af",
                 "0.22.Beta.16": "c4c814f1a3f8c902c0c3d797406d8bb658c93511f8490f98c69ccd5f4403d604",
                 "0.22.Beta.17": "7479b0d30177a5f08e5bdb3d6b2a3f078fea7fb8c71bc839a8aa11be23378833",
-                "0.22.Beta.18": "9196457e8c0b61cc0f3dd763b01155d35c7f38f083b53bb2074b3f667675b601"
+                "0.22.Beta.18": "9196457e8c0b61cc0f3dd763b01155d35c7f38f083b53bb2074b3f667675b601",
+                "0.22": "52a223c2c25a3ba92d9eb4bb28b4e02cc797ffe877d33483b329186ff2deca8b"
             }
         },
         "reauth": {
