@@ -23,7 +23,8 @@
                 "beta-v0.4.1": "89f33940388058bf3d68b110188bb6fea9fc158e74654e7e6db857df6238867c",
                 "beta-v0.5": "35383b31104e879e41c6b23efa748a4824343d82407f2653d2eaaff9121e3b23",
                 "beta-v0.5.1": "64d5bfb78dc3a490bc860d41fd4076154f6481d37ac3e149ba2834522b3730e0",
-                "beta-v0.5.2": "25f0562971528c43963903ef8f6846130b826e111017189b7ae12a62285f4a4a"
+                "beta-v0.5.2": "25f0562971528c43963903ef8f6846130b826e111017189b7ae12a62285f4a4a",
+                "beta-v0.5.3-prerelease-1": "23b39e4376f3ff8720094827a8bf4de016dc1337f7bd2a5e6d686cbbff58c8c1"
             }
         },
         "text_overflow_scroll": {
