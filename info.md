@@ -168,3 +168,55 @@ Example:
     "GARDEN_SCYTHE": 20,
 }
 ```
+
+## [/data/constants/sanity_check_data.json](/data/constants/sanity_check_data.json)
+
+A ``"sanity_check_data"`` object containing the values necessary to perform a(n ultimately) silly sanity check on a player's profile. Currently remains dormant until the Hypixel API v2 transition is fully finished.
+
+More data points may be added later on; please try to keep them as ints/longs.
+
+Example:
+
+```json
+{
+  "highestnwlong": 360567766418,
+  "oldestprofileunixlong": 1560276201428
+}
+```
+
+## [/data/constants/booster_cookie_price.json](/data/constants/booster_cookie_price.json)
+
+A ``"booster_cookie_price"`` object contains the values necessary to "convert" SkyBlock coins into various currencies of IRL cash via the ``/coins2cookies`` command from PSS in-game solely for educational purposes. Much of this data is based off of what's on store.hypixel.net.
+
+In the unlikely event that Hypixel adds currencies to their store, please *append* to:
+- The ``"order"`` array (containing three letter abbreviations of currencies as strings)
+_ The nested ``"currencysymbols"`` object (containing the IRL cost of the 675 gems bundle in each currency before discounts, taxes, or othern fees)
+- The nested ``"currencysymbols"`` object (containing the [Minecraft-supported] currency symbol as strings)
+- The nested ``"currencysymbolsprecedes"`` object (containing whether the currency symbol should be placed before or after the monetary value as booleans)
+
+An abridged example of the object is provided below.
+
+Example:
+```json
+{
+  "ingame": {
+    "onecookiegem": 325,
+    "sixcookiesgem": 1950,
+    "twelvecookiesgem": 3900
+  },
+  "storehypixelnet": {
+    "baseurl": "https://store.hypixel.net/category/skyblock-gems?currency=",
+    "smallestgembundle": 675,
+    "order": [
+      "AUD"
+    ],
+    "AUD": 7.87
+  },
+  "currencysymbols": {
+    "AUD": "AU$"
+  },
+  "currencysymbolprecedes": {
+    "AUD": true
+  }
+}
+```
