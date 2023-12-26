@@ -1,19 +1,19 @@
 {
     "positive_strings" : {
-        "{player} has obtained Wither Key!" : "§8Keys",
-        "DUNGEON BUFF! {player} found a " : "§cBlessings",
-        "PUZZLE SOLVED! {player} " : "§aPuzzles",
-        "{player} has obtained" : "§6Rooms",
-        "{player} found a Wither Essence!" : "§9Secrets",
-        "{player} completed a device!" : "§cTerminals",
-        "{player} activated a terminal!" : "§cTerminals",
-        "{player} activated a lever!" : "§cTerminals",
-        "{player} picked up an Energy Crystal!" : "§bCrystals"
+        "{player} has obtained Wither Key!" : "\u00A78Keys",
+        "DUNGEON BUFF! {player} found a " : "\u00A7cBlessings",
+        "PUZZLE SOLVED! {player} " : "\u00A7aPuzzles",
+        "{player} has obtained" : "\u00A76Rooms",
+        "{player} found a Wither Essence!" : "\u00A79Secrets",
+        "{player} completed a device!" : "\u00A7cTerminals",
+        "{player} activated a terminal!" : "\u00A7cTerminals",
+        "{player} activated a lever!" : "\u00A7cTerminals",
+        "{player} picked up an Energy Crystal!" : "\u00A7bCrystals"
     },
 
     "negative_strings" : {
-        "☠️ {player} died" : "§4Deaths",
-        "☠️ {player} disconnected from the Dungeon" : "§4Deaths"
+        "☠️ {player} died" : "\u00A74Deaths",
+        "☠️ {player} disconnected from the Dungeon" : "\u00A74Deaths"
     }
 
 }
