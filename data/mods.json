@@ -1105,6 +1105,14 @@
             "betaVersions": {
                 "1.2.1.1": "7973819a9a05b68f522063009ea34c5c079f38799d180ac5b15ca5a8ba1a3e26"
             }
+        },
+        "quickquit": {
+            "name": "QuickQuit",
+            "download": "https://modrinth.com/mod/quickquit",
+            "versions": {
+                "1.0.0": "3c08afce4aa2a223404b4dddcae40dc387753ab1319b11b150040ece4426f9c5"
+            },
+            "betaVersions": {}
         }
     }
 }
