@@ -1099,9 +1099,12 @@
             "name": "Resourcify",
             "download": "https://modrinth.com/mod/resourcify",
             "versions": {
-                "1.2.1": "f4310555db7dadfd409dd96dfd36b61accdbe93b90cec49fc5f12df32248000f"
+                "1.2.1": "f4310555db7dadfd409dd96dfd36b61accdbe93b90cec49fc5f12df32248000f",
+                "1.2.1.1": "7973819a9a05b68f522063009ea34c5c079f38799d180ac5b15ca5a8ba1a3e26"
             },
-            "betaVersions": {}
+            "betaVersions": {
+                "1.2.1.1": "7973819a9a05b68f522063009ea34c5c079f38799d180ac5b15ca5a8ba1a3e26"
+            }
         }
     }
 }
