@@ -188,6 +188,8 @@ Example:
 
 A ``"booster_cookie_price"`` object contains the values necessary to "convert" SkyBlock coins into various currencies of IRL cash via the ``/coins2cookies`` command from PSS in-game solely for educational purposes. Much of this data is based off of what's on store.hypixel.net.
 
+The nested ``"ingame"`` and ``"storehypixelnet"`` objects are meant to store various constants, from the cost of gems per batch of booster cookies to the IRL price of the smallest SkyBlock gem bundle to the currencies supported by store.hypixel.net.
+
 In the unlikely event that Hypixel adds currencies to their store, please *append* to:
 - The ``"order"`` array (containing three letter abbreviations of currencies as strings)
 _ The nested ``"currencysymbols"`` object (containing the IRL cost of the 675 gems bundle in each currency before discounts, taxes, or othern fees)
