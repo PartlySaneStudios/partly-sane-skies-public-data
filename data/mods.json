@@ -203,9 +203,11 @@
             "name": "SkyblockAddons",
             "download": "https://biscuit.codes/mods/skyblockaddons/",
             "versions": {
+                "${version}": "d78b8b7d8e11bf3dcfa6bc0e11ff5828ae160f5fa67de4bd344cbb7b91cf2fb4",
                 "1.7.3+7380": "fb2f7d36afa61ae84e13a685afc37cd6e47e983b5190a3195ad1784fa40d4f17"
             },
             "betaVersions": {
+                "${version}": "d78b8b7d8e11bf3dcfa6bc0e11ff5828ae160f5fa67de4bd344cbb7b91cf2fb4",
                 "1.7.3+7380": "fb2f7d36afa61ae84e13a685afc37cd6e47e983b5190a3195ad1784fa40d4f17"
             }
         },
@@ -344,11 +346,13 @@
             "download": "https://modrinth.com/mod/animations",
             "versions": {
                 "2.0.1": "86947126f27d902a8be9529e188ce7f00435603922db64b043c25d9602899451",
-                "2.1.0": "9e335c01dd7a40165ebc347d9936c5c44ce2b556977fef8a6a93745d35eb8dde"
+                "2.1.0": "9e335c01dd7a40165ebc347d9936c5c44ce2b556977fef8a6a93745d35eb8dde",
+                "2.1.1": "1d787c70f460a0c203b6ae28b784ac7abc0b745c6cb218e0555a4e800930cac3"
             },
             "betaVersions": {
                 "2.0.1": "86947126f27d902a8be9529e188ce7f00435603922db64b043c25d9602899451",
-                "2.1.0": "9e335c01dd7a40165ebc347d9936c5c44ce2b556977fef8a6a93745d35eb8dde"
+                "2.1.0": "9e335c01dd7a40165ebc347d9936c5c44ce2b556977fef8a6a93745d35eb8dde",
+                "2.1.1": "1d787c70f460a0c203b6ae28b784ac7abc0b745c6cb218e0555a4e800930cac3"
             }
         },
         "sk1er_old_animations": {
@@ -794,7 +798,8 @@
                 "0.22.Beta.16": "c4c814f1a3f8c902c0c3d797406d8bb658c93511f8490f98c69ccd5f4403d604",
                 "0.22.Beta.17": "7479b0d30177a5f08e5bdb3d6b2a3f078fea7fb8c71bc839a8aa11be23378833",
                 "0.22.Beta.18": "9196457e8c0b61cc0f3dd763b01155d35c7f38f083b53bb2074b3f667675b601",
-                "0.22": "52a223c2c25a3ba92d9eb4bb28b4e02cc797ffe877d33483b329186ff2deca8b"
+                "0.22": "52a223c2c25a3ba92d9eb4bb28b4e02cc797ffe877d33483b329186ff2deca8b",
+                "0.23.Beta.1": "4c846515e63a51dca241a267375c0e204415debebe97aecf899fd907ab40a47a"
             }
         },
         "reauth": {
@@ -1061,7 +1066,8 @@
             },
             "betaVersions": {
                 "1.2.8": "dac4c7a35bfb018f2d2fe1a136bbab2a40fa10dbab0160a968f36e060f91a222",
-                "1.2.9-BETA4": "d75f81981d222e3a12416f30e9751a9a39d6c5c8811d0a35430581e082760cbd"
+                "1.2.9-BETA4": "d75f81981d222e3a12416f30e9751a9a39d6c5c8811d0a35430581e082760cbd",
+                "1.2.9-BETA5": "b53dd474bccd24a9c7bf958077ed1dea2c571abbcf69374935a3c6777104297e"
             }
         },
         "hyblockrnganalyzer": {
@@ -1096,7 +1102,18 @@
             "name": "Resourcify",
             "download": "https://modrinth.com/mod/resourcify",
             "versions": {
-                "1.2.1": "f4310555db7dadfd409dd96dfd36b61accdbe93b90cec49fc5f12df32248000f"
+                "1.2.1": "f4310555db7dadfd409dd96dfd36b61accdbe93b90cec49fc5f12df32248000f",
+                "1.2.1.1": "7973819a9a05b68f522063009ea34c5c079f38799d180ac5b15ca5a8ba1a3e26"
+            },
+            "betaVersions": {
+                "1.2.1.1": "7973819a9a05b68f522063009ea34c5c079f38799d180ac5b15ca5a8ba1a3e26"
+            }
+        },
+        "quickquit": {
+            "name": "QuickQuit",
+            "download": "https://modrinth.com/mod/quickquit",
+            "versions": {
+                "1.0.0": "3c08afce4aa2a223404b4dddcae40dc387753ab1319b11b150040ece4426f9c5"
             },
             "betaVersions": {}
         }
