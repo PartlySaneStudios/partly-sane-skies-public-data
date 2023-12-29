@@ -10,9 +10,9 @@
     },
 
     "prerelease_channel": {
-        "latest_version": "beta-v0.5.3",
+        "latest_version": "beta-v0.5.4-prerelease-1",
         "latest_version_description": "",
-        "latest_version_release_date": "28 December 2023"
+        "latest_version_release_date": "29 December 2023"
     },
 
     "prank_sound": false,
