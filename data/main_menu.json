@@ -3,20 +3,23 @@
         "latest_version": "beta-v0.5.3",
         "latest_version_description": "",
         "latest_version_release_date": "28 December 2023",
-
         "discord_invite_full": "https://discord.gg/v4PU3WeH7z",
         "discord_invite_short_link": "discord.gg/v4PU3WeH7z",
         "discord_invite_code": "v4PU3WeH7z"
     },
-
     "prerelease_channel": {
         "latest_version": "beta-v0.5.4-prerelease-1",
         "latest_version_description": "",
         "latest_version_release_date": "29 December 2023"
     },
-
     "prank_sound": false,
     "announcements": [
+        {
+            "name": "Skyblock 2023 - Recap, and looking forward",
+            "date": "30 December 2023",
+            "description": "Hello, As the year draws to a close, let's reflect on our achievements and look ahead to what 2024 holds for us.",
+            "link": "https://hypixel.net/threads/skyblock-2023-recap-and-looking-forward.5560177/"
+        },
         {
             "name": "[December 15] SkyBlock Patch Notes",
             "description": "Hey all! We are here to inform you about some small changes that we have rolled or are currently rolling.",
