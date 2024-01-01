@@ -1121,6 +1121,14 @@
                 "1.0.0": "3c08afce4aa2a223404b4dddcae40dc387753ab1319b11b150040ece4426f9c5"
             },
             "betaVersions": {}
+        },
+        "betternightvision": {
+            "name": "BetterNightVision",
+            "download": "https://modrinth.com/mod/betternightvision",
+            "versions": {
+                "1.0.0": "7124388b1e810c8fca4b57c73b683707327a3c41d57beb28494fc8ec4fe06040"
+            },
+            "betaVersions": {}
         }
     }
 }
