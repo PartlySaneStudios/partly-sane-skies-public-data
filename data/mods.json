@@ -1009,10 +1009,12 @@
             "name": "SomeWaterSolver",
             "download": "https://github.com/Desco1/WaterSolver",
             "versions": {
-                "1.0": "3323a8355947254b92a108601c8314ab8981cb196b12e93a2c185bf9bb9cb8a6"
+                "1.0": "3323a8355947254b92a108601c8314ab8981cb196b12e93a2c185bf9bb9cb8a6",
+                "unspecified": "e76815eace1078fda06353bb3a8da979a66cf21a1e3b7531d7a3a9e0e5ab9265"
             },
             "betaVersions": {
-                "1.0": "3323a8355947254b92a108601c8314ab8981cb196b12e93a2c185bf9bb9cb8a6"
+                "1.0": "3323a8355947254b92a108601c8314ab8981cb196b12e93a2c185bf9bb9cb8a6",
+                "unspecified": "e76815eace1078fda06353bb3a8da979a66cf21a1e3b7531d7a3a9e0e5ab9265"
             }
         },
         "inventoryhud": {
