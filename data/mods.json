@@ -17,14 +17,19 @@
                 "beta-v0.4.1": "89f33940388058bf3d68b110188bb6fea9fc158e74654e7e6db857df6238867c",
                 "beta-v0.5": "35383b31104e879e41c6b23efa748a4824343d82407f2653d2eaaff9121e3b23",
                 "beta-v0.5.1": "64d5bfb78dc3a490bc860d41fd4076154f6481d37ac3e149ba2834522b3730e0",
-                "beta-v0.5.2": "25f0562971528c43963903ef8f6846130b826e111017189b7ae12a62285f4a4a"
+                "beta-v0.5.2": "25f0562971528c43963903ef8f6846130b826e111017189b7ae12a62285f4a4a",
+                "beta-v0.5.3": "48705190919e3060748302486cf20906d8cde5c6ddf2f96d0f8d8fd3bc5dbf56",
+                "beta-v0.5.4": "04b636e69ab7df862a62889e9371521ba2af7e67502f102550327e8cfd57717f"
             },
             "betaVersions": {
                 "beta-v0.4.1": "89f33940388058bf3d68b110188bb6fea9fc158e74654e7e6db857df6238867c",
                 "beta-v0.5": "35383b31104e879e41c6b23efa748a4824343d82407f2653d2eaaff9121e3b23",
                 "beta-v0.5.1": "64d5bfb78dc3a490bc860d41fd4076154f6481d37ac3e149ba2834522b3730e0",
                 "beta-v0.5.2": "25f0562971528c43963903ef8f6846130b826e111017189b7ae12a62285f4a4a",
-                "beta-v0.5.3-prerelease-1": "23b39e4376f3ff8720094827a8bf4de016dc1337f7bd2a5e6d686cbbff58c8c1"
+                "beta-v0.5.3-prerelease-1": "23b39e4376f3ff8720094827a8bf4de016dc1337f7bd2a5e6d686cbbff58c8c1",
+                "beta-v0.5.3": "48705190919e3060748302486cf20906d8cde5c6ddf2f96d0f8d8fd3bc5dbf56",
+                "beta-v0.5.4-prerelease-1": "475a3f0ea16601349a0fd4c4aa66b96fcd1c867ebdff4d31bb9a9f6d617ea83d",
+                "beta-v0.5.4": "04b636e69ab7df862a62889e9371521ba2af7e67502f102550327e8cfd57717f"
             }
         },
         "text_overflow_scroll": {
@@ -799,7 +804,9 @@
                 "0.22.Beta.17": "7479b0d30177a5f08e5bdb3d6b2a3f078fea7fb8c71bc839a8aa11be23378833",
                 "0.22.Beta.18": "9196457e8c0b61cc0f3dd763b01155d35c7f38f083b53bb2074b3f667675b601",
                 "0.22": "52a223c2c25a3ba92d9eb4bb28b4e02cc797ffe877d33483b329186ff2deca8b",
-                "0.23.Beta.1": "4c846515e63a51dca241a267375c0e204415debebe97aecf899fd907ab40a47a"
+                "0.23.Beta.1": "4c846515e63a51dca241a267375c0e204415debebe97aecf899fd907ab40a47a",
+                "0.23.Beta.2": "44e6e4c304f10498a693fe1ac94afab4bbea89e828d0f422c4a425111b79f7ea",
+                "0.23.Beta.3": "b3b025f531012ef3aa403504aa562e4a0e30ec3d237c18eb79d04e0cb3fe4dba"
             }
         },
         "reauth": {
@@ -1002,10 +1009,12 @@
             "name": "SomeWaterSolver",
             "download": "https://github.com/Desco1/WaterSolver",
             "versions": {
-                "1.0": "3323a8355947254b92a108601c8314ab8981cb196b12e93a2c185bf9bb9cb8a6"
+                "1.0": "3323a8355947254b92a108601c8314ab8981cb196b12e93a2c185bf9bb9cb8a6",
+                "unspecified": "e76815eace1078fda06353bb3a8da979a66cf21a1e3b7531d7a3a9e0e5ab9265"
             },
             "betaVersions": {
-                "1.0": "3323a8355947254b92a108601c8314ab8981cb196b12e93a2c185bf9bb9cb8a6"
+                "1.0": "3323a8355947254b92a108601c8314ab8981cb196b12e93a2c185bf9bb9cb8a6",
+                "unspecified": "e76815eace1078fda06353bb3a8da979a66cf21a1e3b7531d7a3a9e0e5ab9265"
             }
         },
         "inventoryhud": {
@@ -1067,7 +1076,9 @@
             "betaVersions": {
                 "1.2.8": "dac4c7a35bfb018f2d2fe1a136bbab2a40fa10dbab0160a968f36e060f91a222",
                 "1.2.9-BETA4": "d75f81981d222e3a12416f30e9751a9a39d6c5c8811d0a35430581e082760cbd",
-                "1.2.9-BETA5": "b53dd474bccd24a9c7bf958077ed1dea2c571abbcf69374935a3c6777104297e"
+                "1.2.9-BETA5": "b53dd474bccd24a9c7bf958077ed1dea2c571abbcf69374935a3c6777104297e",
+                "1.2.9-BETA6": "31a9ecdb62cf2038467c2fd2c65f0d88d0b98acf8973141f21730d98b91f2686",
+                "1.2.9-BETA7": "4a26dc5e24fb7ba44260652fbf140a49847a50653d9d305529a77cd4f8d62304"
             }
         },
         "hyblockrnganalyzer": {
@@ -1116,6 +1127,25 @@
                 "1.0.0": "3c08afce4aa2a223404b4dddcae40dc387753ab1319b11b150040ece4426f9c5"
             },
             "betaVersions": {}
+        },
+        "betternightvision": {
+            "name": "BetterNightVision",
+            "download": "https://modrinth.com/mod/betternightvision",
+            "versions": {
+                "1.0.0": "7124388b1e810c8fca4b57c73b683707327a3c41d57beb28494fc8ec4fe06040"
+            },
+            "betaVersions": {}
+        },
+        "legacy-chunk-borders": {
+            "name": "Legacy Chunk Borders",
+            "download": "https://modrinth.com/mod/legacy-chunk-borders-forge",
+            "versions": {
+                "1.0.2": "c077764e4c5a493870bfe7532b4ca431a15430fee1c73b610a29ff0b2cce1ae3",
+                "1.1.1": "688a9931fad1023e7e3436011ba5619a2e3c239033d61463a9388951f77e4582"
+            },
+            "betaVersions": {
+                "1.1.1": "688a9931fad1023e7e3436011ba5619a2e3c239033d61463a9388951f77e4582"
+            }
         }
     }
 }
