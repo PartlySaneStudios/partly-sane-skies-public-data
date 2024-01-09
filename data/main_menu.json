@@ -15,6 +15,12 @@
     "prank_sound": false,
     "announcements": [
         {
+            "name": "test",
+            "date": "test",
+            "description": "test",
+            "link": "test"
+        },
+        {
             "name": "Skyblock 2023 - Recap, and looking forward",
             "date": "30 December 2023",
             "description": "Hello, As the year draws to a close, let's reflect on our achievements and look ahead to what 2024 holds for us.",
