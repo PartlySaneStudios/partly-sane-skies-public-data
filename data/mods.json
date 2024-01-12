@@ -1133,7 +1133,9 @@
             "versions": {
                 "1.0.0": "3c08afce4aa2a223404b4dddcae40dc387753ab1319b11b150040ece4426f9c5"
             },
-            "betaVersions": {}
+            "betaVersions": {
+                "1.0.0": "3c08afce4aa2a223404b4dddcae40dc387753ab1319b11b150040ece4426f9c5"
+            }
         },
         "betternightvision": {
             "name": "BetterNightVision",
