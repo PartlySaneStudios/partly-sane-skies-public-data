@@ -1143,7 +1143,9 @@
             "versions": {
                 "1.0.0": "7124388b1e810c8fca4b57c73b683707327a3c41d57beb28494fc8ec4fe06040"
             },
-            "betaVersions": {}
+            "betaVersions": {
+                "1.0.0": "7124388b1e810c8fca4b57c73b683707327a3c41d57beb28494fc8ec4fe06040"
+            }
         },
         "legacy-chunk-borders": {
             "name": "Legacy Chunk Borders",
