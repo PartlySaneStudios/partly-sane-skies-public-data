@@ -1114,7 +1114,9 @@
             "versions": {
                 "1.0.0": "922009ebe818c6b05516a9da36489c908f59e84b5b0ba1f5f015747d3a4c461f"
             },
-            "betaVersions": {}
+            "betaVersions": {
+                "1.0.0": "922009ebe818c6b05516a9da36489c908f59e84b5b0ba1f5f015747d3a4c461f"
+            }
         },
         "resourcify": {
             "name": "Resourcify",
