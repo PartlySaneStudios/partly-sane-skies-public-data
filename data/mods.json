@@ -1085,7 +1085,8 @@
                 "1.2.9-BETA5": "b53dd474bccd24a9c7bf958077ed1dea2c571abbcf69374935a3c6777104297e",
                 "1.2.9-BETA6": "31a9ecdb62cf2038467c2fd2c65f0d88d0b98acf8973141f21730d98b91f2686",
                 "1.2.9-BETA7": "4a26dc5e24fb7ba44260652fbf140a49847a50653d9d305529a77cd4f8d62304",
-                "1.2.9": "c0334423bf123c69e240fceb5fead35a541a204e2e0b4282bee2ac409f2689dc"
+                "1.2.9": "c0334423bf123c69e240fceb5fead35a541a204e2e0b4282bee2ac409f2689dc",
+                "1.3.0-BETA2": "12522163fe3abe03fb17a17e5e477fc761dc97aad26e7e57735af5f4912b5123"
             }
         },
         "hyblockrnganalyzer": {
