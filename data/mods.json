@@ -1165,6 +1165,14 @@
             "betaVersions": {
                 "1.1.1": "688a9931fad1023e7e3436011ba5619a2e3c239033d61463a9388951f77e4582"
             }
+        },
+        "dredmod": {
+            "name": "Dredlig Mod",
+            "download": "https://www.dred.dev",
+            "versions": {
+                "1.0.0.0": "1da2e4656175b9c87a420e2f841959f0a5a532db950c4600aaf064178a524095"
+            },
+            "betaVersions": {}
         }
     }
 }
