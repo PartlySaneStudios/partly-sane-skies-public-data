@@ -965,16 +965,6 @@
                 "1.2.6": "e6274e5392e72ed4064401b7142861337a08442c0ad451bd32f45a8fa57cee15"
             }
         },
-        "janutils": {
-            "name": "JanUtils",
-            "download": "https://github.com/romangraef/Forge1.8.9Template/",
-            "versions": {
-                "1.0.0": "6363e661a0aa539487bcbf74c6c2c20873d33fdeab55521e37a22ef66bd95632"
-            },
-            "betaVersions": {
-                "1.0.0": "6363e661a0aa539487bcbf74c6c2c20873d33fdeab55521e37a22ef66bd95632"
-            }
-        },
         "scathapro": {
             "name": "Scatha-Pro",
             "download": "https://github.com/NamelessJu/Scatha-Pro/releases",
