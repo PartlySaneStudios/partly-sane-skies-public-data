@@ -1172,7 +1172,9 @@
             "versions": {
                 "1.0.0.0": "1da2e4656175b9c87a420e2f841959f0a5a532db950c4600aaf064178a524095"
             },
-            "betaVersions": {}
+            "betaVersions": {
+                "1.0.0.0": "1da2e4656175b9c87a420e2f841959f0a5a532db950c4600aaf064178a524095"
+            }
         }
     }
 }
