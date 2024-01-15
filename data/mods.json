@@ -1100,12 +1100,12 @@
             "name": "Sidebar Mod Revamp",
             "download": "https://github.com/Alexdoru/SidebarMod",
             "versions": {
-                "2.1": "a4ebe702df78412a332d0f635d6ccd9b5e2959fd40a636deef46972cc054955d",
-                "2.0": "7dd2fac02ee9b4dd9cd608330aa4428ea096462923f4a5cc3b60467ffc2cf2ff"
+                "2.0": "7dd2fac02ee9b4dd9cd608330aa4428ea096462923f4a5cc3b60467ffc2cf2ff",
+                "2.1": "a4ebe702df78412a332d0f635d6ccd9b5e2959fd40a636deef46972cc054955d"
             },
             "betaVersions": {
-                "2.1": "a4ebe702df78412a332d0f635d6ccd9b5e2959fd40a636deef46972cc054955d",
-                "2.0": "7dd2fac02ee9b4dd9cd608330aa4428ea096462923f4a5cc3b60467ffc2cf2ff"
+                "2.0": "7dd2fac02ee9b4dd9cd608330aa4428ea096462923f4a5cc3b60467ffc2cf2ff",
+                "2.1": "a4ebe702df78412a332d0f635d6ccd9b5e2959fd40a636deef46972cc054955d"
             }
         },
         "polynametag": {
