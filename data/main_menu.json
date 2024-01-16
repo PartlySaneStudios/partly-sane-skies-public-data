@@ -15,6 +15,12 @@
     "prank_sound": false,
     "announcements": [
         {
+            "name": "SkyBlock Patch Notes 0.19.10 - Fann Changes and Other Improvements",
+            "date": "26 January 2024",
+            "description": "Welcome to SkyBlock Patch 0.19.10. We’re releasing a bunch of small pets changes today.",
+            "link": "https://hypixel.net/threads/skyblock-patch-notes-0-19-10-fann-changes-and-other-improvements.5577656/"
+        },
+        {
             "name": "Skyblock 2023 - Recap, and looking forward",
             "date": "30 December 2023",
             "description": "Hello, As the year draws to a close, let's reflect on our achievements and look ahead to what 2024 holds for us.",
