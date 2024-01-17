@@ -19,7 +19,10 @@
                 "beta-v0.5.1": "64d5bfb78dc3a490bc860d41fd4076154f6481d37ac3e149ba2834522b3730e0",
                 "beta-v0.5.2": "25f0562971528c43963903ef8f6846130b826e111017189b7ae12a62285f4a4a",
                 "beta-v0.5.3": "48705190919e3060748302486cf20906d8cde5c6ddf2f96d0f8d8fd3bc5dbf56",
-                "beta-v0.5.4": "04b636e69ab7df862a62889e9371521ba2af7e67502f102550327e8cfd57717f"
+                "beta-v0.5.4": "04b636e69ab7df862a62889e9371521ba2af7e67502f102550327e8cfd57717f",
+                "beta-v0.5.5 - BROKEN VERSION": "09b49aa13554589d34dee2a5a9e071328cd2df26ff7b174ec40cc3fd27ba3cb5",
+                "beta-v0.5.5": "bd1c07e1a659274071e632944b68c149d420b30355bcd592931a610d9303f4a3",
+                "beta-v0.5.6": "f200e9e26878bf01de18cd59a51741fa30fee19e3a7db8e0327a8c13a1fb36a5"
             },
             "betaVersions": {
                 "beta-v0.4.1": "89f33940388058bf3d68b110188bb6fea9fc158e74654e7e6db857df6238867c",
@@ -29,7 +32,10 @@
                 "beta-v0.5.3-prerelease-1": "23b39e4376f3ff8720094827a8bf4de016dc1337f7bd2a5e6d686cbbff58c8c1",
                 "beta-v0.5.3": "48705190919e3060748302486cf20906d8cde5c6ddf2f96d0f8d8fd3bc5dbf56",
                 "beta-v0.5.4-prerelease-1": "475a3f0ea16601349a0fd4c4aa66b96fcd1c867ebdff4d31bb9a9f6d617ea83d",
-                "beta-v0.5.4": "04b636e69ab7df862a62889e9371521ba2af7e67502f102550327e8cfd57717f"
+                "beta-v0.5.4": "04b636e69ab7df862a62889e9371521ba2af7e67502f102550327e8cfd57717f",
+                "beta-v0.5.5 - BROKEN VERSION": "09b49aa13554589d34dee2a5a9e071328cd2df26ff7b174ec40cc3fd27ba3cb5",
+                "beta-v0.5.5": "bd1c07e1a659274071e632944b68c149d420b30355bcd592931a610d9303f4a3",
+                "beta-v0.5.6": "f200e9e26878bf01de18cd59a51741fa30fee19e3a7db8e0327a8c13a1fb36a5"
             }
         },
         "text_overflow_scroll": {
@@ -263,7 +269,9 @@
                 "1.7.9": "6d167cb9487127a3a9b6f1f89d32543277768cae2d99bdb960e066a1c7528c84",
                 "1.8.0-pre3": "cea29515de2238167f0eef5f95116a441c38fbce3d5c4235f16244b9b54c13e4",
                 "1.8.0-pre5": "7f011b20376a999b58a33bc1feb12be28465709837e95404b69dc6191212dec1",
-                "1.8.0-pre6": "50043c87820ce2cb432dad0fc56e244e8a25c726e64f19fe3f62a16778d6c423"
+                "1.8.0-pre6": "50043c87820ce2cb432dad0fc56e244e8a25c726e64f19fe3f62a16778d6c423",
+                "1.8.0-pre7": "fcf118444ef158fb58a35dc54a20f0356e7847a26c1419b21ec3884936122963",
+                "1.8.0-pre8": "2bf6fb186f349e4dc56d370ed2c2cae8f073b0521e40e1199b6792528cb1e37a"
             }
         },
         "apec": {
@@ -303,7 +311,7 @@
                 "4.0.0": "aec8bedcee875a2a277b4fadad2ace2592d9856f276487e3f4caabf78b78dcaf"
             },
             "betaVersions": {
-                "4.0.0": "aec8bedcee875a2a277b4fadad2ace2592d9856f276487e3f4caabf78b78dcaf"
+                "4.0.0": "a86542eb4e31f0b1d23da920316b199a4d092bd916505fb2b2b5e0c70b7db7c3"
             }
         },
         "skyblock_dungeons_guide": {
@@ -806,7 +814,12 @@
                 "0.22": "52a223c2c25a3ba92d9eb4bb28b4e02cc797ffe877d33483b329186ff2deca8b",
                 "0.23.Beta.1": "4c846515e63a51dca241a267375c0e204415debebe97aecf899fd907ab40a47a",
                 "0.23.Beta.2": "44e6e4c304f10498a693fe1ac94afab4bbea89e828d0f422c4a425111b79f7ea",
-                "0.23.Beta.3": "b3b025f531012ef3aa403504aa562e4a0e30ec3d237c18eb79d04e0cb3fe4dba"
+                "0.23.Beta.3": "b3b025f531012ef3aa403504aa562e4a0e30ec3d237c18eb79d04e0cb3fe4dba",
+                "0.23.Beta.4": "7a7423b5c7c449d15ff8df7b0686b20672b5fa6e8a0e2593a33165d25ded5cf9",
+                "0.23.Beta.5": "91c3d51dcdb3c7b696a6aa8655935e7dc877c44bfbcd0b9ae97ea1309c7211b6",
+                "0.23.Beta.6": "bf3d1dff2c596c4f7a4cfe9f92669a35b26eea2f95f4aca61b3eabc58de55272",
+                "0.23.Beta.7": "5c0399ef9f805ae6d00df2488c36d7976dc5199e32d79cab3f7ac5362c06db1e",
+                "0.23.Beta.8": "8d148847cda4854f6ef0e52f4273415555d656aa286033202265823fe595905f"
             }
         },
         "reauth": {
@@ -876,11 +889,13 @@
             "download": "https://essential.gg/",
             "versions": {
                 "1.0.0": "a88b1d8075f8b2c232eb3d504f3015d63adda666b1af2bffc83fe78d135cbb4b",
-                "1.3.0+g5efc127e6f": "621dcfa12ac2c8d063e0c96e8ae5e0857cdf7a2fe8d305af80f04413d357f39b"
+                "1.3.0+g5efc127e6f": "621dcfa12ac2c8d063e0c96e8ae5e0857cdf7a2fe8d305af80f04413d357f39b",
+                "1.3.0.2+ge922acc4a7": "364cc01f55d22c85999248e9112644e84e2569d224408b75605dccc9c07a6ff5"
             },
             "betaVersions": {
                 "1.0.0": "a88b1d8075f8b2c232eb3d504f3015d63adda666b1af2bffc83fe78d135cbb4b",
-                "1.3.0+g5efc127e6f": "621dcfa12ac2c8d063e0c96e8ae5e0857cdf7a2fe8d305af80f04413d357f39b"
+                "1.3.0+g5efc127e6f": "621dcfa12ac2c8d063e0c96e8ae5e0857cdf7a2fe8d305af80f04413d357f39b",
+                "1.3.0.2+ge922acc4a7": "364cc01f55d22c85999248e9112644e84e2569d224408b75605dccc9c07a6ff5"
             }
         },
         "oneconfig": {
@@ -953,16 +968,6 @@
             },
             "betaVersions": {
                 "1.2.6": "e6274e5392e72ed4064401b7142861337a08442c0ad451bd32f45a8fa57cee15"
-            }
-        },
-        "janutils": {
-            "name": "JanUtils",
-            "download": "https://github.com/romangraef/Forge1.8.9Template/",
-            "versions": {
-                "1.0.0": "6363e661a0aa539487bcbf74c6c2c20873d33fdeab55521e37a22ef66bd95632"
-            },
-            "betaVersions": {
-                "1.0.0": "6363e661a0aa539487bcbf74c6c2c20873d33fdeab55521e37a22ef66bd95632"
             }
         },
         "scathapro": {
@@ -1071,14 +1076,17 @@
             "name": "Skyblock Features",
             "download": "https://github.com/MrFast-js/SkyblockFeatures",
             "versions": {
-                "1.2.8": "dac4c7a35bfb018f2d2fe1a136bbab2a40fa10dbab0160a968f36e060f91a222"
+                "1.2.8": "dac4c7a35bfb018f2d2fe1a136bbab2a40fa10dbab0160a968f36e060f91a222",
+                "1.2.9": "c0334423bf123c69e240fceb5fead35a541a204e2e0b4282bee2ac409f2689dc"
             },
             "betaVersions": {
                 "1.2.8": "dac4c7a35bfb018f2d2fe1a136bbab2a40fa10dbab0160a968f36e060f91a222",
                 "1.2.9-BETA4": "d75f81981d222e3a12416f30e9751a9a39d6c5c8811d0a35430581e082760cbd",
                 "1.2.9-BETA5": "b53dd474bccd24a9c7bf958077ed1dea2c571abbcf69374935a3c6777104297e",
                 "1.2.9-BETA6": "31a9ecdb62cf2038467c2fd2c65f0d88d0b98acf8973141f21730d98b91f2686",
-                "1.2.9-BETA7": "4a26dc5e24fb7ba44260652fbf140a49847a50653d9d305529a77cd4f8d62304"
+                "1.2.9-BETA7": "4a26dc5e24fb7ba44260652fbf140a49847a50653d9d305529a77cd4f8d62304",
+                "1.2.9": "c0334423bf123c69e240fceb5fead35a541a204e2e0b4282bee2ac409f2689dc",
+                "1.3.0-BETA2": "12522163fe3abe03fb17a17e5e477fc761dc97aad26e7e57735af5f4912b5123"
             }
         },
         "hyblockrnganalyzer": {
@@ -1092,12 +1100,14 @@
             }
         },
         "sidebarmod": {
-            "name": "Sidebar Mod Reloaded",
+            "name": "Sidebar Mod Revamp",
             "download": "https://github.com/Alexdoru/SidebarMod",
             "versions": {
+                "2.0": "7dd2fac02ee9b4dd9cd608330aa4428ea096462923f4a5cc3b60467ffc2cf2ff",
                 "2.1": "a4ebe702df78412a332d0f635d6ccd9b5e2959fd40a636deef46972cc054955d"
             },
             "betaVersions": {
+                "2.0": "7dd2fac02ee9b4dd9cd608330aa4428ea096462923f4a5cc3b60467ffc2cf2ff",
                 "2.1": "a4ebe702df78412a332d0f635d6ccd9b5e2959fd40a636deef46972cc054955d"
             }
         },
@@ -1107,7 +1117,9 @@
             "versions": {
                 "1.0.0": "922009ebe818c6b05516a9da36489c908f59e84b5b0ba1f5f015747d3a4c461f"
             },
-            "betaVersions": {}
+            "betaVersions": {
+                "1.0.0": "922009ebe818c6b05516a9da36489c908f59e84b5b0ba1f5f015747d3a4c461f"
+            }
         },
         "resourcify": {
             "name": "Resourcify",
@@ -1117,6 +1129,7 @@
                 "1.2.1.1": "7973819a9a05b68f522063009ea34c5c079f38799d180ac5b15ca5a8ba1a3e26"
             },
             "betaVersions": {
+                "1.2.1": "f4310555db7dadfd409dd96dfd36b61accdbe93b90cec49fc5f12df32248000f",
                 "1.2.1.1": "7973819a9a05b68f522063009ea34c5c079f38799d180ac5b15ca5a8ba1a3e26"
             }
         },
@@ -1126,7 +1139,9 @@
             "versions": {
                 "1.0.0": "3c08afce4aa2a223404b4dddcae40dc387753ab1319b11b150040ece4426f9c5"
             },
-            "betaVersions": {}
+            "betaVersions": {
+                "1.0.0": "3c08afce4aa2a223404b4dddcae40dc387753ab1319b11b150040ece4426f9c5"
+            }
         },
         "betternightvision": {
             "name": "BetterNightVision",
@@ -1134,7 +1149,9 @@
             "versions": {
                 "1.0.0": "7124388b1e810c8fca4b57c73b683707327a3c41d57beb28494fc8ec4fe06040"
             },
-            "betaVersions": {}
+            "betaVersions": {
+                "1.0.0": "7124388b1e810c8fca4b57c73b683707327a3c41d57beb28494fc8ec4fe06040"
+            }
         },
         "legacy-chunk-borders": {
             "name": "Legacy Chunk Borders",
@@ -1144,7 +1161,18 @@
                 "1.1.1": "688a9931fad1023e7e3436011ba5619a2e3c239033d61463a9388951f77e4582"
             },
             "betaVersions": {
+                "1.0.2": "c077764e4c5a493870bfe7532b4ca431a15430fee1c73b610a29ff0b2cce1ae3",
                 "1.1.1": "688a9931fad1023e7e3436011ba5619a2e3c239033d61463a9388951f77e4582"
+            }
+        },
+        "dredmod": {
+            "name": "Dredlig Mod",
+            "download": "https://www.dred.dev",
+            "versions": {
+                "1.0.0.0": "1da2e4656175b9c87a420e2f841959f0a5a532db950c4600aaf064178a524095"
+            },
+            "betaVersions": {
+                "1.0.0.0": "1da2e4656175b9c87a420e2f841959f0a5a532db950c4600aaf064178a524095"
             }
         }
     }
