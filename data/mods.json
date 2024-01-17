@@ -22,7 +22,8 @@
                 "beta-v0.5.4": "04b636e69ab7df862a62889e9371521ba2af7e67502f102550327e8cfd57717f",
                 "beta-v0.5.5 - BROKEN VERSION": "09b49aa13554589d34dee2a5a9e071328cd2df26ff7b174ec40cc3fd27ba3cb5",
                 "beta-v0.5.5": "bd1c07e1a659274071e632944b68c149d420b30355bcd592931a610d9303f4a3",
-                "beta-v0.5.6": "f200e9e26878bf01de18cd59a51741fa30fee19e3a7db8e0327a8c13a1fb36a5"
+                "beta-v0.5.6": "f200e9e26878bf01de18cd59a51741fa30fee19e3a7db8e0327a8c13a1fb36a5",
+                "beta-v0.5.7": "4cf494029444d226324877d6a86504c5b967dd93ca572f87183060e6bbed66d4"
             },
             "betaVersions": {
                 "beta-v0.4.1": "89f33940388058bf3d68b110188bb6fea9fc158e74654e7e6db857df6238867c",
@@ -35,7 +36,8 @@
                 "beta-v0.5.4": "04b636e69ab7df862a62889e9371521ba2af7e67502f102550327e8cfd57717f",
                 "beta-v0.5.5 - BROKEN VERSION": "09b49aa13554589d34dee2a5a9e071328cd2df26ff7b174ec40cc3fd27ba3cb5",
                 "beta-v0.5.5": "bd1c07e1a659274071e632944b68c149d420b30355bcd592931a610d9303f4a3",
-                "beta-v0.5.6": "f200e9e26878bf01de18cd59a51741fa30fee19e3a7db8e0327a8c13a1fb36a5"
+                "beta-v0.5.6": "f200e9e26878bf01de18cd59a51741fa30fee19e3a7db8e0327a8c13a1fb36a5",
+                "beta-v0.5.7": "4cf494029444d226324877d6a86504c5b967dd93ca572f87183060e6bbed66d4"
             }
         },
         "text_overflow_scroll": {
