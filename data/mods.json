@@ -268,9 +268,7 @@
             "name": "Skytils",
             "download": "https://github.com/Skytils/SkytilsMod/releases",
             "versions": {
-                "1.7.9": "6d167cb9487127a3a9b6f1f89d32543277768cae2d99bdb960e066a1c7528c84",
-                "1.8.0-pre9.1": "a8d19567753b91802da87c61f22d1e551a03d1edf4270ba734eb102d399ef7ff",
-                "1.8.0-pre12": "dd0b8de47e01c6676638217a951a98e04dccbb4326aae04a859f570c4cde3d5e"
+                "1.7.9": "6d167cb9487127a3a9b6f1f89d32543277768cae2d99bdb960e066a1c7528c84"
             },
             "betaVersions": {
                 "1.7.9": "6d167cb9487127a3a9b6f1f89d32543277768cae2d99bdb960e066a1c7528c84",
