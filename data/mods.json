@@ -812,8 +812,7 @@
             "download": "https://github.com/hannibal002/SkyHanni",
             "versions": {
                 "0.21.1": "8aeb3f56795358c8af46eb4c057cb0c952eab1823448acda97bac3888cf284bf",
-                "0.22": "52a223c2c25a3ba92d9eb4bb28b4e02cc797ffe877d33483b329186ff2deca8b",
-                "0.23.Beta.10": "cbdedbf187cae643bf45d3c023dc761a48035f93dd64c3c7c8e22c9b5e2bb793"
+                "0.22": "52a223c2c25a3ba92d9eb4bb28b4e02cc797ffe877d33483b329186ff2deca8b"
             },
             "betaVersions": {
                 "0.21.1": "8aeb3f56795358c8af46eb4c057cb0c952eab1823448acda97bac3888cf284bf",
