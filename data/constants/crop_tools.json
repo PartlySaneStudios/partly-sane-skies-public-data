@@ -9,7 +9,11 @@
             "ROOKIE_HOE"
         ],
         "other_minecraft" : [
-
+            "minecraft:wooden_hoe",
+            "minecraft:stone_hoe",
+            "minecraft:iron_hoe",
+            "minecraft:golden_hoe",
+            "minecraft:diamond_hoe"
         ]
     },
     "tile.potatoes" : {
@@ -22,7 +26,11 @@
             "ROOKIE_HOE"
         ],
         "other_minecraft" : [
-
+            "minecraft:wooden_hoe",
+            "minecraft:stone_hoe",
+            "minecraft:iron_hoe",
+            "minecraft:golden_hoe",
+            "minecraft:diamond_hoe"
         ]
     },
     "tile.carrots" : {
@@ -35,7 +43,11 @@
             "ROOKIE_HOE"
         ],
         "other_minecraft" : [
-
+            "minecraft:wooden_hoe",
+            "minecraft:stone_hoe",
+            "minecraft:iron_hoe",
+            "minecraft:golden_hoe",
+            "minecraft:diamond_hoe"
         ]
     },
     "tile.reeds" : {
@@ -48,7 +60,11 @@
             "ROOKIE_HOE"
         ],
         "other_minecraft" : [
-
+            "minecraft:wooden_hoe",
+            "minecraft:stone_hoe",
+            "minecraft:iron_hoe",
+            "minecraft:golden_hoe",
+            "minecraft:diamond_hoe"
         ]
     },
     "tile.nether_stalk" : {
