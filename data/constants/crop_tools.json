@@ -16,7 +16,8 @@
             "minecraft:iron_hoe",
             "minecraft:golden_hoe",
             "minecraft:diamond_hoe"
-        ]
+        ],
+        "require_replenish" : true
     },
     "tile.potatoes" : {
         "math" : [
@@ -35,7 +36,8 @@
             "minecraft:iron_hoe",
             "minecraft:golden_hoe",
             "minecraft:diamond_hoe"
-        ]
+        ],
+        "require_replenish" : true
     },
     "tile.carrots" : {
         "math" : [
@@ -54,7 +56,8 @@
             "minecraft:iron_hoe",
             "minecraft:golden_hoe",
             "minecraft:diamond_hoe"
-        ]
+        ],
+        "require_replenish" : true
     },
     "tile.reeds" : {
         "math" : [
@@ -73,7 +76,8 @@
             "minecraft:iron_hoe",
             "minecraft:golden_hoe",
             "minecraft:diamond_hoe"
-        ]
+        ],
+        "require_replenish" : true
     },
     "tile.nether_stalk" : {
         "math" : [
@@ -92,7 +96,8 @@
             "minecraft:iron_hoe",
             "minecraft:golden_hoe",
             "minecraft:diamond_hoe"
-        ]
+        ],
+        "require_replenish" : true
     },
     "tile.pumpkin" : {
         "math" : [
@@ -101,11 +106,14 @@
             "PUMPKIN_DICER_3"
         ],
         "other_skyblock" : [
-            "TREECAPITATOR_AXE"
+            "TREECAPITATOR_AXE",
+            "BASIC_GARDENING_AXE",
+            "ADVANCED_GARDENING_AXE"
         ],
         "other_minecraft" : [
             "minecraft:golden_axe"
-        ]
+        ],
+        "require_replenish" : false
     },
     "tile.melon" : {
         "math" : [
@@ -114,29 +122,37 @@
             "MELON_DICER_3"
         ],
         "other_skyblock" : [
-            "TREECAPITATOR_AXE"
+            "TREECAPITATOR_AXE",
+            "BASIC_GARDENING_AXE",
+            "ADVANCED_GARDENING_AXE"
         ],
         "other_minecraft" : [
             "minecraft:golden_axe"
-        ]
+        ],
+        "require_replenish" : false
     },
     "tile.mushroom" : {
         "math" : [
             "FUNGI_CUTTER"
         ],
         "other_skyblock" : [
-            "TREECAPITATOR_AXE"
+            "TREECAPITATOR_AXE",
+            "BASIC_GARDENING_AXE",
+            "ADVANCED_GARDENING_AXE"
         ],
         "other_minecraft" : [
             "minecraft:golden_axe"
-        ]
+        ],
+        "require_replenish" : false
     },
     "tile.cocoa" : {
         "math" : [
             "COCO_CHOPPER"
         ],
         "other_skyblock" : [
-            "TREECAPITATOR_AXE"
+            "TREECAPITATOR_AXE",
+            "BASIC_GARDENING_AXE",
+            "ADVANCED_GARDENING_AXE"
         ],
         "other_minecraft" : [
             "minecraft:wooden_axe",
@@ -144,13 +160,15 @@
             "minecraft:iron_axe",
             "minecraft:golden_axe",
             "minecraft:diamond_axe"
-        ]
+        ],
+        "require_replenish" : true
     },
     "tile.cactus" : {
         "math" : [
             "CACTUS_KNIFE"
         ],
         "other_skyblock" : [],
-        "other_minecraft" : []
+        "other_minecraft" : [],
+        "require_replenish" : false
     }
 }
