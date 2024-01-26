@@ -1,36 +1,30 @@
 {
     "mod_info": {
-        "latest_version": "beta-v0.5.4",
+        "latest_version": "beta-v0.5.9",
         "latest_version_description": "",
-        "latest_version_release_date": "02 January 2024",
+        "latest_version_release_date": "21 January 2024",
         "discord_invite_full": "https://discord.gg/v4PU3WeH7z",
         "discord_invite_short_link": "discord.gg/v4PU3WeH7z",
         "discord_invite_code": "v4PU3WeH7z"
     },
     "prerelease_channel": {
-        "latest_version": "beta-v0.5.4",
+        "latest_version": "beta-v0.6-prerelease-1",
         "latest_version_description": "",
-        "latest_version_release_date": "02 January 2024"
+        "latest_version_release_date": "25 January 2024"
     },
     "prank_sound": false,
     "announcements": [
         {
-            "name": "test",
-            "date": "test",
-            "description": "test",
-            "link": "test"
+            "name": "Patch Notes 0.19.10 - Fann Changes and Other Improvements",
+            "date": "16 January 2024",
+            "description": "Welcome to SkyBlock Patch 0.19.10. We're releasing a bunch of small pets changes today.",
+            "link": "https://hypixel.net/threads/skyblock-patch-notes-0-19-10-fann-changes-and-other-improvements.5577656/"
         },
         {
-            "name": "Skyblock 2023 - Recap, and looking forward",
-            "date": "30 December 2023",
-            "description": "Hello, As the year draws to a close, let's reflect on our achievements and look ahead to what 2024 holds for us.",
-            "link": "https://hypixel.net/threads/skyblock-2023-recap-and-looking-forward.5560177/"
-        },
-        {
-            "name": "Skyblock Patch Notes 0.19.9 - Pet Training",
-            "description": "Hello! Welcome to SkyBlock Patch 0.19.9. Today's update includes Pet Care, some Bestiary improvements, new items, and more!",
-            "date": "12 December 2023",
-            "link": "https://hypixel.net/threads/skyblock-patch-notes-0-19-9-pet-training-and-bestiary-changes.5555803/"
+            "name": "[December 15] SkyBlock Patch Notes",
+            "date": "15 December 2023",
+            "description": "We are here to inform you about some small changes that we have rolled or are currently rolling.",
+            "link": "https://hypixel.net/threads/5557711/"
         }
     ]
 }
