@@ -6,7 +6,9 @@
             "THEORETICAL_HOE_WHEAT_3"
         ],
         "other_skyblock" : [
-            "ROOKIE_HOE"
+            "ROOKIE_HOE",
+            "BASIC_GARDENING_HOE",
+            "ADVANCED_GARDENING_HOE"
         ],
         "other_minecraft" : [
             "minecraft:wooden_hoe",
@@ -23,7 +25,9 @@
             "THEORETICAL_HOE_POTATO_3"
         ],
         "other_skyblock" : [
-            "ROOKIE_HOE"
+            "ROOKIE_HOE",
+            "BASIC_GARDENING_HOE",
+            "ADVANCED_GARDENING_HOE"
         ],
         "other_minecraft" : [
             "minecraft:wooden_hoe",
@@ -40,7 +44,9 @@
             "THEORETICAL_HOE_CARROT_3"
         ],
         "other_skyblock" : [
-            "ROOKIE_HOE"
+            "ROOKIE_HOE",
+            "BASIC_GARDENING_HOE",
+            "ADVANCED_GARDENING_HOE"
         ],
         "other_minecraft" : [
             "minecraft:wooden_hoe",
@@ -57,7 +63,9 @@
             "THEORETICAL_HOE_CANE_3"
         ],
         "other_skyblock" : [
-            "ROOKIE_HOE"
+            "ROOKIE_HOE",
+            "BASIC_GARDENING_HOE",
+            "ADVANCED_GARDENING_HOE"
         ],
         "other_minecraft" : [
             "minecraft:wooden_hoe",
@@ -74,7 +82,9 @@
             "THEORETICAL_HOE_WARTS_3"
         ],
         "other_skyblock" : [
-            "ROOKIE_HOE"
+            "ROOKIE_HOE",
+            "BASIC_GARDENING_HOE",
+            "ADVANCED_GARDENING_HOE"
         ],
         "other_minecraft" : [
             "minecraft:wooden_hoe",
