@@ -1,0 +1,130 @@
+{
+    "tile.crops" : {
+        "math" : [
+            "THEORETICAL_HOE_WHEAT_1",
+            "THEORETICAL_HOE_WHEAT_2",
+            "THEORETICAL_HOE_WHEAT_3"
+        ],
+        "other_skyblock" : [
+            "ROOKIE_HOE"
+        ],
+        "other_minecraft" : [
+
+        ]
+    },
+    "tile.potatoes" : {
+        "math" : [
+            "THEORETICAL_HOE_POTATO_1",
+            "THEORETICAL_HOE_POTATO_2",
+            "THEORETICAL_HOE_POTATO_3"
+        ],
+        "other_skyblock" : [
+            "ROOKIE_HOE"
+        ],
+        "other_minecraft" : [
+
+        ]
+    },
+    "tile.carrots" : {
+        "math" : [
+            "THEORETICAL_HOE_CARROT_1",
+            "THEORETICAL_HOE_CARROT_2",
+            "THEORETICAL_HOE_CARROT_3"
+        ],
+        "other_skyblock" : [
+            "ROOKIE_HOE"
+        ],
+        "other_minecraft" : [
+
+        ]
+    },
+    "tile.reeds" : {
+        "math" : [
+            "THEORETICAL_HOE_CANE_1",
+            "THEORETICAL_HOE_CANE_2",
+            "THEORETICAL_HOE_CANE_3"
+        ],
+        "other_skyblock" : [
+            "ROOKIE_HOE"
+        ],
+        "other_minecraft" : [
+
+        ]
+    },
+    "tile.nether_stalk" : {
+        "math" : [
+            "THEORETICAL_HOE_WARTS_1",
+            "THEORETICAL_HOE_WARTS_2",
+            "THEORETICAL_HOE_WARTS_3"
+        ],
+        "other_skyblock" : [
+            "ROOKIE_HOE"
+        ],
+        "other_minecraft" : [
+            "minecraft:wooden_hoe",
+            "minecraft:stone_hoe",
+            "minecraft:iron_hoe",
+            "minecraft:golden_hoe",
+            "minecraft:diamond_hoe"
+        ]
+    },
+    "tile.pumpkin" : {
+        "math" : [
+            "PUMPKIN_DICER",
+            "PUMPKIN_DICER_2",
+            "PUMPKIN_DICER_3"
+        ],
+        "other_skyblock" : [
+            "TREECAPITATOR_AXE"
+        ],
+        "other_minecraft" : [
+            "minecraft:golden_axe"
+        ]
+    },
+    "tile.melon" : {
+        "math" : [
+            "MELON_DICER",
+            "MELON_DICER_2",
+            "MELON_DICER_3"
+        ],
+        "other_skyblock" : [
+            "TREECAPITATOR_AXE"
+        ],
+        "other_minecraft" : [
+            "minecraft:golden_axe"
+        ]
+    },
+    "tile.mushroom" : {
+        "math" : [
+            "FUNGI_CUTTER"
+        ],
+        "other_skyblock" : [
+            "TREECAPITATOR_AXE"
+        ],
+        "other_minecraft" : [
+            "minecraft:golden_axe"
+        ]
+    },
+    "tile.cocoa" : {
+        "math" : [
+            "COCO_CHOPPER"
+        ],
+        "other_skyblock" : [
+            "TREECAPITATOR_AXE"
+        ],
+        "other_minecraft" : [
+            "minecraft:wooden_axe",
+            "minecraft:stone_axe",
+            "minecraft:iron_axe",
+            "minecraft:golden_axe",
+            "minecraft:diamond_axe"
+        ]
+    },
+    "tile.cactus" : {
+        "math" : [
+            "CACTUS_KNIFE"
+        ],
+        "other_skyblock" : [],
+        "other_minecraft" : []
+    }
+}
