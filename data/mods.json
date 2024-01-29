@@ -477,10 +477,12 @@
             "name": "Craftify",
             "download": "https://github.com/ThatGravyBoat/Craftify",
             "versions": {
-                "1.12.0": "21559ecfe2986d6a8dfce963d9acb2295824dab7fc85dcb9e370713bbf4d19cd"
+                "1.12.0": "21559ecfe2986d6a8dfce963d9acb2295824dab7fc85dcb9e370713bbf4d19cd",
+                "1.13.0": "8703d25889b97be9d78479fe6fd4359ddb74c6358973bfb0f9245c675889745a"
             },
             "betaVersions": {
-                "1.12.0": "21559ecfe2986d6a8dfce963d9acb2295824dab7fc85dcb9e370713bbf4d19cd"
+                "1.12.0": "21559ecfe2986d6a8dfce963d9acb2295824dab7fc85dcb9e370713bbf4d19cd",
+                "1.13.0": "8703d25889b97be9d78479fe6fd4359ddb74c6358973bfb0f9245c675889745a"
             }
         },
         "blur": {
