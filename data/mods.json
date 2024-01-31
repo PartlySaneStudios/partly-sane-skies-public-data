@@ -302,10 +302,12 @@
             "name": "Cowlection",
             "download": "https://github.com/cow-mc/Cowlection/releases",
             "versions": {
-                "1.8.9-0.16.0": "9d843ccce2842e5872aa053d7b42e3b08b31dd3ac9e280654b6bf0a8a099995c"
+                "1.8.9-0.16.0": "9d843ccce2842e5872aa053d7b42e3b08b31dd3ac9e280654b6bf0a8a099995c",
+                "1.8.9-0.16.1": "ee0ed243352d04e5f78ba4d6d7fd9167121c0c956d8242e3627d118fed944a02"
             },
             "betaVersions": {
-                "1.8.9-0.16.0": "9d843ccce2842e5872aa053d7b42e3b08b31dd3ac9e280654b6bf0a8a099995c"
+                "1.8.9-0.16.0": "9d843ccce2842e5872aa053d7b42e3b08b31dd3ac9e280654b6bf0a8a099995c",
+                "1.8.9-0.16.1": "ee0ed243352d04e5f78ba4d6d7fd9167121c0c956d8242e3627d118fed944a02"
             }
         },
         "sbp": {
