@@ -272,7 +272,8 @@
             "name": "Skytils",
             "download": "https://github.com/Skytils/SkytilsMod/releases",
             "versions": {
-                "1.7.9": "6d167cb9487127a3a9b6f1f89d32543277768cae2d99bdb960e066a1c7528c84"
+                "1.7.9": "6d167cb9487127a3a9b6f1f89d32543277768cae2d99bdb960e066a1c7528c84",
+                "1.8.0": "7bcb16bf13d572b2113f5f24ee54693d8e11757fb7ae3e0e5503113642600a69"
             },
             "betaVersions": {
                 "1.7.9": "6d167cb9487127a3a9b6f1f89d32543277768cae2d99bdb960e066a1c7528c84",
@@ -286,7 +287,8 @@
                 "1.8.0-pre11": "f230b7925e60dcc13d52627ef2777982f53eb2d59984357a917b6ab611c1a86e",
                 "1.8.0-pre12": "dd0b8de47e01c6676638217a951a98e04dccbb4326aae04a859f570c4cde3d5e",
                 "1.8.0-pre13": "e927eb1501c6d53d497dcdc680aaee4d881bc8f2bd5f69018baa97397c5e3858",
-                "1.8.0-pre14": "617663eef371b8b9426cbbc061e824700172c3ad990c3295f4c0181c83e743a9"
+                "1.8.0-pre14": "617663eef371b8b9426cbbc061e824700172c3ad990c3295f4c0181c83e743a9",
+                "1.8.0": "7bcb16bf13d572b2113f5f24ee54693d8e11757fb7ae3e0e5503113642600a69"
             }
         },
         "apec": {
