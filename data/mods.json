@@ -360,10 +360,12 @@
             "name": "BazaarNotifier",
             "download": "https://github.com/symt/BazaarNotifier",
             "versions": {
-                "1.6.1": "d4fe6e0755c7f545b27bbd90e65e1cad7f523405058af34c407e9c7a8c82e79b"
+                "1.6.1": "d4fe6e0755c7f545b27bbd90e65e1cad7f523405058af34c407e9c7a8c82e79b",
+                "1.7.0": "db65d2d68426cdeb90ca60f1bcd65f69f815091f1f72a29015092c3de25e2060"
             },
             "betaVersions": {
-                "1.6.1": "d4fe6e0755c7f545b27bbd90e65e1cad7f523405058af34c407e9c7a8c82e79b"
+                "1.6.1": "d4fe6e0755c7f545b27bbd90e65e1cad7f523405058af34c407e9c7a8c82e79b",
+                "1.7.0": "db65d2d68426cdeb90ca60f1bcd65f69f815091f1f72a29015092c3de25e2060"
             }
         },
         "skyguide": {
