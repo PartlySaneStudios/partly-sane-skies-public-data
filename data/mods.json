@@ -488,12 +488,14 @@
             "versions": {
                 "1.12.0": "21559ecfe2986d6a8dfce963d9acb2295824dab7fc85dcb9e370713bbf4d19cd",
                 "1.13.0": "8703d25889b97be9d78479fe6fd4359ddb74c6358973bfb0f9245c675889745a",
-                "1.14.0": "8603949d457b16a5fb4e67d462cc87f4dbb3aab57ccfc9636370d38f1e96b374"
+                "1.14.0": "8603949d457b16a5fb4e67d462cc87f4dbb3aab57ccfc9636370d38f1e96b374",
+                "1.14.1": "856606f80cc173ce79025ce24d210b626c5b305789b895d4b5a3fe72e0c478df"
             },
             "betaVersions": {
                 "1.12.0": "21559ecfe2986d6a8dfce963d9acb2295824dab7fc85dcb9e370713bbf4d19cd",
                 "1.13.0": "8703d25889b97be9d78479fe6fd4359ddb74c6358973bfb0f9245c675889745a",
-                "1.14.0": "8603949d457b16a5fb4e67d462cc87f4dbb3aab57ccfc9636370d38f1e96b374"
+                "1.14.0": "8603949d457b16a5fb4e67d462cc87f4dbb3aab57ccfc9636370d38f1e96b374",
+                "1.14.1": "856606f80cc173ce79025ce24d210b626c5b305789b895d4b5a3fe72e0c478df"
             }
         },
         "blur": {
