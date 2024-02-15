@@ -250,7 +250,8 @@
             "download": "https://github.com/Moulberry/NotEnoughUpdates/releases",
             "versions": {
                 "2.1.1-PRE": "a1aa859481b11865d771bf72baa2aa7cb895f165a3e16574e6aaefade12e4230",
-                "2.1.1+Alpha-25.9fb6633": "e3281a49903624c3aa75c9cdda2b828516dddb656b4e77cb8e682944b1e046b9"
+                "2.1.1+Alpha-25.9fb6633": "e3281a49903624c3aa75c9cdda2b828516dddb656b4e77cb8e682944b1e046b9",
+                "2.1.1+Pre-5.6538b08": "5ea3b61ecbaedb765fecb790de9c85850ea31895a55ddb72b18f7a443dbc542f"
             },
             "betaVersions": {
                 "2.1.1-PRE": "a1aa859481b11865d771bf72baa2aa7cb895f165a3e16574e6aaefade12e4230",
