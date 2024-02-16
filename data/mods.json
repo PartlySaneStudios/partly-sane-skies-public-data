@@ -1234,6 +1234,16 @@
             "betaVersions": {
                 "1.0.0.0": "1da2e4656175b9c87a420e2f841959f0a5a532db950c4600aaf064178a524095"
             }
+        },
+        "FpsReducer": {
+            "name": "FPS Reducer",
+            "download": "https://modrinth.com/mod/fps-reducer",
+            "versions": {
+                "mc1.8.9-1.10.3": "ea4b1cdb0b6e47ad1515e7dc903a176cc8c674288e137b9bc81064bdd244d89c"
+            },
+            "betaVersions": {
+                "mc1.8.9-1.10.3": "ea4b1cdb0b6e47ad1515e7dc903a176cc8c674288e137b9bc81064bdd244d89c"
+            }
         }
     }
 }
