@@ -339,7 +339,8 @@
                 "4.0.0": "aec8bedcee875a2a277b4fadad2ace2592d9856f276487e3f4caabf78b78dcaf"
             },
             "betaVersions": {
-                "4.0.0": "a86542eb4e31f0b1d23da920316b199a4d092bd916505fb2b2b5e0c70b7db7c3"
+                "4.0.0": "a86542eb4e31f0b1d23da920316b199a4d092bd916505fb2b2b5e0c70b7db7c3",
+                "4.0.0-beta9.3": "274e66d623cc3ff25f14035b25eb02fba87dbdd17bafd9672ba4839742ed5e7d"
             }
         },
         "skyblock_dungeons_guide": {
@@ -1249,8 +1250,7 @@
         "skyblocktweaks": {
             "name": "Skyblock Tweaks",
             "download": "https://github.com/MrFast-js/Skyblock-Tweaks/",
-            "versions": {
-            },
+            "versions": {},
             "betaVersions": {
                 "1.0.0-BETA1": "59913e131023b43bbf0daffef0f0cebe2a4ff74bb25895cdea91e613be3b8f49"
             }
