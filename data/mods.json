@@ -1245,6 +1245,16 @@
             "betaVersions": {
                 "mc1.8.9-1.10.3": "ea4b1cdb0b6e47ad1515e7dc903a176cc8c674288e137b9bc81064bdd244d89c"
             }
+        },
+        "skyblocktweaks": {
+            "name": "Skyblock Tweaks",
+            "download": "https://github.com/MrFast-js/Skyblock-Tweaks/",
+            "versions": {
+                "1.0.0-BETA1": "59913e131023b43bbf0daffef0f0cebe2a4ff74bb25895cdea91e613be3b8f49"
+            },
+            "betaVersions": {
+                "1.0.0-BETA1": "59913e131023b43bbf0daffef0f0cebe2a4ff74bb25895cdea91e613be3b8f49"
+            }
         }
     }
 }
