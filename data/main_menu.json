@@ -15,6 +15,12 @@
     "prank_sound": false,
     "announcements": [
         {
+            "name": "[February 22] Supercraft Update",
+            "date": "22.02.2024",
+            "description": "Hey all!  Today we are releasing two new features related to a very core element of SkyBlock: CRAFTING.",
+            "link": "https://hypixel.net/threads/february-22-supercraft-update.5603786/"
+        },
+        {
             "name": "SkyBlock Patch Notes 0.19.11 - Stackable God Pot and Other Improvements",
             "date": "06 February 2024",
             "description": "Hello!  Welcome to SkyBlock Patch 0.19.11. Today's update includes a bunch of miniscule yet fun changes as we continue to work towards the next content update. Read on to find out more!",
