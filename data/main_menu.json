@@ -8,23 +8,23 @@
         "discord_invite_code": "v4PU3WeH7z"
     },
     "prerelease_channel": {
-        "latest_version": "beta-v0.6-prerelease-1",
+        "latest_version": "beta-v0.6-prerelease-5",
         "latest_version_description": "",
-        "latest_version_release_date": "25 January 2024"
+        "latest_version_release_date": "25 February 2024"
     },
     "prank_sound": false,
     "announcements": [
         {
-            "name": "Patch Notes 0.19.10 - Fann Changes and Other Improvements",
-            "date": "16 January 2024",
-            "description": "Welcome to SkyBlock Patch 0.19.10. We're releasing a bunch of small pets changes today.",
-            "link": "https://hypixel.net/threads/skyblock-patch-notes-0-19-10-fann-changes-and-other-improvements.5577656/"
+            "name": "[February 22] Supercraft Update",
+            "date": "22 February 2024",
+            "description": "Hey all!  Today we are releasing two new features related to a very core element of SkyBlock: CRAFTING.",
+            "link": "https://hypixel.net/threads/february-22-supercraft-update.5603786/"
         },
         {
-            "name": "[December 15] SkyBlock Patch Notes",
-            "date": "15 December 2023",
-            "description": "We are here to inform you about some small changes that we have rolled or are currently rolling.",
-            "link": "https://hypixel.net/threads/5557711/"
+            "name": "SkyBlock Patch Notes 0.19.11 - Stackable God Pot and Other Improvements",
+            "date": "06 February 2024",
+            "description": "Hello!  Welcome to SkyBlock Patch 0.19.11. Today's update includes a bunch of miniscule yet fun changes as we continue to work towards the next content update. Read on to find out more!",
+            "link": "https://hypixel.net/threads/skyblock-patch-notes-0-19-11-stackable-god-potions-and-other-improvements.5592331/"
         }
     ]
 }
