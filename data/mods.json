@@ -1275,6 +1275,16 @@
             "betaVersions": {
                 "1.0.0-BETA1": "59913e131023b43bbf0daffef0f0cebe2a4ff74bb25895cdea91e613be3b8f49"
             }
+        },
+        "shy": {
+            "name": "Shy",
+            "download": "https://modrinth.com/mod/shy/version/1.0.1",
+            "versions": {
+                "1.0.1": "82fcf53c9c8df2cbb036589e79b38b6ec8924775d3dd9e82222bd6a788b5a337"
+            },
+            "betaVersions": {
+                "1.0.1": "82fcf53c9c8df2cbb036589e79b38b6ec8924775d3dd9e82222bd6a788b5a337"
+            }
         }
     }
 }
