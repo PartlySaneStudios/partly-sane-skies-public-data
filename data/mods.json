@@ -1283,10 +1283,12 @@
             "name": "Shy",
             "download": "https://modrinth.com/mod/shy/",
             "versions": {
-                "1.0.1": "82fcf53c9c8df2cbb036589e79b38b6ec8924775d3dd9e82222bd6a788b5a337"
+                "1.0.1": "82fcf53c9c8df2cbb036589e79b38b6ec8924775d3dd9e82222bd6a788b5a337",
+                "1.0.2": "b456c4342ce48eadfc380921ce06fbdf9970edca55aeda8a8742918306e8b045"
             },
             "betaVersions": {
-                "1.0.1": "82fcf53c9c8df2cbb036589e79b38b6ec8924775d3dd9e82222bd6a788b5a337"
+                "1.0.1": "82fcf53c9c8df2cbb036589e79b38b6ec8924775d3dd9e82222bd6a788b5a337",
+                "1.0.2": "b456c4342ce48eadfc380921ce06fbdf9970edca55aeda8a8742918306e8b045"
             }
         }
     }
