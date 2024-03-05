@@ -1227,10 +1227,12 @@
             "name": "QuickQuit",
             "download": "https://modrinth.com/mod/quickquit",
             "versions": {
-                "1.0.0": "3c08afce4aa2a223404b4dddcae40dc387753ab1319b11b150040ece4426f9c5"
+                "1.0.0": "3c08afce4aa2a223404b4dddcae40dc387753ab1319b11b150040ece4426f9c5",
+                "1.0.1": "50d3322e79a42a0fc7d34ef3470eee8524e87a3689453103f063eb69efbc6b16"
             },
             "betaVersions": {
-                "1.0.0": "3c08afce4aa2a223404b4dddcae40dc387753ab1319b11b150040ece4426f9c5"
+                "1.0.0": "3c08afce4aa2a223404b4dddcae40dc387753ab1319b11b150040ece4426f9c5",
+                "1.0.1": "50d3322e79a42a0fc7d34ef3470eee8524e87a3689453103f063eb69efbc6b16"
             }
         },
         "betternightvision": {
