@@ -224,3 +224,18 @@ Example:
   }
 }
 ```
+
+## [/data/constants/fun_facts.json](/data/constants/fun_facts.json)
+
+A ``"facts"`` list containing all kinds of facts used for the PartlySaneSkies Custom Main Menu.
+
+
+Example:
+
+```json
+{
+  "facts": [
+    "While being the Lead Dev, Flagmaster only ever did 35 commits in which he changed ~1.5k lines"
+  ]
+}
+```
