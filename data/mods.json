@@ -900,7 +900,8 @@
                 "0.24.Beta.8": "fe43cf974bf6fae27e4631f0e75a70f6b01c6e924a05cd71e4465316b4ac3ba2",
                 "0.24.Beta.9": "226a5f4010e9a3563098e1f649013438d48cfe7332157b26ff94eb9656fb2629",
                 "0.24.Beta.10": "ebd4fb5bfee8bc7281d0f7f548cc92d0f00c103d94288db7f4ed303197785ed7",
-                "0.24.Beta.11": "46d029f1fbe313a2b8b99fe600f6cb7fc1c4e8ba6c689eb7791954540827a306"
+                "0.24.Beta.11": "46d029f1fbe313a2b8b99fe600f6cb7fc1c4e8ba6c689eb7791954540827a306",
+                "0.24.Beta.12": "498912b1e82ed5a1382a83bc693f9534bcbe7ee31b897b862493c13d6a6bd9a1"
             }
         },
         "reauth": {
