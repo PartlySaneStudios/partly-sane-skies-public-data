@@ -1299,7 +1299,8 @@
             "download": "https://github.com/MrFast-js/Skyblock-Tweaks/",
             "versions": {},
             "betaVersions": {
-                "1.0.0-BETA1": "59913e131023b43bbf0daffef0f0cebe2a4ff74bb25895cdea91e613be3b8f49"
+                "1.0.0-BETA1": "59913e131023b43bbf0daffef0f0cebe2a4ff74bb25895cdea91e613be3b8f49",
+                "1.0.0-BETA2": "10c3fa8c8492e1bbb4ee39893e6d5f4d5034592ec1f3c21af83b8c7cb08bbf6b"
             }
         },
         "shy": {
