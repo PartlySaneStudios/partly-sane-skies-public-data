@@ -15,6 +15,12 @@
     "prank_sound": false,
     "announcements": [
         {
+            "name": "[March 19] Community Center Upgrade",
+            "date": "19 March 2024",
+            "description": "Hello!\n\nA new city project has released for an upgrade to the community center. Maybe Clerk Seraphine can afford more ballot papers now. The mayors seem to be busy and preparing something great - perhaps new mayor perks are in store?",
+            "link": "https://hypixel.net/threads/march-19-community-center-upgrade-city-project.5622336/"
+        },
+        {
             "name": "Patch Notes 0.19.12 - Tablist and Other",
             "date": "12 March 2023",
             "description": "Hello!\nWelcome to SkyBlock Patch 0.19.12. Today's update includes the long-awaited Tablist update",
