@@ -1323,6 +1323,16 @@
                 "1.0.1": "82fcf53c9c8df2cbb036589e79b38b6ec8924775d3dd9e82222bd6a788b5a337",
                 "1.0.2": "b456c4342ce48eadfc380921ce06fbdf9970edca55aeda8a8742918306e8b045"
             }
+        },
+        "pingCounter": {
+            "name": "Ping Counter",
+            "download": "https://www.curseforge.com/minecraft/mc-mods/pingcounter",
+            "versions": {
+                "1.8.0": "2e6b8ce0c14f01e5fd0ce3a6fb34a424cb6d583d826dab39b1ac47650abe2e0d"
+            },
+            "betaVersions": {
+                "1.8.0": "2e6b8ce0c14f01e5fd0ce3a6fb34a424cb6d583d826dab39b1ac47650abe2e0d"
+            }
         }
     }
 }
