@@ -387,12 +387,14 @@
             "versions": {
                 "1.6.1": "d4fe6e0755c7f545b27bbd90e65e1cad7f523405058af34c407e9c7a8c82e79b",
                 "1.7.0": "db65d2d68426cdeb90ca60f1bcd65f69f815091f1f72a29015092c3de25e2060",
-                "1.7.1": "3984c7d3a6eda09a76928e91de771402b938c8cbbcb548a3dbf122e0f20e74a2"
+                "1.7.1": "3984c7d3a6eda09a76928e91de771402b938c8cbbcb548a3dbf122e0f20e74a2",
+                "1.7.2": "add51f263b15c5532a9cc298ae8c1d94d2867559a57a596060017ae2740b1266"
             },
             "betaVersions": {
                 "1.6.1": "d4fe6e0755c7f545b27bbd90e65e1cad7f523405058af34c407e9c7a8c82e79b",
                 "1.7.0": "db65d2d68426cdeb90ca60f1bcd65f69f815091f1f72a29015092c3de25e2060",
-                "1.7.1": "3984c7d3a6eda09a76928e91de771402b938c8cbbcb548a3dbf122e0f20e74a2"
+                "1.7.1": "3984c7d3a6eda09a76928e91de771402b938c8cbbcb548a3dbf122e0f20e74a2",
+                "1.7.2": "add51f263b15c5532a9cc298ae8c1d94d2867559a57a596060017ae2740b1266"
             }
         },
         "skyguide": {
