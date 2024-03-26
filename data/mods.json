@@ -376,7 +376,8 @@
                 "3.4.0": "f9e8345be0413ceb957fa4429144e960000d86278903c8315a4eafe87cfaafda"
             },
             "betaVersions": {
-                "3.4.0": "f9e8345be0413ceb957fa4429144e960000d86278903c8315a4eafe87cfaafda"
+                "3.4.0": "f9e8345be0413ceb957fa4429144e960000d86278903c8315a4eafe87cfaafda",
+                "3.4.1": "0e4355e383133e7de35fdb20a0ca5c191dbca68c75781690b2c79c928697ea10"
             }
         },
         "BazaarNotifier": {
