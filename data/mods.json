@@ -865,7 +865,8 @@
             "versions": {
                 "0.21.1": "8aeb3f56795358c8af46eb4c057cb0c952eab1823448acda97bac3888cf284bf",
                 "0.22": "52a223c2c25a3ba92d9eb4bb28b4e02cc797ffe877d33483b329186ff2deca8b",
-                "0.23": "1c5ec9f7e341825ed1c868a088cf7d21b993e5b2be4e7484fa8949b2c77c6c46"
+                "0.23": "1c5ec9f7e341825ed1c868a088cf7d21b993e5b2be4e7484fa8949b2c77c6c46",
+                "0.24": "542899bd3cdeb86b8ce9a0dd7fb5b41e9f0095abe60ee850bff1ee46d3a30d01"
             },
             "betaVersions": {
                 "0.21.1": "8aeb3f56795358c8af46eb4c057cb0c952eab1823448acda97bac3888cf284bf",
