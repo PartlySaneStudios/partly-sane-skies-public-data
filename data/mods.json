@@ -290,7 +290,8 @@
                 "1.8.0": "7bcb16bf13d572b2113f5f24ee54693d8e11757fb7ae3e0e5503113642600a69",
                 "1.8.1": "39e17becd2b3033cad9c6676859bfa8a42a4e50d3a3b648fe15aec49318874dc",
                 "1.8.2": "1886d7b891dce218085628f8747995fc85223f163139d37909d7b7c6d1ba3d65",
-                "1.8.3": "19bbd52e311d8776d82db6bc7bb4bebeda3f9b3131725225c783e4ddda6b8059"
+                "1.8.3": "19bbd52e311d8776d82db6bc7bb4bebeda3f9b3131725225c783e4ddda6b8059",
+                "1.9.0": "b47564f90cfd2319f9f5d30fd2260dc4028af31e7c024f896fcbcf4e48730cf7"
             },
             "betaVersions": {
                 "1.7.9": "6d167cb9487127a3a9b6f1f89d32543277768cae2d99bdb960e066a1c7528c84",
@@ -314,7 +315,8 @@
                 "1.9.0-pre3": "a4c348152ec031fad83fac0d5cdd5feb408882fcb2d26de32946a1d6708d37e4",
                 "1.9.0-pre4": "20db111a0de7f2e8b1759bd9042dbbdb804123c364c7d8883758d33cdb85cf69",
                 "1.9.0-pre5": "9b059535140ae7ea4eeb71e3936406d2b0e30f120933bc376ec72186e26fa4b2",
-                "1.9.0-pre6": "cad6b58e63cdc137e2b6aaf5e63f4e9bb200608f6e45cea11a5cf0ed222e747d"
+                "1.9.0-pre6": "cad6b58e63cdc137e2b6aaf5e63f4e9bb200608f6e45cea11a5cf0ed222e747d",
+                "1.9.0": "b47564f90cfd2319f9f5d30fd2260dc4028af31e7c024f896fcbcf4e48730cf7"
             }
         },
         "apec": {
