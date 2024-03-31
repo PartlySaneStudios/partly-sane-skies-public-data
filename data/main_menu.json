@@ -12,7 +12,7 @@
         "latest_version_description": "",
         "latest_version_release_date": "29 March 2024"
     },
-    "prank_sound": true,
+    "prank_sound": false,
     "announcements": [
         {
             "name": "[March 26] SkyBlock Patch Notes",
