@@ -776,6 +776,7 @@
             }
         },
         "notsoessential": {
+            "name": "Not So Essential",
             "download": "https://github.com/Scherso/NotSoEssential",
             "versions": {
                 "1.0.3": "e2acae749c7fc68de2ccfd681744e3fb846f14957c99e3a02690bf3c5de6c3cd"
@@ -1005,13 +1006,15 @@
                 "1.0.0": "a88b1d8075f8b2c232eb3d504f3015d63adda666b1af2bffc83fe78d135cbb4b",
                 "1.3.0+g5efc127e6f": "621dcfa12ac2c8d063e0c96e8ae5e0857cdf7a2fe8d305af80f04413d357f39b",
                 "1.3.0.2+ge922acc4a7": "364cc01f55d22c85999248e9112644e84e2569d224408b75605dccc9c07a6ff5",
-                "1.0.0-24.02": "2f56adedeb8d765677e3eb95e4919739c4c9777e2b2774408753dfefbc62b322"
+                "1.0.0-24.02": "2f56adedeb8d765677e3eb95e4919739c4c9777e2b2774408753dfefbc62b322",
+                "1.0.0-01.04": "f7766c7d5eda11129e8b353b83d822efadb990ff08675c74aa960657e3c589c9"
             },
             "betaVersions": {
                 "1.0.0": "a88b1d8075f8b2c232eb3d504f3015d63adda666b1af2bffc83fe78d135cbb4b",
                 "1.3.0+g5efc127e6f": "621dcfa12ac2c8d063e0c96e8ae5e0857cdf7a2fe8d305af80f04413d357f39b",
                 "1.3.0.2+ge922acc4a7": "364cc01f55d22c85999248e9112644e84e2569d224408b75605dccc9c07a6ff5",
-                "1.0.0-24.02": "2f56adedeb8d765677e3eb95e4919739c4c9777e2b2774408753dfefbc62b322"
+                "1.0.0-24.02": "2f56adedeb8d765677e3eb95e4919739c4c9777e2b2774408753dfefbc62b322",
+                "1.0.0-01.04": "f7766c7d5eda11129e8b353b83d822efadb990ff08675c74aa960657e3c589c9"
             }
         },
         "oneconfig": {
