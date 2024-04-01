@@ -776,7 +776,6 @@
             }
         },
         "notsoessential": {
-            "name": "Not So Essential",
             "download": "https://github.com/Scherso/NotSoEssential",
             "versions": {
                 "1.0.3": "e2acae749c7fc68de2ccfd681744e3fb846f14957c99e3a02690bf3c5de6c3cd"
