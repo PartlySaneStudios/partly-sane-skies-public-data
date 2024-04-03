@@ -1362,6 +1362,16 @@
                 "1.8.0": "2e6b8ce0c14f01e5fd0ce3a6fb34a424cb6d583d826dab39b1ac47650abe2e0d",
                 "1.8.1": "df836b787df2d89ff9f284d717e697191c6ff60d0017642acf86f2013f9d9544"
             }
+        },
+        "quickjoin": {
+            "name": "Quickjoin",
+            "download": "https://modrinth.com/mod/quickjoin",
+            "versions": {
+                "2.2": "ef6d5ef2b5d46a185f8d597ce77bf688a4962be988f6ee7ae89576a9f1628134"
+            },
+            "betaVersions": {
+                "2.2": "ef6d5ef2b5d46a185f8d597ce77bf688a4962be988f6ee7ae89576a9f1628134"
+            }
         }
     }
 }
