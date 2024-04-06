@@ -506,11 +506,13 @@
             "download": "https://modrinth.com/mod/mixmetica",
             "versions": {
                 "2.0.1": "64c460fa93f95a13e0823f3596e6e05eef2d39114d9bd810171a1fd7d723a487",
-                "2.0.2": "a107be772eba07b0ce821854a608876f0b5c03871c7c59a5545badba726b3a54"
+                "2.0.2": "a107be772eba07b0ce821854a608876f0b5c03871c7c59a5545badba726b3a54",
+                "2.0.3": "577c5ad4a12ffeca287c8b77ccbbfea4fdeed51d1fbd3218c6d5e0c52d80e525"
             },
             "betaVersions": {
                 "2.0.1": "64c460fa93f95a13e0823f3596e6e05eef2d39114d9bd810171a1fd7d723a487",
-                "2.0.2": "a107be772eba07b0ce821854a608876f0b5c03871c7c59a5545badba726b3a54"
+                "2.0.2": "a107be772eba07b0ce821854a608876f0b5c03871c7c59a5545badba726b3a54",
+                "2.0.3": "577c5ad4a12ffeca287c8b77ccbbfea4fdeed51d1fbd3218c6d5e0c52d80e525"
             }
         },
         "twitcher": {
