@@ -1379,6 +1379,16 @@
             "betaVersions": {
                 "2.2": "ef6d5ef2b5d46a185f8d597ce77bf688a4962be988f6ee7ae89576a9f1628134"
             }
+        },
+        "SkyblockUtils": {
+            "name": "Skyblock Utils",
+            "download": "https://github.com/mastermindgolem/SkyBlock-Utils",
+            "versions": {
+                "1.0.4": "a17b72cce63a90b8d3f061449f9de0089d79f5097660cbfeef9b2bb71512779d"
+            },
+            "betaVersions": {
+                "1.0.4": "a17b72cce63a90b8d3f061449f9de0089d79f5097660cbfeef9b2bb71512779d"
+            }
         }
     }
 }
