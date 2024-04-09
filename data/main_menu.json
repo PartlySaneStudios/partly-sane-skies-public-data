@@ -15,6 +15,12 @@
     "prank_sound": false,
     "announcements": [
         {
+            "name": "Quick Design Thread: Foraging Island",
+            "date": "09 April 2024",
+            "description": "Hello everyone,  Welcome to the inaugural post in our new series of design discussions. This series aims to spark deeper conversations on various design topics relevant to our community.",
+            "link": "https://hypixel.net/threads/quick-design-thread-foraging-island.5635687/"
+        },
+        {
             "name": "SkyBlock Patch Notes 0.20 - The Glacite Tunnels",
             "date": "09 April 2024",
             "description": "Hello,  Starting today, thanks to the schemes of one particular Dwarf, experienced miners may now explore what lies beyond the Great Ice Wall. The Glacite Tunnels are harsh and unforgiving, with many once-lively adventurers having met a frosty fate down in the depths. So, the question is, will you fare any better?",
