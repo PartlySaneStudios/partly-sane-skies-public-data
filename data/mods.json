@@ -1387,7 +1387,8 @@
                 "1.0.4": "a17b72cce63a90b8d3f061449f9de0089d79f5097660cbfeef9b2bb71512779d"
             },
             "betaVersions": {
-                "1.0.4": "a17b72cce63a90b8d3f061449f9de0089d79f5097660cbfeef9b2bb71512779d"
+                "1.0.4": "a17b72cce63a90b8d3f061449f9de0089d79f5097660cbfeef9b2bb71512779d",
+                "1.0.5.Beta.1": "8115bd7252f0dcfec30d517381fbdd22dd48ef6d7c1c1c92c74797d645097f11"
             }
         }
     }
