@@ -1128,7 +1128,8 @@
             },
             "betaVersions": {
                 "2.2.0-pre17": "e32a0556a4fe29a671cd5c593966edc0928f278c78e129436d259133e197539f",
-                "2.2.0-pre18": "33ac0989f67f1d9e0158c970c59c8314dec50a55708395d29330c3ffe2a9ff75"
+                "2.2.0-pre18": "33ac0989f67f1d9e0158c970c59c8314dec50a55708395d29330c3ffe2a9ff75",
+                "2.2.0-pre19": "8aa9e8207e5876d8ad9161a2756efe50a40a9ac6df1131e796dc3cebdb9ec8b6"
             }
         },
         "neuhax": {
