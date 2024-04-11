@@ -15,6 +15,12 @@
     "prank_sound": false,
     "announcements": [
         {
+            "name": "[April 11] Small Glacite Patch Notes",
+            "date": "11 April 2024",
+            "description": "Hey all! We are here to inform you about a couple small changes that we've rolled recently:",
+            "link": "https://hypixel.net/threads/april-11-small-glacite-patch-notes.5637710/"
+        },
+        {
             "name": "SkyBlock Patch Notes 0.20 - The Glacite Tunnels",
             "date": "09 April 2024",
             "description": "Hello,  Starting today, thanks to the schemes of one particular Dwarf, experienced miners may now explore what lies beyond the Great Ice Wall. The Glacite Tunnels are harsh and unforgiving, with many once-lively adventurers having met a frosty fate down in the depths. So, the question is, will you fare any better?",
