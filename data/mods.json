@@ -947,7 +947,8 @@
                 "0.25.Beta.7.1": "ab2520fd35d25267a3b8d57cb6f1bfaf79ac5d3d2e0bba3dcf46c041b540691f",
                 "0.25.Beta.8": "c88c7d742775b9924cb134401977c0035a029362c2de58a9d53b65594e9cf2fc",
                 "0.25.Beta.9": "464606ed8cfa271b9ca9f572fdfb1c20d7eb55254a1ded8d50a390a7e74e92ad",
-                "0.25.Beta.10": "421005b82098c5c5abf3178b0266183f37bad79be8e334ecca5c8ba5788ee839"
+                "0.25.Beta.10": "421005b82098c5c5abf3178b0266183f37bad79be8e334ecca5c8ba5788ee839",
+                "0.25.Beta.11": "a5932f8a5b3bb6675dbb775538e48cd89987fc7cc2cf849c1c0556aaeb3ff391"
             }
         },
         "reauth": {
