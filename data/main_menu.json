@@ -15,6 +15,12 @@
     "prank_sound": false,
     "announcements": [
         {
+            "name": "Patch Notes 0.20.1 - Chocolate Factory, Hoppity’s Hunt, and more!",
+            "date": "24 April 2024",
+            "description": "Hello!  Welcome to Hypixel SkyBlock Patch 0.20.1. Today’s update has plenty of things in store, featuring Hoppity’s Hunt and Chocolate Factory, a follow-up patch for Glacite Tunnels, some long-awaited Dark Auction changes, and much more!  Read on to find out more about this release.",
+            "link": "https://hypixel.net/threads/hypixel-skyblock-patch-notes-0-20-1-chocolate-factory-hoppity’s-hunt-and-more.5645591/"
+        },
+        {
             "name": "Inventory Issue - April 22nd",
             "date": "23 April 2024",
             "description": "Hey everyone,  In preparation of rolling for the future 1.20.5 Minecraft version, we inadvertently rolled some changes that made it appear as if your inventory was wiped when switching between servers. To our knowledge, this is just a display issue and no actual wipes have happened. We are currently in the process of reverting these changes and the issue should be resolved shortly.",
