@@ -31,12 +31,6 @@
             "date": "23 April 2024",
             "description": "Hey everyone,  In preparation of rolling for the future 1.20.5 Minecraft version, we inadvertently rolled some changes that made it appear as if your inventory was wiped when switching between servers. To our knowledge, this is just a display issue and no actual wipes have happened. We are currently in the process of reverting these changes and the issue should be resolved shortly.",
             "link": "https://hypixel.net/threads/inventory-issue-april-22nd.5645091/"
-        },
-        {
-            "name": "SkyBlock Patch Notes 0.20 - The Glacite Tunnels",
-            "date": "09 April 2024",
-            "description": "Hello,  Starting today, thanks to the schemes of one particular Dwarf, experienced miners may now explore what lies beyond the Great Ice Wall. The Glacite Tunnels are harsh and unforgiving, with many once-lively adventurers having met a frosty fate down in the depths. So, the question is, will you fare any better?",
-            "link": "https://hypixel.net/threads/hypixel-skyblock-patch-notes-0-20-the-glacite-tunnels.5636233/"
         }
     ]
 }
