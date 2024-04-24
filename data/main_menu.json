@@ -25,12 +25,6 @@
             "date": "24 April 2024",
             "description": "Hello,  Today, I'd like to discuss \"Hunting,\" a new skill to be introduced in the Foraging Update, and its relationship with Attributes.",
             "link": "https://hypixel.net/threads/quick-design-thread-hunting-and-attributes.5640960/"
-        },
-        {
-            "name": "Inventory Issue - April 22nd",
-            "date": "23 April 2024",
-            "description": "Hey everyone,  In preparation of rolling for the future 1.20.5 Minecraft version, we inadvertently rolled some changes that made it appear as if your inventory was wiped when switching between servers. To our knowledge, this is just a display issue and no actual wipes have happened. We are currently in the process of reverting these changes and the issue should be resolved shortly.",
-            "link": "https://hypixel.net/threads/inventory-issue-april-22nd.5645091/"
         }
     ]
 }
