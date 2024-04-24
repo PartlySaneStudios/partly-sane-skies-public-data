@@ -1044,11 +1044,13 @@
             "download": "https://modrinth.com/mod/oneconfig",
             "versions": {
                 "0.2.1-alpha189": "d5d5db06ed5d0c32810fe730ba2b32a0abe3c26201476ebd8fa8c7e347edd814",
-                "0.2.2-alpha191": "e06bd1e0630c5a2bc3c7adc359001ca7fa80cc5cf5976cb7c88b47cfdf52058c"
+                "0.2.2-alpha191": "e06bd1e0630c5a2bc3c7adc359001ca7fa80cc5cf5976cb7c88b47cfdf52058c",
+                "0.2.2-alpha195": "9318abcd1d248693ff42055a717aea35cb47e9f03493bf1e66ee68cb1e646baf"
             },
             "betaVersions": {
                 "0.2.1-alpha189": "d5d5db06ed5d0c32810fe730ba2b32a0abe3c26201476ebd8fa8c7e347edd814",
-                "0.2.2-alpha191": "e06bd1e0630c5a2bc3c7adc359001ca7fa80cc5cf5976cb7c88b47cfdf52058c"
+                "0.2.2-alpha191": "e06bd1e0630c5a2bc3c7adc359001ca7fa80cc5cf5976cb7c88b47cfdf52058c",
+                "0.2.2-alpha195": "9318abcd1d248693ff42055a717aea35cb47e9f03493bf1e66ee68cb1e646baf"
             }
         },
         "arrowpath": {
