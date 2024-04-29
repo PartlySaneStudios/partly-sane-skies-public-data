@@ -15,6 +15,12 @@
     "prank_sound": false,
     "announcements": [
         {
+            "name": "Hypixel is down",
+            "date": "29 April 2024",
+            "description": "No, it's not just you.",
+            "link": "https://status.hypixel.net/"
+        },
+        {
             "name": "Patch Notes 0.20.1 - Chocolate Factory, Hoppity’s Hunt, and more!",
             "date": "24 April 2024",
             "description": "Hello!  Welcome to Hypixel SkyBlock Patch 0.20.1. Today’s update has plenty of things in store, featuring Hoppity’s Hunt and Chocolate Factory, a follow-up patch for Glacite Tunnels, some long-awaited Dark Auction changes, and much more!  Read on to find out more about this release.",
