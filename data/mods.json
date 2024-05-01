@@ -50,7 +50,8 @@
                 "beta-v0.6-prerelease-4": "b1e4b0b96869747a1d743f01b3b07c5005a0424bb0ddcb3c486d79a39a7ed9c3",
                 "beta-v0.6-prerelease-5": "b526112905475cd68d4da1719a7fdccab31591bcfc3ff6af8c52e62732264119",
                 "beta-v0.6": "8100c82fdc6564f48ac67d48f86c6238de4e1ed9016aa92d508e02c4a98a7c2c",
-                "beta-v0.6.1": "e242bde638db741536bfe1a06fc114d2df4d2783870d39fbc82e15f170d4f14b"
+                "beta-v0.6.1": "e242bde638db741536bfe1a06fc114d2df4d2783870d39fbc82e15f170d4f14b",
+                "beta-v0.6.2-prerelease-1": "410662651a5ebb6a4677b3c18bb97813e401322bfc3948bb86299da47162cfc9"
             }
         },
         "text_overflow_scroll": {
@@ -261,14 +262,18 @@
                 "2.1.1+Alpha-25.9fb6633": "e3281a49903624c3aa75c9cdda2b828516dddb656b4e77cb8e682944b1e046b9",
                 "2.1.1+Alpha-26.c9e26f4": "794cc7360cfee5ce5788a5bf9a85b69b94b0809f82c5e0214e2338f877860e78",
                 "2.1.1+Pre-5.6538b08": "5ea3b61ecbaedb765fecb790de9c85850ea31895a55ddb72b18f7a443dbc542f",
-                "2.1.1+Alpha-27.e55bf40": "473fd474ef977ba6f2a9b454ecb65486a204d27f0ec9b39df305033e928f75d8"
+                "2.1.1+Alpha-27.e55bf40": "473fd474ef977ba6f2a9b454ecb65486a204d27f0ec9b39df305033e928f75d8",
+                "2.2.0+874c4265": "ae1c14046e770f50a688719042526c74a945fcfc6a3004559f1da2602d62d8bc",
+                "2.2.1+c266561e": "ad5a15da4d525c6b082e607c0db0479017252ec9a75fcc75d1198abf983c236a"
             },
             "betaVersions": {
                 "2.1.1-PRE": "a1aa859481b11865d771bf72baa2aa7cb895f165a3e16574e6aaefade12e4230",
                 "2.1.1+Alpha-25.9fb6633": "e3281a49903624c3aa75c9cdda2b828516dddb656b4e77cb8e682944b1e046b9",
                 "2.1.1+Alpha-26.c9e26f4": "794cc7360cfee5ce5788a5bf9a85b69b94b0809f82c5e0214e2338f877860e78",
                 "2.1.1+Pre-5.6538b08": "5ea3b61ecbaedb765fecb790de9c85850ea31895a55ddb72b18f7a443dbc542f",
-                "2.1.1+Alpha-27.e55bf40": "473fd474ef977ba6f2a9b454ecb65486a204d27f0ec9b39df305033e928f75d8"
+                "2.1.1+Alpha-27.e55bf40": "473fd474ef977ba6f2a9b454ecb65486a204d27f0ec9b39df305033e928f75d8",
+                "2.2.0+874c4265": "ae1c14046e770f50a688719042526c74a945fcfc6a3004559f1da2602d62d8bc",
+                "2.2.1+c266561e": "ad5a15da4d525c6b082e607c0db0479017252ec9a75fcc75d1198abf983c236a"
             }
         },
         "Danker's Skyblock Mod": {
@@ -295,7 +300,9 @@
                 "1.8.3": "19bbd52e311d8776d82db6bc7bb4bebeda3f9b3131725225c783e4ddda6b8059",
                 "1.9.0": "b47564f90cfd2319f9f5d30fd2260dc4028af31e7c024f896fcbcf4e48730cf7",
                 "1.9.1": "9c18a619b490e29c93105f847f31075c19fc9df5c72abe80a8e4370341a1555c",
-                "1.9.2": "25db9771a309ea677cb89de1972cf4a541816124d78a38ec0a70ed42965a9618"
+                "1.9.2": "25db9771a309ea677cb89de1972cf4a541816124d78a38ec0a70ed42965a9618",
+                "1.9.3": "c7bf80b502df2a2f321b141fc0b2fbf1485b284b147fe937bb9dead66db45919",
+                "1.9.4": "17147f57611b2ae0aaff640d83353e448c0156517ee8205adaacb1450e5631a3"
             },
             "betaVersions": {
                 "1.7.9": "6d167cb9487127a3a9b6f1f89d32543277768cae2d99bdb960e066a1c7528c84",
@@ -322,7 +329,9 @@
                 "1.9.0-pre6": "cad6b58e63cdc137e2b6aaf5e63f4e9bb200608f6e45cea11a5cf0ed222e747d",
                 "1.9.0": "b47564f90cfd2319f9f5d30fd2260dc4028af31e7c024f896fcbcf4e48730cf7",
                 "1.9.1": "9c18a619b490e29c93105f847f31075c19fc9df5c72abe80a8e4370341a1555c",
-                "1.9.2": "25db9771a309ea677cb89de1972cf4a541816124d78a38ec0a70ed42965a9618"
+                "1.9.2": "25db9771a309ea677cb89de1972cf4a541816124d78a38ec0a70ed42965a9618",
+                "1.9.3": "c7bf80b502df2a2f321b141fc0b2fbf1485b284b147fe937bb9dead66db45919",
+                "1.9.4": "17147f57611b2ae0aaff640d83353e448c0156517ee8205adaacb1450e5631a3"
             }
         },
         "apec": {
@@ -366,7 +375,9 @@
             "betaVersions": {
                 "4.0.0": "a86542eb4e31f0b1d23da920316b199a4d092bd916505fb2b2b5e0c70b7db7c3",
                 "4.0.0-beta9.3": "274e66d623cc3ff25f14035b25eb02fba87dbdd17bafd9672ba4839742ed5e7d",
-                "4.0.0-beta9.4": "3b72f77cfdeeb5e41f273349f2b819e647b3e821b7696cc84371e1f023f2f77f"
+                "4.0.0-beta9.4": "3b72f77cfdeeb5e41f273349f2b819e647b3e821b7696cc84371e1f023f2f77f",
+                "4.0.0-beta9.5": "1427bfc3703a32fab1fff082bec0528fdbac2b7d545364c9feba52266cbd7f67",
+                "4.0.0-beta-9.5-1": "e9da2e5ad2083ce196dac8978f4077bed23e98e2a7019d8b3a8311f8c1507ec8"
             }
         },
         "skyblock_dungeons_guide": {
@@ -507,12 +518,14 @@
             "versions": {
                 "2.0.1": "64c460fa93f95a13e0823f3596e6e05eef2d39114d9bd810171a1fd7d723a487",
                 "2.0.2": "a107be772eba07b0ce821854a608876f0b5c03871c7c59a5545badba726b3a54",
-                "2.0.3": "577c5ad4a12ffeca287c8b77ccbbfea4fdeed51d1fbd3218c6d5e0c52d80e525"
+                "2.0.3": "577c5ad4a12ffeca287c8b77ccbbfea4fdeed51d1fbd3218c6d5e0c52d80e525",
+                "2.0.4": "ada396245b6c6e5833e44b5355eaa6ab7c494fc73b4020feec7caa637b865667"
             },
             "betaVersions": {
                 "2.0.1": "64c460fa93f95a13e0823f3596e6e05eef2d39114d9bd810171a1fd7d723a487",
                 "2.0.2": "a107be772eba07b0ce821854a608876f0b5c03871c7c59a5545badba726b3a54",
-                "2.0.3": "577c5ad4a12ffeca287c8b77ccbbfea4fdeed51d1fbd3218c6d5e0c52d80e525"
+                "2.0.3": "577c5ad4a12ffeca287c8b77ccbbfea4fdeed51d1fbd3218c6d5e0c52d80e525",
+                "2.0.4": "ada396245b6c6e5833e44b5355eaa6ab7c494fc73b4020feec7caa637b865667"
             }
         },
         "twitcher": {
@@ -943,7 +956,17 @@
                 "0.25.Beta.5": "d51802ab401df695463f554b6457ed440df4dbd207df0c92f322878f14ef3d3f",
                 "0.25.Beta.6": "faca8947a52bfd904e6a48dcf68fc83ed604a2a8c69368c51bf16ecbe5ff85d8",
                 "0.25.Beta.7": "f1bb6dc40c558cb02ad07631215be04c01b0ab07efb64bc4997849cfc250c79a",
-                "0.25.Beta.7.1": "ab2520fd35d25267a3b8d57cb6f1bfaf79ac5d3d2e0bba3dcf46c041b540691f"
+                "0.25.Beta.7.1": "ab2520fd35d25267a3b8d57cb6f1bfaf79ac5d3d2e0bba3dcf46c041b540691f",
+                "0.25.Beta.8": "c88c7d742775b9924cb134401977c0035a029362c2de58a9d53b65594e9cf2fc",
+                "0.25.Beta.9": "464606ed8cfa271b9ca9f572fdfb1c20d7eb55254a1ded8d50a390a7e74e92ad",
+                "0.25.Beta.10": "421005b82098c5c5abf3178b0266183f37bad79be8e334ecca5c8ba5788ee839",
+                "0.25.Beta.11": "a5932f8a5b3bb6675dbb775538e48cd89987fc7cc2cf849c1c0556aaeb3ff391",
+                "0.25.Beta.12": "f0153959e2e041f4794b0040e416973277f422ecb2b6d40fb31307250bd632ed",
+                "0.25.Beta.13": "88ea0340303ffca79a7d9c50e5432b189130dd9a5ef75231f0437ea5f40c7550",
+                "0.25.Beta.14": "32ef288b005f563b1b261ce969706ed52c5e78c43b5d533a3ba1443f65ba3439",
+                "0.25.Beta.15": "c4a9c2ca4ebee1aba72260416eddbee5c9891ecaaec5f551d3beda1bc63a4527",
+                "0.25.Beta.16": "9a1131524ead6998dec8138801d825c9960097cdebbe854939780005ca979fea",
+                "0.25.Beta.17": "bc36fab9b76008a68bd12feb19d210f6fbc0fafbba1191fbb18caeb41cc00088"
             }
         },
         "reauth": {
@@ -1038,11 +1061,13 @@
             "download": "https://modrinth.com/mod/oneconfig",
             "versions": {
                 "0.2.1-alpha189": "d5d5db06ed5d0c32810fe730ba2b32a0abe3c26201476ebd8fa8c7e347edd814",
-                "0.2.2-alpha191": "e06bd1e0630c5a2bc3c7adc359001ca7fa80cc5cf5976cb7c88b47cfdf52058c"
+                "0.2.2-alpha191": "e06bd1e0630c5a2bc3c7adc359001ca7fa80cc5cf5976cb7c88b47cfdf52058c",
+                "0.2.2-alpha195": "9318abcd1d248693ff42055a717aea35cb47e9f03493bf1e66ee68cb1e646baf"
             },
             "betaVersions": {
                 "0.2.1-alpha189": "d5d5db06ed5d0c32810fe730ba2b32a0abe3c26201476ebd8fa8c7e347edd814",
-                "0.2.2-alpha191": "e06bd1e0630c5a2bc3c7adc359001ca7fa80cc5cf5976cb7c88b47cfdf52058c"
+                "0.2.2-alpha191": "e06bd1e0630c5a2bc3c7adc359001ca7fa80cc5cf5976cb7c88b47cfdf52058c",
+                "0.2.2-alpha195": "9318abcd1d248693ff42055a717aea35cb47e9f03493bf1e66ee68cb1e646baf"
             }
         },
         "arrowpath": {
@@ -1132,7 +1157,8 @@
             "betaVersions": {
                 "2.2.0-pre17": "e32a0556a4fe29a671cd5c593966edc0928f278c78e129436d259133e197539f",
                 "2.2.0-pre18": "33ac0989f67f1d9e0158c970c59c8314dec50a55708395d29330c3ffe2a9ff75",
-                "2.2.0-pre19": "8aa9e8207e5876d8ad9161a2756efe50a40a9ac6df1131e796dc3cebdb9ec8b6"
+                "2.2.0-pre19": "8aa9e8207e5876d8ad9161a2756efe50a40a9ac6df1131e796dc3cebdb9ec8b6",
+                "2.2.0-pre20": "70ef6baa858195eb56cb26d62b2f11d0cec1c627cba84183837cc27418ac7b33"
             }
         },
         "neuhax": {
@@ -1141,12 +1167,14 @@
             "versions": {
                 "1.1.3": "ec0d29a434c3ac42752bb77893a3484395bafc1df505b5ecb602fb34634afa9d",
                 "1.2.0": "e1a61f4babc860474af0133eccf447cf92b4e38d811996f9bd60533cf086112d",
-                "1.2.1": "1261dac0222d577f65fdb91ae32a125a202aa03240108fa7a988d08b519a30b7"
+                "1.2.1": "1261dac0222d577f65fdb91ae32a125a202aa03240108fa7a988d08b519a30b7",
+                "1.3.0": "de96d1f58fcc594acb80db21eef3bb8a6c3c4d17dccd23444371d943752a99a5"
             },
             "betaVersions": {
                 "1.1.3": "ec0d29a434c3ac42752bb77893a3484395bafc1df505b5ecb602fb34634afa9d",
                 "1.2.0": "e1a61f4babc860474af0133eccf447cf92b4e38d811996f9bd60533cf086112d",
-                "1.2.1": "1261dac0222d577f65fdb91ae32a125a202aa03240108fa7a988d08b519a30b7"
+                "1.2.1": "1261dac0222d577f65fdb91ae32a125a202aa03240108fa7a988d08b519a30b7",
+                "1.3.0": "de96d1f58fcc594acb80db21eef3bb8a6c3c4d17dccd23444371d943752a99a5"
             }
         },
         "VolcAddons": {
@@ -1278,13 +1306,15 @@
                 "1.2.1": "f4310555db7dadfd409dd96dfd36b61accdbe93b90cec49fc5f12df32248000f",
                 "1.2.1.1": "7973819a9a05b68f522063009ea34c5c079f38799d180ac5b15ca5a8ba1a3e26",
                 "1.3.0": "f74e6690030cc0ffd058add496efe09c850599fd0a57d77bdfc1d4e686a2543a",
-                "1.3.1": "0c8a8676167dda760476454625557a9b48349eeb2409a29715bc4e7a616842f2"
+                "1.3.1": "0c8a8676167dda760476454625557a9b48349eeb2409a29715bc4e7a616842f2",
+                "1.3.3": "a3bf9bb6c22faa6164abb1660299d8fd51ff13bc757f430fe32625d77d4bed20"
             },
             "betaVersions": {
                 "1.2.1": "f4310555db7dadfd409dd96dfd36b61accdbe93b90cec49fc5f12df32248000f",
                 "1.2.1.1": "7973819a9a05b68f522063009ea34c5c079f38799d180ac5b15ca5a8ba1a3e26",
                 "1.3.0": "f74e6690030cc0ffd058add496efe09c850599fd0a57d77bdfc1d4e686a2543a",
-                "1.3.1": "0c8a8676167dda760476454625557a9b48349eeb2409a29715bc4e7a616842f2"
+                "1.3.1": "0c8a8676167dda760476454625557a9b48349eeb2409a29715bc4e7a616842f2",
+                "1.3.3": "a3bf9bb6c22faa6164abb1660299d8fd51ff13bc757f430fe32625d77d4bed20"
             }
         },
         "quickquit": {
@@ -1394,6 +1424,16 @@
             "betaVersions": {
                 "1.0.4": "a17b72cce63a90b8d3f061449f9de0089d79f5097660cbfeef9b2bb71512779d",
                 "1.0.5.Beta.1": "8115bd7252f0dcfec30d517381fbdd22dd48ef6d7c1c1c92c74797d645097f11"
+            }
+        },
+        "hotshirtlessmen": {
+            "name": "Hot Shirtless Men",
+            "download": "https://github.com/Rekteiru/hot-shirtless-men/",
+            "versions": {
+                "1.0.4.1": "d712bbe39274dda23a8fa541302f80e703d2e554659304c793dec2c7b988797c"
+            },
+            "betaVersions": {
+                "1.0.4.1": "d712bbe39274dda23a8fa541302f80e703d2e554659304c793dec2c7b988797c"
             }
         }
     }

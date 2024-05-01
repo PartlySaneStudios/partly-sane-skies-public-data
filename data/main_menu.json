@@ -8,23 +8,23 @@
         "discord_invite_code": "v4PU3WeH7z"
     },
     "prerelease_channel": {
-        "latest_version": "beta-v0.6.1",
+        "latest_version": "beta-v0.6.2-prerelease-1",
         "latest_version_description": "",
-        "latest_version_release_date": "29 March 2024"
+        "latest_version_release_date": "22 April 2024"
     },
     "prank_sound": false,
     "announcements": [
         {
-            "name": "[April 11] Small Glacite Patch Notes",
-            "date": "11 April 2024",
-            "description": "Hey all! We are here to inform you about a couple small changes that we've rolled recently:",
-            "link": "https://hypixel.net/threads/april-11-small-glacite-patch-notes.5637710/"
+            "name": "Patch Notes 0.20.1 - Chocolate Factory, Hoppity’s Hunt, and more!",
+            "date": "24 April 2024",
+            "description": "Hello!  Welcome to Hypixel SkyBlock Patch 0.20.1. Today’s update has plenty of things in store, featuring Hoppity’s Hunt and Chocolate Factory, a follow-up patch for Glacite Tunnels, some long-awaited Dark Auction changes, and much more!  Read on to find out more about this release.",
+            "link": "https://hypixel.net/threads/hypixel-skyblock-patch-notes-0-20-1-chocolate-factory-hoppity’s-hunt-and-more.5645591/"
         },
         {
-            "name": "SkyBlock Patch Notes 0.20 - The Glacite Tunnels",
-            "date": "09 April 2024",
-            "description": "Hello,  Starting today, thanks to the schemes of one particular Dwarf, experienced miners may now explore what lies beyond the Great Ice Wall. The Glacite Tunnels are harsh and unforgiving, with many once-lively adventurers having met a frosty fate down in the depths. So, the question is, will you fare any better?",
-            "link": "https://hypixel.net/threads/hypixel-skyblock-patch-notes-0-20-the-glacite-tunnels.5636233/"
+            "name": "Quick Design Thread: Hunting and Attributes",
+            "date": "24 April 2024",
+            "description": "Hello,  Today, I'd like to discuss \"Hunting,\" a new skill to be introduced in the Foraging Update, and its relationship with Attributes.",
+            "link": "https://hypixel.net/threads/quick-design-thread-hunting-and-attributes.5640960/"
         }
     ]
 }
