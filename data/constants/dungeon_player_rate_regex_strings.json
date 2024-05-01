@@ -1,0 +1,18 @@
+{
+  "positive_strings" : {
+      "(\\w+) has obtained Wither Key!" : "\u00A78Keys",
+      "DUNGEON BUFF! (\\w+) found a " : "\u00A7cBlessings",
+      "PUZZLE SOLVED! (\\w+) " : "\u00A7aPuzzles",
+      "(\\w+) has obtained" : "\u00A76Rooms",
+      "(\\w+) found a Wither Essence!" : "\u00A79Secrets",
+      "(\\w+) completed a device!" : "\u00A7cTerminals",
+      "(\\w+) activated a terminal!" : "\u00A7cTerminals",
+      "(\\w+) activated a lever!" : "\u00A7cTerminals",
+      "(\\w+) picked up an Energy Crystal!" : "\u00A7bCrystals"
+  },
+
+  "negative_strings" : {
+      "☠️ (\\w+) died" : "\u00A74Deaths",
+      "☠️ (\\w+) disconnected from the Dungeon" : "\u00A74Deaths"
+  }
+}
