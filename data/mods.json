@@ -1304,10 +1304,12 @@
             "name": "PolyNametag",
             "download": "https://modrinth.com/mod/polynametag",
             "versions": {
-                "1.0.0": "922009ebe818c6b05516a9da36489c908f59e84b5b0ba1f5f015747d3a4c461f"
+                "1.0.0": "922009ebe818c6b05516a9da36489c908f59e84b5b0ba1f5f015747d3a4c461f",
+                "1.0.1": "fa3392c83517684a5cb480376fd7bd30afc32b214f311b04748c983c1e4414c3"
             },
             "betaVersions": {
-                "1.0.0": "922009ebe818c6b05516a9da36489c908f59e84b5b0ba1f5f015747d3a4c461f"
+                "1.0.0": "922009ebe818c6b05516a9da36489c908f59e84b5b0ba1f5f015747d3a4c461f",
+                "1.0.1": "fa3392c83517684a5cb480376fd7bd30afc32b214f311b04748c983c1e4414c3"
             }
         },
         "resourcify": {
