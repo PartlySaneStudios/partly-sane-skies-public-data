@@ -174,11 +174,13 @@
             "download": "https://www.replaymod.com/download",
             "versions": {
                 "1.8.9-2.6.8": "201afaa9f1e68857ca553d0750dce23b53afe7135bd9a43060e0e38704db4b4c",
-                "1.8.9-2.6.14": "16280855535603ff8ee3c3ff96e9bfe49b80df81563e5e83e0039f1d7cd0afa8"
+                "1.8.9-2.6.14": "16280855535603ff8ee3c3ff96e9bfe49b80df81563e5e83e0039f1d7cd0afa8",
+                "1.8.9-2.6.15": "ef2f2a6c98a8378f03f4176731340eee48403c8c1ca0fb949334fcef551d621b"
             },
             "betaVersions": {
                 "1.8.9-2.6.8": "201afaa9f1e68857ca553d0750dce23b53afe7135bd9a43060e0e38704db4b4c",
-                "1.8.9-2.6.14": "16280855535603ff8ee3c3ff96e9bfe49b80df81563e5e83e0039f1d7cd0afa8"
+                "1.8.9-2.6.14": "16280855535603ff8ee3c3ff96e9bfe49b80df81563e5e83e0039f1d7cd0afa8",
+                "1.8.9-2.6.15": "ef2f2a6c98a8378f03f4176731340eee48403c8c1ca0fb949334fcef551d621b"
             }
         },
         "blockoverlay": {
