@@ -51,7 +51,8 @@
                 "beta-v0.6-prerelease-5": "b526112905475cd68d4da1719a7fdccab31591bcfc3ff6af8c52e62732264119",
                 "beta-v0.6": "8100c82fdc6564f48ac67d48f86c6238de4e1ed9016aa92d508e02c4a98a7c2c",
                 "beta-v0.6.1": "e242bde638db741536bfe1a06fc114d2df4d2783870d39fbc82e15f170d4f14b",
-                "beta-v0.6.2-prerelease-1": "410662651a5ebb6a4677b3c18bb97813e401322bfc3948bb86299da47162cfc9"
+                "beta-v0.6.2-prerelease-1": "410662651a5ebb6a4677b3c18bb97813e401322bfc3948bb86299da47162cfc9",
+                "beta-v0.6.2-prerelease-2": "e95315a06696db1f4067543b0f2e2006a9e9a00a474420b65a8e8301cb2da0bc"
             }
         },
         "text_overflow_scroll": {
@@ -82,14 +83,16 @@
                 "2.1.1": "e5576c868cbf2945527ba33897f6b1c922800c4ab2a4ad2f89b4462b6257b16a",
                 "2.1.2": "267a89e428954edf8f77388ec78bd1aac0e5fa9ca14aa969663792a8ec9e7407",
                 "2.1.3": "e6cb6df3eb358d708a76128c8ad33bbe602f8471be2673945e70621a5e23f9fc",
-                "2.1.4": "e94077a6c64ceeef0b38e264fc60ada01ad3ef0057355b07d3c53db1fd7cd06f"
+                "2.1.4": "e94077a6c64ceeef0b38e264fc60ada01ad3ef0057355b07d3c53db1fd7cd06f",
+                "2.1.5": "34992e23ba51d2f533695e887857464eabf613c6ee6361daffd30a7241d3f854"
             },
             "betaVersions": {
                 "2.1.0": "711872a0a3c4bc51a11bfcb53e7dc8c1fbbbeca2182a5f220230beebec24aa35",
                 "2.1.1": "e5576c868cbf2945527ba33897f6b1c922800c4ab2a4ad2f89b4462b6257b16a",
                 "2.1.2": "267a89e428954edf8f77388ec78bd1aac0e5fa9ca14aa969663792a8ec9e7407",
                 "2.1.3": "e6cb6df3eb358d708a76128c8ad33bbe602f8471be2673945e70621a5e23f9fc",
-                "2.1.4": "e94077a6c64ceeef0b38e264fc60ada01ad3ef0057355b07d3c53db1fd7cd06f"
+                "2.1.4": "e94077a6c64ceeef0b38e264fc60ada01ad3ef0057355b07d3c53db1fd7cd06f",
+                "2.1.5": "34992e23ba51d2f533695e887857464eabf613c6ee6361daffd30a7241d3f854"
             }
         },
         "insomnia": {
@@ -264,7 +267,8 @@
                 "2.1.1+Pre-5.6538b08": "5ea3b61ecbaedb765fecb790de9c85850ea31895a55ddb72b18f7a443dbc542f",
                 "2.1.1+Alpha-27.e55bf40": "473fd474ef977ba6f2a9b454ecb65486a204d27f0ec9b39df305033e928f75d8",
                 "2.2.0+874c4265": "ae1c14046e770f50a688719042526c74a945fcfc6a3004559f1da2602d62d8bc",
-                "2.2.1+c266561e": "ad5a15da4d525c6b082e607c0db0479017252ec9a75fcc75d1198abf983c236a"
+                "2.2.1+c266561e": "ad5a15da4d525c6b082e607c0db0479017252ec9a75fcc75d1198abf983c236a",
+                "2.2.2+2767ef49": "5472bbbd4efc7d5069f75fd1c7d1db8533fb19d41926b9d19e4510e45d8fd5c7"
             },
             "betaVersions": {
                 "2.1.1-PRE": "a1aa859481b11865d771bf72baa2aa7cb895f165a3e16574e6aaefade12e4230",
@@ -273,7 +277,8 @@
                 "2.1.1+Pre-5.6538b08": "5ea3b61ecbaedb765fecb790de9c85850ea31895a55ddb72b18f7a443dbc542f",
                 "2.1.1+Alpha-27.e55bf40": "473fd474ef977ba6f2a9b454ecb65486a204d27f0ec9b39df305033e928f75d8",
                 "2.2.0+874c4265": "ae1c14046e770f50a688719042526c74a945fcfc6a3004559f1da2602d62d8bc",
-                "2.2.1+c266561e": "ad5a15da4d525c6b082e607c0db0479017252ec9a75fcc75d1198abf983c236a"
+                "2.2.1+c266561e": "ad5a15da4d525c6b082e607c0db0479017252ec9a75fcc75d1198abf983c236a",
+                "2.2.2+2767ef49": "5472bbbd4efc7d5069f75fd1c7d1db8533fb19d41926b9d19e4510e45d8fd5c7"
             }
         },
         "Danker's Skyblock Mod": {
@@ -725,11 +730,15 @@
             "download": "https://modrinth.com/mod/vanillahud",
             "versions": {
                 "2.1.0": "c81a0999398c09890921395ed3c4432203ec55122afbb5440ac55d23984e6898",
-                "2.1.1": "e15cc7ec32ef0cb1f80374920b0a4a6ef8e92274a133c2cfe2d5d13793a6f59d"
+                "2.1.1": "e15cc7ec32ef0cb1f80374920b0a4a6ef8e92274a133c2cfe2d5d13793a6f59d",
+                "2.2.0": "24e515c3bcb8398bc91aa396ed27c5aa59e7497e9184ba7794cf118f22b11140",
+                "2.2.2": "ebaa4697aa3892a05df2f6dc0ddff95e57bb4a0734340c1b33a0e765bbbc3a59"
             },
             "betaVersions": {
                 "2.1.0": "c81a0999398c09890921395ed3c4432203ec55122afbb5440ac55d23984e6898",
-                "2.1.1": "e15cc7ec32ef0cb1f80374920b0a4a6ef8e92274a133c2cfe2d5d13793a6f59d"
+                "2.1.1": "e15cc7ec32ef0cb1f80374920b0a4a6ef8e92274a133c2cfe2d5d13793a6f59d",
+                "2.2.0": "24e515c3bcb8398bc91aa396ed27c5aa59e7497e9184ba7794cf118f22b11140",
+                "2.2.2": "ebaa4697aa3892a05df2f6dc0ddff95e57bb4a0734340c1b33a0e765bbbc3a59"
             }
         },
         "itlt": {
@@ -966,7 +975,12 @@
                 "0.25.Beta.14": "32ef288b005f563b1b261ce969706ed52c5e78c43b5d533a3ba1443f65ba3439",
                 "0.25.Beta.15": "c4a9c2ca4ebee1aba72260416eddbee5c9891ecaaec5f551d3beda1bc63a4527",
                 "0.25.Beta.16": "9a1131524ead6998dec8138801d825c9960097cdebbe854939780005ca979fea",
-                "0.25.Beta.17": "bc36fab9b76008a68bd12feb19d210f6fbc0fafbba1191fbb18caeb41cc00088"
+                "0.25.Beta.17": "bc36fab9b76008a68bd12feb19d210f6fbc0fafbba1191fbb18caeb41cc00088",
+                "0.25.Beta.18": "9f3eb9d6ffdb9370affd2f87d0f5233f37abf50cf83d8a40758d747f9908b45d",
+                "0.25.Beta.19": "debe7b48bc62c3e9edc73018a3d77f7984cb7e5d08c17c62129f3d13e26a0eb2",
+                "0.25.Beta.20": "5443318e81fc00b277986d0dacc9d6bb12ce4e6db0c358ef1c68f44f93fd0366",
+                "0.25.Beta.21": "2a0fe897ae0cfda1e4cc7f6cec36bd587ac12d8b3a3787c7415c5e42229e60a0",
+                "0.25.Beta.22": "e6de80692e0563d503ce54d5ba958f0a8324e2eb50a7cce4bdf8d5608c91c3a4"
             }
         },
         "reauth": {
@@ -1293,10 +1307,12 @@
             "name": "PolyNametag",
             "download": "https://modrinth.com/mod/polynametag",
             "versions": {
-                "1.0.0": "922009ebe818c6b05516a9da36489c908f59e84b5b0ba1f5f015747d3a4c461f"
+                "1.0.0": "922009ebe818c6b05516a9da36489c908f59e84b5b0ba1f5f015747d3a4c461f",
+                "1.0.1": "fa3392c83517684a5cb480376fd7bd30afc32b214f311b04748c983c1e4414c3"
             },
             "betaVersions": {
-                "1.0.0": "922009ebe818c6b05516a9da36489c908f59e84b5b0ba1f5f015747d3a4c461f"
+                "1.0.0": "922009ebe818c6b05516a9da36489c908f59e84b5b0ba1f5f015747d3a4c461f",
+                "1.0.1": "fa3392c83517684a5cb480376fd7bd30afc32b214f311b04748c983c1e4414c3"
             }
         },
         "resourcify": {
