@@ -1460,6 +1460,16 @@
             "betaVersions": {
                 "1.0.4.1": "d712bbe39274dda23a8fa541302f80e703d2e554659304c793dec2c7b988797c"
             }
+        },
+        "veloxcaelo": {
+            "name": "Velox Caelo",
+            "download": "https://github.com/nea89o/veloxcaelo/",
+            "versions": {
+                "1.0.0": "938521f60b5a107690ae6e5ee3df70c1e9ee3ec7fd6cf55f708da7d67f0288f7"
+            },
+            "betaVersions": {
+                "1.0.0": "938521f60b5a107690ae6e5ee3df70c1e9ee3ec7fd6cf55f708da7d67f0288f7"
+            }
         }
     }
 }
