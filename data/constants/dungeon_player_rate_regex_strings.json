@@ -2,7 +2,8 @@
   "positive_strings" : {
       "(\\w+(\\s\\w+)*) has obtained Wither Key!" : "\u00A78Keys",
       "DUNGEON BUFF! (\\w+(\\s\\w+)*) found a " : "\u00A7cBlessings",
-      "PUZZLE SOLVED! (\\w+(\\s\\w+)*) " : "\u00A7aPuzzles",
+      "PUZZLE SOLVED! (\\w+) " : "\u00A7aPuzzles",
+      "[STATUE] Oruo the Omniscient: (\\w+) answered the final question correctly!": "\u00A7aPuzzles",
       "(\\w+(\\s\\w+)*) has obtained" : "\u00A76Rooms",
       "(\\w+(\\s\\w+)*) found a Wither Essence!" : "\u00A79Secrets",
       "(\\w+(\\s\\w+)*) completed a device!" : "\u00A7cTerminals",
