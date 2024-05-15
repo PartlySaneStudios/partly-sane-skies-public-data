@@ -6,6 +6,7 @@
       "[STATUE] Oruo the Omniscient: (\\w+) answered the final question correctly!": "\u00A7aPuzzles",
       "(\\w+(\\s\\w+)*) has obtained" : "\u00A76Rooms",
       "(\\w+(\\s\\w+)*) found a Wither Essence!" : "\u00A79Secrets",
+      "ESSENCE! (\\w+) found (?:\\w+(?:\\s\\w+)*)!": "\u00A79Secrets",
       "(\\w+(\\s\\w+)*) completed a device!" : "\u00A7cTerminals",
       "(\\w+(\\s\\w+)*) activated a terminal!" : "\u00A7cTerminals",
       "(\\w+(\\s\\w+)*) activated a lever!" : "\u00A7cTerminals",
