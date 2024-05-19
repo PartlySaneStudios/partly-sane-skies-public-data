@@ -349,7 +349,8 @@
                 "1.9.7": "a20632ded9ee113a4abd09250514d2ad43f504211965e194eccb48db6b93f072",
                 "1.10.0-pre1": "e8dfff9230d9c65ae9fbad21eefa0463246ca22e27613732cd0e55e7469d4c5e",
                 "1.10.0-pre2": "9fdc12f1f0b141df348c913cca366655bc463734b9a162915b3d09bb415e8312",
-                "1.10.0-pre3": "5e1e92751a914522d0049cd00135f12ef21c712bfbad3a8f1a40f86cfc42cac0"
+                "1.10.0-pre3": "5e1e92751a914522d0049cd00135f12ef21c712bfbad3a8f1a40f86cfc42cac0",
+                "1.10.0-pre4": "964da53836f5a1906a347951dcc409dbe8ae74604e5c64897a3f706a278b6dc7"
             }
         },
         "apec": {
