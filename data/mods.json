@@ -1458,10 +1458,12 @@
             "name": "Quickjoin",
             "download": "https://modrinth.com/mod/quickjoin",
             "versions": {
-                "2.2": "ef6d5ef2b5d46a185f8d597ce77bf688a4962be988f6ee7ae89576a9f1628134"
+                "2.2": "ef6d5ef2b5d46a185f8d597ce77bf688a4962be988f6ee7ae89576a9f1628134",
+                "2.4": "2be17d0aa0b59fa5ae3b2a728e74b271307507ea4c5c85c908752ec56fb04f5a"
             },
             "betaVersions": {
-                "2.2": "ef6d5ef2b5d46a185f8d597ce77bf688a4962be988f6ee7ae89576a9f1628134"
+                "2.2": "ef6d5ef2b5d46a185f8d597ce77bf688a4962be988f6ee7ae89576a9f1628134",
+                "2.4": "2be17d0aa0b59fa5ae3b2a728e74b271307507ea4c5c85c908752ec56fb04f5a"
             }
         },
         "SkyblockUtils": {
