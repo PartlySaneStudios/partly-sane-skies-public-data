@@ -1427,11 +1427,14 @@
         "skyblocktweaks": {
             "name": "Skyblock Tweaks",
             "download": "https://github.com/MrFast-js/Skyblock-Tweaks/",
-            "versions": {},
+            "versions": {
+                "1.0.0": "3140620925262677f3373b6145a5cd922574373b665c8b46d37aec440e4e0667"
+            },
             "betaVersions": {
                 "1.0.0-BETA1": "59913e131023b43bbf0daffef0f0cebe2a4ff74bb25895cdea91e613be3b8f49",
                 "1.0.0-BETA2": "10c3fa8c8492e1bbb4ee39893e6d5f4d5034592ec1f3c21af83b8c7cb08bbf6b",
-                "1.0.0-BETA3": "747e6968f3a44a6e65caceea606e5ecdbd132c24f5800cf3d62ba45221c227fe"
+                "1.0.0-BETA3": "747e6968f3a44a6e65caceea606e5ecdbd132c24f5800cf3d62ba45221c227fe",
+                "1.0.0": "3140620925262677f3373b6145a5cd922574373b665c8b46d37aec440e4e0667"
             }
         },
         "shy": {
