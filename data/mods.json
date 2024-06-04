@@ -1518,6 +1518,16 @@
                 "1.0.1": "ae6f3650ab3a1f9cb8f35fca54ca26a8c1ceb70cf3a05f2ba27a926588e3b9af",
                 "1.0.2": "db4c5b265e14026f002118678701947934dd216aaaad916bd9636197a53c2e54"
             }
+        },
+        "lobby_sounds": {
+            "name": "Lobby Sounds",
+            "download": "https://sk1er.club/mods/lobby_sounds",
+            "versions": {
+                "LOCAL": "f65dad5c2f3fb43405ca0dbca14129c86a9efb621ff4a583e14ff3afb8b7713f"
+            },
+            "betaVersions": {
+                "LOCAL": "f65dad5c2f3fb43405ca0dbca14129c86a9efb621ff4a583e14ff3afb8b7713f"
+            }
         }
     }
 }
