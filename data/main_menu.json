@@ -15,6 +15,12 @@
     "prank_sound": false,
     "announcements": [
         {
+            "name": "[June 10] SkyBlock Patch Notes",
+            "date": "10 June 2024",
+            "description": "Hey all! We are here to inform you about the latest fixes that were just rolled to SkyBlock!",
+            "link": "https://hypixel.net/threads/june-10-skyblock-patch-notes.5686579/"
+        },
+        {
             "name": "SkyBlock Patch Notes 0.20.2 - Chocolate Factory, Glacite Changes, and More",
             "date": "28 April 2024",
             "description": "Hello!   Welcome to Hypixel SkyBlock Patch 0.20.2. Today's update includes new features to Hoppity’s Chocolate Factory, some more Glacite changes, and some other nifty changes. Read on to learn more about them!",
