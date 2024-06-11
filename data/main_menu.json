@@ -15,6 +15,12 @@
     "prank_sound": false,
     "announcements": [
         {
+            "name": "Hypixel SkyBlock - 5th Anniversary",
+            "date": "11 June 2024",
+            "description": "Hi SkyBlockers!  Today, we are celebrating the 5th Anniversary of Hypixel SkyBlock's release. It's been a long road since 2019, filled with many bumps and challenges. Yet, we are proud to say that five years after the initial release of this game, SkyBlock is still thriving! With the next five years, we aim to accomplish even greater things within Minecraft, but for now, we'd like to extend a special thank you to our players, the people who have kept this game alive for so long. Without you, Hypixel SkyBlock would just be a series of bad ideas in Jayavarmen's head.",
+            "link": "https://hypixel.net/threads/hypixel-skyblock-5th-anniversary.5687444/"
+        },
+        {
             "name": "[June 10] SkyBlock Patch Notes",
             "date": "10 June 2024",
             "description": "Hey all! We are here to inform you about the latest fixes that were just rolled to SkyBlock!",
