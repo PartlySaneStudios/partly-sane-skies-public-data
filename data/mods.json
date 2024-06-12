@@ -27,7 +27,8 @@
                 "beta-v0.5.8": "aad35626cd5984b2e09b7cc4d98f9133170ba03a75961a29bf7f6f7b5581145c",
                 "beta-v0.5.9": "455b0fdd12b6a99979b512f452db06b785436ddc9bf5b00e2967cf66209019f7",
                 "beta-v0.6": "8100c82fdc6564f48ac67d48f86c6238de4e1ed9016aa92d508e02c4a98a7c2c",
-                "beta-v0.6.1": "e242bde638db741536bfe1a06fc114d2df4d2783870d39fbc82e15f170d4f14b"
+                "beta-v0.6.1": "e242bde638db741536bfe1a06fc114d2df4d2783870d39fbc82e15f170d4f14b",
+                "beta-v0.6.2-prerelease-5": "7c03b93cdbe8d65eeadc545f01dbd2fdb4e14864b658b41aaecf1c409ef09cf5"
             },
             "betaVersions": {
                 "beta-v0.4.1": "89f33940388058bf3d68b110188bb6fea9fc158e74654e7e6db857df6238867c",
@@ -54,7 +55,8 @@
                 "beta-v0.6.2-prerelease-1": "410662651a5ebb6a4677b3c18bb97813e401322bfc3948bb86299da47162cfc9",
                 "beta-v0.6.2-prerelease-2": "e95315a06696db1f4067543b0f2e2006a9e9a00a474420b65a8e8301cb2da0bc",
                 "beta-v0.6.2-prerelease-3": "1c3a23bffeefa80376e8623fafa70a4df258fe0db6271da4b271754d140951f7",
-                "beta-v0.6.2-prerelease-4": "9b0729b7093155909adef057fa6528e59289a44f2e639da4a538bd8df5229c6e"
+                "beta-v0.6.2-prerelease-4": "9b0729b7093155909adef057fa6528e59289a44f2e639da4a538bd8df5229c6e",
+                "beta-v0.6.2-prerelease-5": "7c03b93cdbe8d65eeadc545f01dbd2fdb4e14864b658b41aaecf1c409ef09cf5"
             }
         },
         "text_overflow_scroll": {
