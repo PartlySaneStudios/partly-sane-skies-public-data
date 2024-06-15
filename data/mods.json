@@ -1235,13 +1235,15 @@
                 "1.1.3": "ec0d29a434c3ac42752bb77893a3484395bafc1df505b5ecb602fb34634afa9d",
                 "1.2.0": "e1a61f4babc860474af0133eccf447cf92b4e38d811996f9bd60533cf086112d",
                 "1.2.1": "1261dac0222d577f65fdb91ae32a125a202aa03240108fa7a988d08b519a30b7",
-                "1.3.0": "de96d1f58fcc594acb80db21eef3bb8a6c3c4d17dccd23444371d943752a99a5"
+                "1.3.0": "de96d1f58fcc594acb80db21eef3bb8a6c3c4d17dccd23444371d943752a99a5",
+                "1.4.0": "9ee3cb510569ec6fef1bd61dceba0c6cede14009b26dc7eb4b4013748ac52b0f"
             },
             "betaVersions": {
                 "1.1.3": "ec0d29a434c3ac42752bb77893a3484395bafc1df505b5ecb602fb34634afa9d",
                 "1.2.0": "e1a61f4babc860474af0133eccf447cf92b4e38d811996f9bd60533cf086112d",
                 "1.2.1": "1261dac0222d577f65fdb91ae32a125a202aa03240108fa7a988d08b519a30b7",
-                "1.3.0": "de96d1f58fcc594acb80db21eef3bb8a6c3c4d17dccd23444371d943752a99a5"
+                "1.3.0": "de96d1f58fcc594acb80db21eef3bb8a6c3c4d17dccd23444371d943752a99a5",
+                "1.4.0": "9ee3cb510569ec6fef1bd61dceba0c6cede14009b26dc7eb4b4013748ac52b0f"
             }
         },
         "VolcAddons": {
