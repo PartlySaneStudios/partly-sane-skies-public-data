@@ -247,7 +247,8 @@
                 "1.8.5+159": "594b6146f2256f64580f2adb28e15442e9925fa1bb2524b8ad34d9b068fffa09",
                 "1.8.5+165": "933462cda5b3c3f20ff0cd5e7a0eacb0747d76457d1cdbe1eb940681b419066e",
                 "1.8.5+167": "3057e33cf825378a13a21415334df6070463384cec749555bc80c600607a971c",
-                "1.8.6+169": "404689cd5024efab2144bb3319fad63c24ca64d39c0316b2ecb4353d8431a683"
+                "1.8.6+169": "404689cd5024efab2144bb3319fad63c24ca64d39c0316b2ecb4353d8431a683",
+                "1.8.7+171": "e7da207edb2f7ba5977866bfd2b5c314e40ca4f33ee00b2febf52b5a846d0f87"
             },
             "betaVersions": {
                 "${version}": "d78b8b7d8e11bf3dcfa6bc0e11ff5828ae160f5fa67de4bd344cbb7b91cf2fb4",
@@ -255,7 +256,8 @@
                 "1.8.5+159": "594b6146f2256f64580f2adb28e15442e9925fa1bb2524b8ad34d9b068fffa09",
                 "1.8.5+165": "933462cda5b3c3f20ff0cd5e7a0eacb0747d76457d1cdbe1eb940681b419066e",
                 "1.8.5+167": "3057e33cf825378a13a21415334df6070463384cec749555bc80c600607a971c",
-                "1.8.6+169": "404689cd5024efab2144bb3319fad63c24ca64d39c0316b2ecb4353d8431a683"
+                "1.8.6+169": "404689cd5024efab2144bb3319fad63c24ca64d39c0316b2ecb4353d8431a683",
+                "1.8.7+171": "e7da207edb2f7ba5977866bfd2b5c314e40ca4f33ee00b2febf52b5a846d0f87"
             }
         },
         "skyblockhud": {
