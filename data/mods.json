@@ -240,14 +240,16 @@
         },
         "skyblockaddons": {
             "name": "SkyblockAddons",
-            "download": "https://biscuit.codes/mods/skyblockaddons/",
+            "download": "https://modrinth.com/mod/skyblockaddons-unofficial",
             "versions": {
                 "${version}": "d78b8b7d8e11bf3dcfa6bc0e11ff5828ae160f5fa67de4bd344cbb7b91cf2fb4",
-                "1.7.3+7380": "fb2f7d36afa61ae84e13a685afc37cd6e47e983b5190a3195ad1784fa40d4f17"
+                "1.7.3+7380": "fb2f7d36afa61ae84e13a685afc37cd6e47e983b5190a3195ad1784fa40d4f17",
+                "1.8.5+159": "594b6146f2256f64580f2adb28e15442e9925fa1bb2524b8ad34d9b068fffa09"
             },
             "betaVersions": {
                 "${version}": "d78b8b7d8e11bf3dcfa6bc0e11ff5828ae160f5fa67de4bd344cbb7b91cf2fb4",
-                "1.7.3+7380": "fb2f7d36afa61ae84e13a685afc37cd6e47e983b5190a3195ad1784fa40d4f17"
+                "1.7.3+7380": "fb2f7d36afa61ae84e13a685afc37cd6e47e983b5190a3195ad1784fa40d4f17",
+                "1.8.5+159": "594b6146f2256f64580f2adb28e15442e9925fa1bb2524b8ad34d9b068fffa09"
             }
         },
         "skyblockhud": {
