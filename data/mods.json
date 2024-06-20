@@ -1548,11 +1548,13 @@
             "download": "https://modrinth.com/mod/skyblockaddons-unofficial",
             "versions": {
                 "1.8.7+193": "02b0aff973e1446a66ad8cc2154b89d80f97e36bce6848bd13050d477dc2f11a",
-                "1.8.8+224": "48cd58c7649e03ff62c166689899ba8d646f17ea2f2dea43209455ee58f102c4"
+                "1.8.8+224": "48cd58c7649e03ff62c166689899ba8d646f17ea2f2dea43209455ee58f102c4",
+                "1.8.9+227": "43b56a2371ae45fbeb14ff8558e153e383b2c5566871125385b38b79f09cfd82"
             },
             "betaVersions": {
                 "1.8.7+193": "02b0aff973e1446a66ad8cc2154b89d80f97e36bce6848bd13050d477dc2f11a",
-                "1.8.8+224": "48cd58c7649e03ff62c166689899ba8d646f17ea2f2dea43209455ee58f102c4"
+                "1.8.8+224": "48cd58c7649e03ff62c166689899ba8d646f17ea2f2dea43209455ee58f102c4",
+                "1.8.9+227": "43b56a2371ae45fbeb14ff8558e153e383b2c5566871125385b38b79f09cfd82"
             }
         }
     }
