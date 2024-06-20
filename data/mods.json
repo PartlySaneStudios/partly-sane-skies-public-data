@@ -927,7 +927,7 @@
         },
         "synthesis": {
             "name": "Synthesis",
-            "download": "https://github.com/SynthesisMod/Synthesis/blob/main/README.md",
+            "download": "https://github.com/SynthesisMod/Synthesis",
             "versions": {
                 "0.3.1": "a3f3701330101dd884da4bd99056b160606c77a87781de9008b3c04d3416023d"
             },
