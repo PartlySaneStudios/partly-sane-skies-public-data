@@ -1556,7 +1556,8 @@
                 "1.8.8+224": "48cd58c7649e03ff62c166689899ba8d646f17ea2f2dea43209455ee58f102c4",
                 "1.8.9+227": "43b56a2371ae45fbeb14ff8558e153e383b2c5566871125385b38b79f09cfd82",
                 "1.9.0-beta.1+232": "78e82a5a4f5285242bfb6710cafe2f6fa30f789ee8b654b92c4dafa1bc04c4a5",
-                "1.9.0-beta.2+242": "faeedaa5e254d1cd93a0c35f5c40168b36b90dea8061edd98900ee7958db4dde"
+                "1.9.0-beta.2+242": "faeedaa5e254d1cd93a0c35f5c40168b36b90dea8061edd98900ee7958db4dde",
+                "1.9.0-beta.3+251": "6539dffc90e8f856bd698e4986193ed4d671dffdcb4f9ba4567c5e00a6a55ba3"
             }
         }
     }
