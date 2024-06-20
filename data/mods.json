@@ -1542,6 +1542,16 @@
             "betaVersions": {
                 "LOCAL": "f65dad5c2f3fb43405ca0dbca14129c86a9efb621ff4a583e14ff3afb8b7713f"
             }
+        },
+        "sbaunofficial": {
+            "name": "SkyblockAddons Unofficial",
+            "download": "https://modrinth.com/mod/skyblockaddons-unofficial",
+            "versions": {
+                "1.8.7+193": "02b0aff973e1446a66ad8cc2154b89d80f97e36bce6848bd13050d477dc2f11a"
+            },
+            "betaVersions": {
+                "1.8.7+193": "02b0aff973e1446a66ad8cc2154b89d80f97e36bce6848bd13050d477dc2f11a"
+            }
         }
     }
 }
