@@ -1574,10 +1574,12 @@
             "name": "AmbientAddons",
             "download": "https://github.com/appable0/AmbientAddons",
             "versions": {
-                "1.0.11": "bb19eecd8c98248b5655f583ed743ca8c87bf6da52f52dfe31da28211eb7a4b9"
+                "1.0.11": "bb19eecd8c98248b5655f583ed743ca8c87bf6da52f52dfe31da28211eb7a4b9",
+                "1.0.12": "e53e9da26a15d82e5da4bbf547f932fac3a6c02756c1e0da3ff4abd86912f02a"
             },
             "betaVersions": {
-                "1.0.11": "bb19eecd8c98248b5655f583ed743ca8c87bf6da52f52dfe31da28211eb7a4b9"
+                "1.0.11": "bb19eecd8c98248b5655f583ed743ca8c87bf6da52f52dfe31da28211eb7a4b9",
+                "1.0.12": "e53e9da26a15d82e5da4bbf547f932fac3a6c02756c1e0da3ff4abd86912f02a"
             }
         }
     }
