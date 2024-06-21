@@ -1569,6 +1569,16 @@
                 "1.9.0-beta.11+312": "69307a315ca75c764e7ab2c0a0783cdcf738afb7b038f1475afae8146db04354",
                 "1.9.0-beta.11.1+315": "43f16a2969275c5ddd0a0968fc1b882a71f6407f02d981ea19bc874a258e7c5a"
             }
+        },
+        "ambientaddons": {
+            "name": "AmbientAddons",
+            "download": "https://github.com/appable0/AmbientAddons",
+            "versions": {
+                "1.0.11": "bb19eecd8c98248b5655f583ed743ca8c87bf6da52f52dfe31da28211eb7a4b9"
+            },
+            "betaVersions": {
+                "1.0.11": "bb19eecd8c98248b5655f583ed743ca8c87bf6da52f52dfe31da28211eb7a4b9"
+            }
         }
     }
 }
