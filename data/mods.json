@@ -1624,6 +1624,16 @@
             "betaVersions": {
                 "1.0.0": "40db5e3443608ee57002f43c080ec1d91ab9a975ddbd9efd98dac4c4c2d8f084"
             }
+        },
+        "overflowparticles": {
+            "name": "OverflowParticles",
+            "download": "https://modrinth.com/mod/overflowparticles",
+            "versions": {
+                "1.0.1": "a1db267209a5dd6b817d6d7e8a36b3b8fc7244309a7acb04fdf396945e934ab3"
+            },
+            "betaVersions": {
+                "1.0.1": "a1db267209a5dd6b817d6d7e8a36b3b8fc7244309a7acb04fdf396945e934ab3"
+            }
         }
     }
 }
