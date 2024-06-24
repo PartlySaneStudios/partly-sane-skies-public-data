@@ -1614,6 +1614,16 @@
             "betaVersions": {
                 "1.0.0": "5c250f813677a98a68c66159a1f4aaab8bcede64919d625e2c068c4365d748a9"
             }
+        },
+        "polyhitbox": {
+            "name": "PolyHitbox",
+            "download": "https://modrinth.com/mod/hitbox",
+            "versions": {
+                "1.0.0": "40db5e3443608ee57002f43c080ec1d91ab9a975ddbd9efd98dac4c4c2d8f084"
+            },
+            "betaVersions": {
+                "1.0.0": "40db5e3443608ee57002f43c080ec1d91ab9a975ddbd9efd98dac4c4c2d8f084"
+            }
         }
     }
 }
