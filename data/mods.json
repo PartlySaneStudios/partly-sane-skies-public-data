@@ -697,10 +697,12 @@
             "name": "PolySprint",
             "download": "https://modrinth.com/mod/polysprint",
             "versions": {
-                "1.0.0": "73b938f8ae57f7b2c4e09f043553c9e99261e74db21a71c0b3893afb065d2244"
+                "1.0.0": "73b938f8ae57f7b2c4e09f043553c9e99261e74db21a71c0b3893afb065d2244",
+                "1.0.1": "67843afd184686a4ec5342e5f4322e6eb3220c5d36db7c8047faac9a86976ae9"
             },
             "betaVersions": {
-                "1.0.0": "73b938f8ae57f7b2c4e09f043553c9e99261e74db21a71c0b3893afb065d2244"
+                "1.0.0": "73b938f8ae57f7b2c4e09f043553c9e99261e74db21a71c0b3893afb065d2244",
+                "1.0.1": "67843afd184686a4ec5342e5f4322e6eb3220c5d36db7c8047faac9a86976ae9"
             }
         },
         "simpletogglesprint": {
