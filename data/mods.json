@@ -797,10 +797,12 @@
             "name": "BehindYouV3",
             "download": "https://modrinth.com/mod/behindyou",
             "versions": {
-                "3.1.2": "e83eb73b4f577250dafbe5c21a92dcab77eb77b91330827b6793d3f90d9116a6"
+                "3.1.2": "e83eb73b4f577250dafbe5c21a92dcab77eb77b91330827b6793d3f90d9116a6",
+                "3.2.0": "075365a7f15053393f1ea0452368ef850262b76b78df3cd18c7fb01675da68b2"
             },
             "betaVersions": {
-                "3.1.2": "e83eb73b4f577250dafbe5c21a92dcab77eb77b91330827b6793d3f90d9116a6"
+                "3.1.2": "e83eb73b4f577250dafbe5c21a92dcab77eb77b91330827b6793d3f90d9116a6",
+                "3.2.0": "075365a7f15053393f1ea0452368ef850262b76b78df3cd18c7fb01675da68b2"
             }
         },
         "keystrokesmod": {
