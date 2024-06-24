@@ -801,10 +801,12 @@
             "name": "REDACTION",
             "download": "https://modrinth.com/mod/redaction",
             "versions": {
-                "1.3.7": "055a3f5721ab7c8c10247437d760ed8721b21c7fdc01da245728bb1eef8a73d6"
+                "1.3.7": "055a3f5721ab7c8c10247437d760ed8721b21c7fdc01da245728bb1eef8a73d6",
+                "1.3.8": "8c94387a6c418b9b6bfc282a200858ce353d10c640302d70554f350397758675"
             },
             "betaVersions": {
-                "1.3.7": "055a3f5721ab7c8c10247437d760ed8721b21c7fdc01da245728bb1eef8a73d6"
+                "1.3.7": "055a3f5721ab7c8c10247437d760ed8721b21c7fdc01da245728bb1eef8a73d6",
+                "1.3.8": "8c94387a6c418b9b6bfc282a200858ce353d10c640302d70554f350397758675"
             }
         },
         "behindyouv3": {
