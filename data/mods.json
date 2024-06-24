@@ -463,12 +463,14 @@
             "versions": {
                 "2.0.1": "86947126f27d902a8be9529e188ce7f00435603922db64b043c25d9602899451",
                 "2.1.0": "9e335c01dd7a40165ebc347d9936c5c44ce2b556977fef8a6a93745d35eb8dde",
-                "2.1.1": "1d787c70f460a0c203b6ae28b784ac7abc0b745c6cb218e0555a4e800930cac3"
+                "2.1.1": "1d787c70f460a0c203b6ae28b784ac7abc0b745c6cb218e0555a4e800930cac3",
+                "2.2.1": "9e585cd8a22cd04f448f533339a6ec97e9c43a425dc3230cbdc668bc79425388"
             },
             "betaVersions": {
                 "2.0.1": "86947126f27d902a8be9529e188ce7f00435603922db64b043c25d9602899451",
                 "2.1.0": "9e335c01dd7a40165ebc347d9936c5c44ce2b556977fef8a6a93745d35eb8dde",
-                "2.1.1": "1d787c70f460a0c203b6ae28b784ac7abc0b745c6cb218e0555a4e800930cac3"
+                "2.1.1": "1d787c70f460a0c203b6ae28b784ac7abc0b745c6cb218e0555a4e800930cac3",
+                "2.2.1": "9e585cd8a22cd04f448f533339a6ec97e9c43a425dc3230cbdc668bc79425388"
             }
         },
         "sk1er_old_animations": {
