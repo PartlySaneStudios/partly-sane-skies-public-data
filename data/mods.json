@@ -489,10 +489,12 @@
             "name": "PolyTime",
             "download": "https://github.com/Polyfrost/PolyTime",
             "versions": {
-                "1.0.0": "f53da740258cd4513e37e1cc5484ae9be432e52a0b65b1feb1bc14eaf8c9b61c"
+                "1.0.0": "f53da740258cd4513e37e1cc5484ae9be432e52a0b65b1feb1bc14eaf8c9b61c",
+                "1.0.1": "e08134c451fbc26e03ba87b7b466b8f948ef9ce54a2317cd81d09f8344623a32"
             },
             "betaVersions": {
-                "1.0.0": "f53da740258cd4513e37e1cc5484ae9be432e52a0b65b1feb1bc14eaf8c9b61c"
+                "1.0.0": "f53da740258cd4513e37e1cc5484ae9be432e52a0b65b1feb1bc14eaf8c9b61c",
+                "1.0.1": "e08134c451fbc26e03ba87b7b466b8f948ef9ce54a2317cd81d09f8344623a32"
             }
         },
         "polyweather": {
