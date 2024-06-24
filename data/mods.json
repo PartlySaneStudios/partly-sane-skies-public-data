@@ -1604,6 +1604,16 @@
                 "1.0.11": "bb19eecd8c98248b5655f583ed743ca8c87bf6da52f52dfe31da28211eb7a4b9",
                 "1.0.12": "e53e9da26a15d82e5da4bbf547f932fac3a6c02756c1e0da3ff4abd86912f02a"
             }
+        },
+        "polycrosshair": {
+            "name": "PolyCrosshair",
+            "download": "https://modrinth.com/mod/crosshair",
+            "versions": {
+                "1.0.0": "5c250f813677a98a68c66159a1f4aaab8bcede64919d625e2c068c4365d748a9"
+            },
+            "betaVersions": {
+                "1.0.0": "5c250f813677a98a68c66159a1f4aaab8bcede64919d625e2c068c4365d748a9"
+            }
         }
     }
 }
