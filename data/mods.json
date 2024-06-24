@@ -1634,6 +1634,16 @@
             "betaVersions": {
                 "1.0.1": "a1db267209a5dd6b817d6d7e8a36b3b8fc7244309a7acb04fdf396945e934ab3"
             }
+        },
+        "colorsaturation": {
+            "name": "ColorSaturation",
+            "download": "https://modrinth.com/mod/colorsaturation",
+            "versions": {
+                "1.0.0": "15e1ba2b195a63f00bd59b70eaee5a957cf6bae6da37e6209cfedd4b0f47280a"
+            },
+            "betaVersions": {
+                "1.0.0": "15e1ba2b195a63f00bd59b70eaee5a957cf6bae6da37e6209cfedd4b0f47280a"
+            }
         }
     }
 }
