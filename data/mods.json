@@ -751,7 +751,8 @@
                 "1.5.3": "c8b06ba32a684748f8d8a83f54cf5ac5afb3dbe4e86a33de31cdd2b5e380fcbb",
                 "2.0.0": "002c1b7dc1f6dbc6be4dcc0d081cee73bd5c855a46cd603727423b7bc2dd1769",
                 "2.0.1": "ed97262869a4467a3faed8f3526f04a97f9885b0fff7a6ccdecb44514463b230",
-                "2.0.2": "007ee13710b26525de2223e46ba3e1564f4f22c8f6d76922d153b8714fc544f8"
+                "2.0.2": "007ee13710b26525de2223e46ba3e1564f4f22c8f6d76922d153b8714fc544f8",
+                "2.0.4": "ca0365b6b2e151003f49ec0c96dacaa6a6fbcf32bf917dbb55cb55f0c81f0ca7"
             },
             "betaVersions": {
                 "1.5.0": "6bc122b4530afa9a7e461c0d9f4929376440551dc2ef1d1301510a711d43cc7a",
@@ -760,7 +761,8 @@
                 "1.5.3": "c8b06ba32a684748f8d8a83f54cf5ac5afb3dbe4e86a33de31cdd2b5e380fcbb",
                 "2.0.0": "002c1b7dc1f6dbc6be4dcc0d081cee73bd5c855a46cd603727423b7bc2dd1769",
                 "2.0.1": "ed97262869a4467a3faed8f3526f04a97f9885b0fff7a6ccdecb44514463b230",
-                "2.0.2": "007ee13710b26525de2223e46ba3e1564f4f22c8f6d76922d153b8714fc544f8"
+                "2.0.2": "007ee13710b26525de2223e46ba3e1564f4f22c8f6d76922d153b8714fc544f8",
+                "2.0.4": "ca0365b6b2e151003f49ec0c96dacaa6a6fbcf32bf917dbb55cb55f0c81f0ca7"
             }
         },
         "reportplus": {
