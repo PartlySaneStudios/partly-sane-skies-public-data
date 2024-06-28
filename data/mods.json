@@ -160,10 +160,12 @@
             "name": "CrashPatch",
             "download": "https://modrinth.com/mod/crashpatch",
             "versions": {
-                "2.0.0": "f8b37287c4f3667b0b8cf0188a4ea6d36515fd4c19717285556fea006422c318"
+                "2.0.0": "f8b37287c4f3667b0b8cf0188a4ea6d36515fd4c19717285556fea006422c318",
+                "2.0.1": "3debf17e3d21bb1be2d268af0be3da123436afecc45090d240b9762990af66af"
             },
             "betaVersions": {
-                "2.0.0": "f8b37287c4f3667b0b8cf0188a4ea6d36515fd4c19717285556fea006422c318"
+                "2.0.0": "f8b37287c4f3667b0b8cf0188a4ea6d36515fd4c19717285556fea006422c318",
+                "2.0.1": "3debf17e3d21bb1be2d268af0be3da123436afecc45090d240b9762990af66af"
             }
         },
         "hytils-reborn": {
