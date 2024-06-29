@@ -1689,6 +1689,16 @@
             "betaVersions": {
                 "1.0.0": "15e1ba2b195a63f00bd59b70eaee5a957cf6bae6da37e6209cfedd4b0f47280a"
             }
+        },
+        "favorita": {
+            "name": "Favorita",
+            "download": "https://modrinth.com/mod/favorita/",
+            "versions": {
+                "0.1.0": "a3cac4cd31457176f0737483510445d8ac4f11358892a997b6395c8786886b29"
+            },
+            "betaVersions": {
+                "0.1.0": "a3cac4cd31457176f0737483510445d8ac4f11358892a997b6395c8786886b29"
+            }
         }
     }
 }
