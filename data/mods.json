@@ -1694,10 +1694,12 @@
             "name": "Favorita",
             "download": "https://modrinth.com/mod/favorita/",
             "versions": {
-                "0.1.0": "a3cac4cd31457176f0737483510445d8ac4f11358892a997b6395c8786886b29"
+                "0.1.0": "a3cac4cd31457176f0737483510445d8ac4f11358892a997b6395c8786886b29",
+                "0.1.1": "a94ae126627d2e49ca193b33d214a1595d380ef93f4538912e54fdcad9f9fa29"
             },
             "betaVersions": {
-                "0.1.0": "a3cac4cd31457176f0737483510445d8ac4f11358892a997b6395c8786886b29"
+                "0.1.0": "a3cac4cd31457176f0737483510445d8ac4f11358892a997b6395c8786886b29",
+                "0.1.1": "a94ae126627d2e49ca193b33d214a1595d380ef93f4538912e54fdcad9f9fa29"
             }
         }
     }
