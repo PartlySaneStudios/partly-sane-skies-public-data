@@ -1624,7 +1624,8 @@
                 "1.9.0-beta.9+303": "0a805633a00007fc99ca52603599a79ef0c70b59e1abf5eb804c121876a32ddb",
                 "1.9.0-beta.10+308": "6929674d6460c7bcf3aab96c1e8e0fbc78ee73e33a2a51d9dfb4e6e2fae83781",
                 "1.9.0-beta.11+312": "69307a315ca75c764e7ab2c0a0783cdcf738afb7b038f1475afae8146db04354",
-                "1.9.0-beta.11.1+315": "43f16a2969275c5ddd0a0968fc1b882a71f6407f02d981ea19bc874a258e7c5a"
+                "1.9.0-beta.11.1+315": "43f16a2969275c5ddd0a0968fc1b882a71f6407f02d981ea19bc874a258e7c5a",
+                "1.9.0-beta.12+318": "b82b7af9712d6d3bc595d5842fef96282e423f9d07201ed35b35e246e9a796ec"
             }
         },
         "ambientaddons": {
