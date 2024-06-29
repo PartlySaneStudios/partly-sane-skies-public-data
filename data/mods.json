@@ -1655,10 +1655,12 @@
             "name": "PolyHitbox",
             "download": "https://modrinth.com/mod/hitbox",
             "versions": {
-                "1.0.0": "40db5e3443608ee57002f43c080ec1d91ab9a975ddbd9efd98dac4c4c2d8f084"
+                "1.0.0": "40db5e3443608ee57002f43c080ec1d91ab9a975ddbd9efd98dac4c4c2d8f084",
+                "1.0.1": "e003bd867747335b0c72f8a1871192b2b086f9e6b649f3c785b55c241bf01e2d"
             },
             "betaVersions": {
-                "1.0.0": "40db5e3443608ee57002f43c080ec1d91ab9a975ddbd9efd98dac4c4c2d8f084"
+                "1.0.0": "40db5e3443608ee57002f43c080ec1d91ab9a975ddbd9efd98dac4c4c2d8f084",
+                "1.0.1": "e003bd867747335b0c72f8a1871192b2b086f9e6b649f3c785b55c241bf01e2d"
             }
         },
         "overflowparticles": {
