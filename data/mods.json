@@ -1645,11 +1645,13 @@
             "download": "https://modrinth.com/mod/crosshair",
             "versions": {
                 "1.0.0": "5c250f813677a98a68c66159a1f4aaab8bcede64919d625e2c068c4365d748a9",
-                "1.0.1": "2e5da38aa8a651a3435bf3b10451f870598793a4a087bc37c50520be95e76cb3"
+                "1.0.1": "2e5da38aa8a651a3435bf3b10451f870598793a4a087bc37c50520be95e76cb3",
+                "1.0.2": "e5d58a434a59ee24d6d359595ce0f095f17a0865a1b11e0ccd3c073b7a942ea2"
             },
             "betaVersions": {
                 "1.0.0": "5c250f813677a98a68c66159a1f4aaab8bcede64919d625e2c068c4365d748a9",
-                "1.0.1": "2e5da38aa8a651a3435bf3b10451f870598793a4a087bc37c50520be95e76cb3"
+                "1.0.1": "2e5da38aa8a651a3435bf3b10451f870598793a4a087bc37c50520be95e76cb3",
+                "1.0.2": "e5d58a434a59ee24d6d359595ce0f095f17a0865a1b11e0ccd3c073b7a942ea2"
             }
         },
         "polyhitbox": {
