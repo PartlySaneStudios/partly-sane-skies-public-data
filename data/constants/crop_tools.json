@@ -79,7 +79,7 @@
         ],
         "require_replenish" : true
     },
-    "tile.nether_stalk" : {
+    "tile.nether_wart" : {
         "math" : [
             "THEORETICAL_HOE_WARTS_1",
             "THEORETICAL_HOE_WARTS_2",
