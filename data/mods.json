@@ -222,10 +222,12 @@
             "name": "PolyBlur",
             "download": "https://modrinth.com/mod/polyblur",
             "versions": {
-                "1.0.0": "ed0092478cd354b1a968f05c9d05860a7598d9efa48eec6e7c3cb998b9ba0c48"
+                "1.0.0": "ed0092478cd354b1a968f05c9d05860a7598d9efa48eec6e7c3cb998b9ba0c48",
+                "1.0.1": "d2888a1895380ce8e456404047054c0df2fc5685ce4621271de1fb27cc4550fb"
             },
             "betaVersions": {
-                "1.0.0": "ed0092478cd354b1a968f05c9d05860a7598d9efa48eec6e7c3cb998b9ba0c48"
+                "1.0.0": "ed0092478cd354b1a968f05c9d05860a7598d9efa48eec6e7c3cb998b9ba0c48",
+                "1.0.1": "d2888a1895380ce8e456404047054c0df2fc5685ce4621271de1fb27cc4550fb"
             }
         },
         "rawinput": {
