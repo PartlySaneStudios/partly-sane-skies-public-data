@@ -15,6 +15,12 @@
     "prank_sound": false,
     "announcements": [
         {
+            "name": "Hypixel SkyBlock Patch Notes 0.20.3 - Better Mayors",
+            "date": "02 July 2024",
+            "description": "Greetings, citizens of Hypixel SkyBlock! We're proud to announce that the highly anticipated changes to Mayors are ready to go! This update comes with changes to a many perks that each mayor provides, ranging from brand new perks, additions to previous offerings, and more!  These changes are not limited to Mayor perks, however, as some changes are active regardless of whether a certain mayor is elected for the greater good of our world.",
+            "link": "https://hypixel.net/threads/hypixel-skyblock-patch-notes-0-20-3-better-mayors.5692280/"
+        },
+        {
             "name": "Hypixel SkyBlock - 5th Anniversary",
             "date": "11 June 2024",
             "description": "Hi SkyBlockers!  Today, we are celebrating the 5th Anniversary of Hypixel SkyBlock's release. It's been a long road since 2019, filled with many bumps and challenges.",
