@@ -141,13 +141,15 @@
                 "1.1.14": "434703ce3d04ee9dbeb4dc2bfb9ba946dcb4249b7fe586fa68f7f60b4038ffdb",
                 "1.1.15": "ac8d7b2c2fb17bc72fc07933ebbe87a22328c18ca7ee0f9efe628b2f60d177b8",
                 "1.1.16": "7a1182c163ad2d0c40708a7f93c2f1172e99f085ba738d2465a5504d2e226101",
-                "1.1.17": "d98b45182d122fdc873b1c1b76061fa7aa8b585a06fc618b909492cc4425b12c"
+                "1.1.17": "d98b45182d122fdc873b1c1b76061fa7aa8b585a06fc618b909492cc4425b12c",
+                "1.1.18": "2b18fe4b5379b2ab4e45b94c921d37edc3fdd0fa01932518ff93f89b4c882dfa"
             },
             "betaVersions": {
                 "1.1.14": "434703ce3d04ee9dbeb4dc2bfb9ba946dcb4249b7fe586fa68f7f60b4038ffdb",
                 "1.1.15": "ac8d7b2c2fb17bc72fc07933ebbe87a22328c18ca7ee0f9efe628b2f60d177b8",
                 "1.1.16": "7a1182c163ad2d0c40708a7f93c2f1172e99f085ba738d2465a5504d2e226101",
-                "1.1.17": "d98b45182d122fdc873b1c1b76061fa7aa8b585a06fc618b909492cc4425b12c"
+                "1.1.17": "d98b45182d122fdc873b1c1b76061fa7aa8b585a06fc618b909492cc4425b12c",
+                "1.1.18": "2b18fe4b5379b2ab4e45b94c921d37edc3fdd0fa01932518ff93f89b4c882dfa"
             }
         },
         "patcher": {
