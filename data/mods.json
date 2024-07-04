@@ -138,10 +138,12 @@
             "name": "SkyClientCosmetics",
             "download": "https://github.com/SkyblockClient/Skyclient-Cosmetics/",
             "versions": {
-                "1.1.14": "434703ce3d04ee9dbeb4dc2bfb9ba946dcb4249b7fe586fa68f7f60b4038ffdb"
+                "1.1.14": "434703ce3d04ee9dbeb4dc2bfb9ba946dcb4249b7fe586fa68f7f60b4038ffdb",
+                "1.1.15": "ac8d7b2c2fb17bc72fc07933ebbe87a22328c18ca7ee0f9efe628b2f60d177b8"
             },
             "betaVersions": {
-                "1.1.14": "434703ce3d04ee9dbeb4dc2bfb9ba946dcb4249b7fe586fa68f7f60b4038ffdb"
+                "1.1.14": "434703ce3d04ee9dbeb4dc2bfb9ba946dcb4249b7fe586fa68f7f60b4038ffdb",
+                "1.1.15": "ac8d7b2c2fb17bc72fc07933ebbe87a22328c18ca7ee0f9efe628b2f60d177b8"
             }
         },
         "patcher": {
