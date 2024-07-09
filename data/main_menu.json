@@ -15,6 +15,12 @@
     "prank_sound": false,
     "announcements": [
         {
+            "name": "Hypixel SkyBlock Patch Notes 0.20.4 - Bazaar Overbidding Protection and Bug Fixes",
+            "date": "09 July 2024",
+            "description": "Hello!\n\nWelcome to Hypixel SkyBlock Patch 0.20.4. Today's update features a small patch with a Bazaar Scam Prevention feature, some clarifications and fixes for Better Mayors content, and a lot of bug fixes. Enjoy!",
+            "link": "https://hypixel.net/threads/hypixel-skyblock-patch-notes-0-20-4-bazaar-overbidding-protection-and-bug-fixes.5713272/"
+        },
+        {
             "name": "Hypixel SkyBlock Patch Notes 0.20.3 - Better Mayors",
             "date": "02 July 2024",
             "description": "Greetings, citizens of Hypixel SkyBlock! We're proud to announce that the highly anticipated changes to Mayors are ready to go! This update comes with changes to a many perks that each mayor provides, ranging from brand new perks, additions to previous offerings, and more!  These changes are not limited to Mayor perks, however, as some changes are active regardless of whether a certain mayor is elected for the greater good of our world.",
