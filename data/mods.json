@@ -297,7 +297,8 @@
                 "2.2.1+c266561e": "ad5a15da4d525c6b082e607c0db0479017252ec9a75fcc75d1198abf983c236a",
                 "2.2.2+2767ef49": "5472bbbd4efc7d5069f75fd1c7d1db8533fb19d41926b9d19e4510e45d8fd5c7",
                 "2.3.0+32ee0a75": "26cd940a61758b90b4794b823c7ee20201405696740c98447ad463550c8645ab",
-                "2.3.1+017512e3": "f8bda09db9680766548c98bb539cd4ec4dc771d3459f0c0df2568ee46940e385"
+                "2.3.1+017512e3": "f8bda09db9680766548c98bb539cd4ec4dc771d3459f0c0df2568ee46940e385",
+                "2.3.2+e222ef31": "6baaf4f00e5c428203c5a3319d08a3e6b9044d4d655a9df85fa71165f47bd472"
             },
             "betaVersions": {
                 "2.1.1-PRE": "a1aa859481b11865d771bf72baa2aa7cb895f165a3e16574e6aaefade12e4230",
@@ -309,7 +310,8 @@
                 "2.2.1+c266561e": "ad5a15da4d525c6b082e607c0db0479017252ec9a75fcc75d1198abf983c236a",
                 "2.2.2+2767ef49": "5472bbbd4efc7d5069f75fd1c7d1db8533fb19d41926b9d19e4510e45d8fd5c7",
                 "2.3.0+32ee0a75": "26cd940a61758b90b4794b823c7ee20201405696740c98447ad463550c8645ab",
-                "2.3.1+017512e3": "f8bda09db9680766548c98bb539cd4ec4dc771d3459f0c0df2568ee46940e385"
+                "2.3.1+017512e3": "f8bda09db9680766548c98bb539cd4ec4dc771d3459f0c0df2568ee46940e385",
+                "2.3.2+e222ef31": "6baaf4f00e5c428203c5a3319d08a3e6b9044d4d655a9df85fa71165f47bd472"
             }
         },
         "Danker's Skyblock Mod": {
