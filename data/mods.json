@@ -671,10 +671,12 @@
             "name": "ChatTriggers",
             "download": "https://www.chattriggers.com/",
             "versions": {
-                "2.2.0-1.8.9": "3b077d3e99eb714d13e76826d75929807e8ab582023c59bc405d4bad67193254"
+                "2.2.0-1.8.9": "3b077d3e99eb714d13e76826d75929807e8ab582023c59bc405d4bad67193254",
+                "2.2.1-1.8.9": "9dbefc9d3d50619ce03b0e4ae0c59fd5b715a89fdc4be1a13ee5f5cb3fe7a9ed"
             },
             "betaVersions": {
-                "2.2.0-1.8.9": "3b077d3e99eb714d13e76826d75929807e8ab582023c59bc405d4bad67193254"
+                "2.2.0-1.8.9": "3b077d3e99eb714d13e76826d75929807e8ab582023c59bc405d4bad67193254",
+                "2.2.1-1.8.9": "9dbefc9d3d50619ce03b0e4ae0c59fd5b715a89fdc4be1a13ee5f5cb3fe7a9ed"
             }
         },
         "examplemod": {
