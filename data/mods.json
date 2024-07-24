@@ -1712,10 +1712,12 @@
             "name": "OverflowParticles",
             "download": "https://modrinth.com/mod/overflowparticles",
             "versions": {
-                "1.0.1": "a1db267209a5dd6b817d6d7e8a36b3b8fc7244309a7acb04fdf396945e934ab3"
+                "1.0.1": "a1db267209a5dd6b817d6d7e8a36b3b8fc7244309a7acb04fdf396945e934ab3",
+                "1.0.2": "adcad557caee7303f40cfb9fe76134a5659c91f86294aa10e6ed9dc27af13f5e"
             },
             "betaVersions": {
-                "1.0.1": "a1db267209a5dd6b817d6d7e8a36b3b8fc7244309a7acb04fdf396945e934ab3"
+                "1.0.1": "a1db267209a5dd6b817d6d7e8a36b3b8fc7244309a7acb04fdf396945e934ab3",
+                "1.0.2": "adcad557caee7303f40cfb9fe76134a5659c91f86294aa10e6ed9dc27af13f5e"
             }
         },
         "colorsaturation": {
