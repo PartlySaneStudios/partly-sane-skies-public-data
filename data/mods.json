@@ -235,11 +235,13 @@
             "download": "https://modrinth.com/mod/polyblur",
             "versions": {
                 "1.0.0": "ed0092478cd354b1a968f05c9d05860a7598d9efa48eec6e7c3cb998b9ba0c48",
-                "1.0.1": "d2888a1895380ce8e456404047054c0df2fc5685ce4621271de1fb27cc4550fb"
+                "1.0.1": "d2888a1895380ce8e456404047054c0df2fc5685ce4621271de1fb27cc4550fb",
+                "1.0.2": "62d5feac9f8cce6c2a6f27a90f5d4059a65c02a8181a50e5a7ff4c58132dc1d2"
             },
             "betaVersions": {
                 "1.0.0": "ed0092478cd354b1a968f05c9d05860a7598d9efa48eec6e7c3cb998b9ba0c48",
-                "1.0.1": "d2888a1895380ce8e456404047054c0df2fc5685ce4621271de1fb27cc4550fb"
+                "1.0.1": "d2888a1895380ce8e456404047054c0df2fc5685ce4621271de1fb27cc4550fb",
+                "1.0.2": "62d5feac9f8cce6c2a6f27a90f5d4059a65c02a8181a50e5a7ff4c58132dc1d2"
             }
         },
         "rawinput": {
