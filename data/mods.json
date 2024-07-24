@@ -646,11 +646,13 @@
             "download": "https://github.com/Polyfrost/GlintColorizer",
             "versions": {
                 "1.0.2": "3f4909158853e062e4a4cf4687f1ba014f45f0863221460fe874b5d884e0cf4d",
-                "2.0.0": "0445f8dec81e97da1c26fc6958084ee894cf2955c8c358e0d2b78432876c7653"
+                "2.0.0": "0445f8dec81e97da1c26fc6958084ee894cf2955c8c358e0d2b78432876c7653",
+                "2.0.1": "e37ccf7437e466c7b636b036a309c61d1aeebbaca4366fbc05a40125b28a87e2"
             },
             "betaVersions": {
                 "1.0.2": "3f4909158853e062e4a4cf4687f1ba014f45f0863221460fe874b5d884e0cf4d",
-                "2.0.0": "0445f8dec81e97da1c26fc6958084ee894cf2955c8c358e0d2b78432876c7653"
+                "2.0.0": "0445f8dec81e97da1c26fc6958084ee894cf2955c8c358e0d2b78432876c7653",
+                "2.0.1": "e37ccf7437e466c7b636b036a309c61d1aeebbaca4366fbc05a40125b28a87e2"
             }
         },
         "damagetilt": {
