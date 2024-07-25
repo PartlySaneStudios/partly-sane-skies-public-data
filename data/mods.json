@@ -1753,6 +1753,16 @@
                 "0.3.0": "b27f92e6b2ee17d9d46899c58223086f4a12bdfb65859dcc5b0b81a55982f9b0",
                 "0.4.0": "21802c69f9b2867e7a147e5fc4160ba6727b22c6768139c386edbc4ccf55982e"
             }
+        },
+        "entityglow": {
+            "name": "EntityGlow",
+            "download": "https://modrinth.com/mod/entity-glow",
+            "versions": {
+                "1.0.0": "d74d0dbbec3318de629353904e093da46ed421541939f9c31bbc2afe2faf9f52"
+            },
+            "betaVersions": {
+                "1.0.0": "d74d0dbbec3318de629353904e093da46ed421541939f9c31bbc2afe2faf9f52"
+            }
         }
     }
 }
