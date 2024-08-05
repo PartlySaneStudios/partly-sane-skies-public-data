@@ -1642,7 +1642,8 @@
             "betaVersions": {
                 "1.0.0": "938521f60b5a107690ae6e5ee3df70c1e9ee3ec7fd6cf55f708da7d67f0288f7",
                 "1.0.1": "ae6f3650ab3a1f9cb8f35fca54ca26a8c1ceb70cf3a05f2ba27a926588e3b9af",
-                "1.0.2": "db4c5b265e14026f002118678701947934dd216aaaad916bd9636197a53c2e54"
+                "1.0.2": "db4c5b265e14026f002118678701947934dd216aaaad916bd9636197a53c2e54",
+                "1.1.0": "ee259af3df625f2b0c382ebef316c96a72d2424d59a9dc2e48e80b15bedee2a9"
             }
         },
         "lobby_sounds": {
