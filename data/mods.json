@@ -201,14 +201,16 @@
                 "1.6.1": "e67edf7084d88c65a22bcee36555b3c916c079a9a39c7ee69f0afcf1c718feda",
                 "1.7.0": "6ba489ae5eebc9cc1a3b3bc83de54758fe869d79ee4dcede7b6a934b66ae34f5",
                 "1.7.1": "a1c973342460140e4bb3c99bb0f2eee216e50a2cd3dda7b5e680b705e2560cfd",
-                "1.7.2": "29d6a208af5b0b54ca77480da355a3f498d1b064a5fd9fda4980d6a995d6d5db"
+                "1.7.2": "29d6a208af5b0b54ca77480da355a3f498d1b064a5fd9fda4980d6a995d6d5db",
+                "1.7.3": "cabe1a7b1eb3be631088fbad419bbdcfb969868d9b67e5c1e8383219022d0dac"
             },
             "betaVersions": {
                 "1.6.0": "a4716a1d7793701ecdc04d5ab638b0a17641d4bf5adb52d7672bd91a7cbe1415",
                 "1.6.1": "e67edf7084d88c65a22bcee36555b3c916c079a9a39c7ee69f0afcf1c718feda",
                 "1.7.0": "6ba489ae5eebc9cc1a3b3bc83de54758fe869d79ee4dcede7b6a934b66ae34f5",
                 "1.7.1": "a1c973342460140e4bb3c99bb0f2eee216e50a2cd3dda7b5e680b705e2560cfd",
-                "1.7.2": "29d6a208af5b0b54ca77480da355a3f498d1b064a5fd9fda4980d6a995d6d5db"
+                "1.7.2": "29d6a208af5b0b54ca77480da355a3f498d1b064a5fd9fda4980d6a995d6d5db",
+                "1.7.3": "cabe1a7b1eb3be631088fbad419bbdcfb969868d9b67e5c1e8383219022d0dac"
             }
         },
         "replaymod": {
