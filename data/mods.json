@@ -908,12 +908,14 @@
             "versions": {
                 "3.1.2": "e83eb73b4f577250dafbe5c21a92dcab77eb77b91330827b6793d3f90d9116a6",
                 "3.2.0": "075365a7f15053393f1ea0452368ef850262b76b78df3cd18c7fb01675da68b2",
-                "3.2.1": "41035526ef1bffc20d254e4ad9838d848f3467d15dce2c891c60aa964e7b734b"
+                "3.2.1": "41035526ef1bffc20d254e4ad9838d848f3467d15dce2c891c60aa964e7b734b",
+                "3.2.2": "0e91e824db8190ff761c7e248aa266844fab58390dc3aa17707ecfbfa1a1e2fd"
             },
             "betaVersions": {
                 "3.1.2": "e83eb73b4f577250dafbe5c21a92dcab77eb77b91330827b6793d3f90d9116a6",
                 "3.2.0": "075365a7f15053393f1ea0452368ef850262b76b78df3cd18c7fb01675da68b2",
-                "3.2.1": "41035526ef1bffc20d254e4ad9838d848f3467d15dce2c891c60aa964e7b734b"
+                "3.2.1": "41035526ef1bffc20d254e4ad9838d848f3467d15dce2c891c60aa964e7b734b",
+                "3.2.2": "0e91e824db8190ff761c7e248aa266844fab58390dc3aa17707ecfbfa1a1e2fd"
             }
         },
         "keystrokesmod": {
