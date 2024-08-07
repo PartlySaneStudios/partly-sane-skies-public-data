@@ -860,7 +860,8 @@
                 "2.2.6": "2235e971edda5a7448d3d53a4996f3a478d9875a4ca9a94c6014f6deb8dc5531",
                 "2.2.7": "86ec326e2c85ab61131b51e9bb2d66ff10fd949f26ab06507349879d7da972fa",
                 "2.2.8": "d58d1fddeaec1816684fa4d9f105a15a23c2846f3bbf8ed8c98aadc9eb9b7df1",
-                "2.2.9": "0dba953ab6d8f15f3a76aef7b17a9e2b73543332ef0649f1934eaff84448805c"
+                "2.2.9": "0dba953ab6d8f15f3a76aef7b17a9e2b73543332ef0649f1934eaff84448805c",
+                "2.2.10": "97c884181ea0b072629f2b787e3199daedf255673cd72993989f4cda1b53ee43"
             },
             "betaVersions": {
                 "2.1.0": "c81a0999398c09890921395ed3c4432203ec55122afbb5440ac55d23984e6898",
@@ -873,7 +874,8 @@
                 "2.2.6": "2235e971edda5a7448d3d53a4996f3a478d9875a4ca9a94c6014f6deb8dc5531",
                 "2.2.7": "86ec326e2c85ab61131b51e9bb2d66ff10fd949f26ab06507349879d7da972fa",
                 "2.2.8": "d58d1fddeaec1816684fa4d9f105a15a23c2846f3bbf8ed8c98aadc9eb9b7df1",
-                "2.2.9": "0dba953ab6d8f15f3a76aef7b17a9e2b73543332ef0649f1934eaff84448805c"
+                "2.2.9": "0dba953ab6d8f15f3a76aef7b17a9e2b73543332ef0649f1934eaff84448805c",
+                "2.2.10": "97c884181ea0b072629f2b787e3199daedf255673cd72993989f4cda1b53ee43"
             }
         },
         "itlt": {
