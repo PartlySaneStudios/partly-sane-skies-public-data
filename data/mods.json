@@ -1743,12 +1743,14 @@
             "versions": {
                 "1.0.0": "40db5e3443608ee57002f43c080ec1d91ab9a975ddbd9efd98dac4c4c2d8f084",
                 "1.0.1": "e003bd867747335b0c72f8a1871192b2b086f9e6b649f3c785b55c241bf01e2d",
-                "1.0.2": "373ec3b6436d346817f78b9a959d1563220c4cfce8dbdea474da533b8050227d"
+                "1.0.2": "373ec3b6436d346817f78b9a959d1563220c4cfce8dbdea474da533b8050227d",
+                "1.0.3": "2a5017f8fac71926db8abef4a98d5a8cadd01bc4400c9c6879988a6afcb442b0"
             },
             "betaVersions": {
                 "1.0.0": "40db5e3443608ee57002f43c080ec1d91ab9a975ddbd9efd98dac4c4c2d8f084",
                 "1.0.1": "e003bd867747335b0c72f8a1871192b2b086f9e6b649f3c785b55c241bf01e2d",
-                "1.0.2": "373ec3b6436d346817f78b9a959d1563220c4cfce8dbdea474da533b8050227d"
+                "1.0.2": "373ec3b6436d346817f78b9a959d1563220c4cfce8dbdea474da533b8050227d",
+                "1.0.3": "2a5017f8fac71926db8abef4a98d5a8cadd01bc4400c9c6879988a6afcb442b0"
             }
         },
         "overflowparticles": {
