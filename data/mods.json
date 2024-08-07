@@ -747,10 +747,12 @@
             "name": "Gravy's Reward Claim",
             "download": "https://modrinth.com/mod/reward-claim",
             "versions": {
-                "1.0.5": "0bcc372709fe7e7703df73c2299525ac130bfc7fa7edfb6aa6c4cdaf24076479"
+                "1.0.5": "0bcc372709fe7e7703df73c2299525ac130bfc7fa7edfb6aa6c4cdaf24076479",
+                "1.0.6": "36d3e89f81113922d0db81d13ec451eb20753c58f299cfc1accc36679db5ec7f"
             },
             "betaVersions": {
-                "1.0.5": "0bcc372709fe7e7703df73c2299525ac130bfc7fa7edfb6aa6c4cdaf24076479"
+                "1.0.5": "0bcc372709fe7e7703df73c2299525ac130bfc7fa7edfb6aa6c4cdaf24076479",
+                "1.0.6": "36d3e89f81113922d0db81d13ec451eb20753c58f299cfc1accc36679db5ec7f"
             }
         },
         "polysprint": {
