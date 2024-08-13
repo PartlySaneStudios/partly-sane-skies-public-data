@@ -422,10 +422,12 @@
             "name": "Apec",
             "download": "https://github.com/BananaFructa/Apec/releases",
             "versions": {
-                "1.11.6": "6c494a24f8d6c2ec1ceab2d5b9dac207acbbc980648e6414d00e52d6fae0cd5f"
+                "1.11.6": "6c494a24f8d6c2ec1ceab2d5b9dac207acbbc980648e6414d00e52d6fae0cd5f",
+                "1.12.0": "d3a8cc0b03dbdad0f60160b37b3e3c906647c9379a52520c578e71c515ecf728"
             },
             "betaVersions": {
-                "1.11.6": "6c494a24f8d6c2ec1ceab2d5b9dac207acbbc980648e6414d00e52d6fae0cd5f"
+                "1.11.6": "6c494a24f8d6c2ec1ceab2d5b9dac207acbbc980648e6414d00e52d6fae0cd5f",
+                "1.12.0": "d3a8cc0b03dbdad0f60160b37b3e3c906647c9379a52520c578e71c515ecf728"
             }
         },
         "cowlection": {
