@@ -1652,12 +1652,14 @@
             "versions": {
                 "2.2": "ef6d5ef2b5d46a185f8d597ce77bf688a4962be988f6ee7ae89576a9f1628134",
                 "2.4": "2be17d0aa0b59fa5ae3b2a728e74b271307507ea4c5c85c908752ec56fb04f5a",
-                "2.5": "4256fc4f3b59b1d613fa8c805b7ae1a53e8688e4290f22d6e61a8ea96476a200"
+                "2.5": "4256fc4f3b59b1d613fa8c805b7ae1a53e8688e4290f22d6e61a8ea96476a200",
+                "2.6": "2ffd78ffa68d95e053615488db46e157a93a8096ba9ae808c691b464bfd42031"
             },
             "betaVersions": {
                 "2.2": "ef6d5ef2b5d46a185f8d597ce77bf688a4962be988f6ee7ae89576a9f1628134",
                 "2.4": "2be17d0aa0b59fa5ae3b2a728e74b271307507ea4c5c85c908752ec56fb04f5a",
-                "2.5": "4256fc4f3b59b1d613fa8c805b7ae1a53e8688e4290f22d6e61a8ea96476a200"
+                "2.5": "4256fc4f3b59b1d613fa8c805b7ae1a53e8688e4290f22d6e61a8ea96476a200",
+                "2.6": "2ffd78ffa68d95e053615488db46e157a93a8096ba9ae808c691b464bfd42031"
             }
         },
         "SkyblockUtils": {
