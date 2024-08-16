@@ -1838,13 +1838,15 @@
             }
         },
         "CoflSky": {
-            "name": "SkyCofl",
+            "name": "CoflSky",
             "download": "https://github.com/coflnet/skyblockmod/",
             "versions": {
-                "1.5.6-Alpha": "ec918c16437dc0082b1689cbe8e3dd6f4285b6c285687428b548d98c6cce525f"
+                "1.5.6-Alpha": "ec918c16437dc0082b1689cbe8e3dd6f4285b6c285687428b548d98c6cce525f",
+                "${version}": "1f81185d19443c89256efdeac1a747452a864ad2c38e386e6f5874d716451eed"
             },
             "betaVersions": {
-                "1.5.6-Alpha": "ec918c16437dc0082b1689cbe8e3dd6f4285b6c285687428b548d98c6cce525f"
+                "1.5.6-Alpha": "ec918c16437dc0082b1689cbe8e3dd6f4285b6c285687428b548d98c6cce525f",
+                "${version}": "1f81185d19443c89256efdeac1a747452a864ad2c38e386e6f5874d716451eed"
             }
         }
     }
