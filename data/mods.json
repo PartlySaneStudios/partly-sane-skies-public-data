@@ -1836,6 +1836,16 @@
             "betaVersions": {
                 "1.0.0": "d74d0dbbec3318de629353904e093da46ed421541939f9c31bbc2afe2faf9f52"
             }
+        },
+        "CoflSky": {
+            "name": "SkyCofl",
+            "download": "https://github.com/coflnet/skyblockmod/",
+            "versions": {
+                "1.5.6-Alpha": "ec918c16437dc0082b1689cbe8e3dd6f4285b6c285687428b548d98c6cce525f"
+            },
+            "betaVersions": {
+                "1.5.6-Alpha": "ec918c16437dc0082b1689cbe8e3dd6f4285b6c285687428b548d98c6cce525f"
+            }
         }
     }
 }
