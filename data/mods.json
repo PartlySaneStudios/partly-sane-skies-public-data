@@ -1401,10 +1401,12 @@
             "name": "VolcAddons",
             "download": "https://github.com/zhenga8533/VolcAddons",
             "versions": {
-                "1.0": "7a6ce55856c83d4ec8e734c5c036cc2bf036cb3009ba3c83d8355145ea48e4da"
+                "1.0": "7a6ce55856c83d4ec8e734c5c036cc2bf036cb3009ba3c83d8355145ea48e4da",
+                "1.1": "eceda20aab19dd0b56d469178aeb4aed8aa5185f2d3ccfd8e0843e5e83b19a30"
             },
             "betaVersions": {
-                "1.0": "7a6ce55856c83d4ec8e734c5c036cc2bf036cb3009ba3c83d8355145ea48e4da"
+                "1.0": "7a6ce55856c83d4ec8e734c5c036cc2bf036cb3009ba3c83d8355145ea48e4da",
+                "1.1": "eceda20aab19dd0b56d469178aeb4aed8aa5185f2d3ccfd8e0843e5e83b19a30"
             }
         },
         "somewatersolver": {
