@@ -1859,7 +1859,7 @@
         },
         "hypixel_mod_api": {
             "name": "Hypixel Mod API",
-            "download": "[https://github.com/HypixelDev/ModAPI](https://modrinth.com/mod/hypixel-mod-api/)",
+            "download": "https://modrinth.com/mod/hypixel-mod-api/",
             "versions": {
                 "1.0.1.1": "2877bda19b8907bb4d507bb88306f2646224bfd103531dfba0898bef001a5c2d"
             },
