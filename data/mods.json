@@ -1856,6 +1856,16 @@
             "betaVersions": {
                 "1.5.6-Alpha": "ec918c16437dc0082b1689cbe8e3dd6f4285b6c285687428b548d98c6cce525f"
             }
+        },
+        "hypixel_mod_api": {
+            "name": "Hypixel Mod API",
+            "download": "[https://github.com/HypixelDev/ModAPI](https://modrinth.com/mod/hypixel-mod-api/)",
+            "versions": {
+                "1.0.1.1": "2877bda19b8907bb4d507bb88306f2646224bfd103531dfba0898bef001a5c2d"
+            },
+            "betaVersions": {
+                "1.0.1.1": "2877bda19b8907bb4d507bb88306f2646224bfd103531dfba0898bef001a5c2d"
+            }
         }
     }
 }
