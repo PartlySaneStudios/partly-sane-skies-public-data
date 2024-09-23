@@ -1872,10 +1872,12 @@
             "name": "EntityGlow",
             "download": "https://modrinth.com/mod/entity-glow",
             "versions": {
-                "1.0.0": "d74d0dbbec3318de629353904e093da46ed421541939f9c31bbc2afe2faf9f52"
+                "1.0.0": "d74d0dbbec3318de629353904e093da46ed421541939f9c31bbc2afe2faf9f52",
+                "1.0.1": "130bcaff8f6d652126cf428485f84f18dfccfd304ff45be7c3ca3c7e1207ce91"
             },
             "betaVersions": {
-                "1.0.0": "d74d0dbbec3318de629353904e093da46ed421541939f9c31bbc2afe2faf9f52"
+                "1.0.0": "d74d0dbbec3318de629353904e093da46ed421541939f9c31bbc2afe2faf9f52",
+                "1.0.1": "130bcaff8f6d652126cf428485f84f18dfccfd304ff45be7c3ca3c7e1207ce91"
             }
         },
         "CoflSky": {
