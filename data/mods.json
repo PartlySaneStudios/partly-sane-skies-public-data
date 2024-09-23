@@ -444,14 +444,16 @@
                 "1.12.0": "d3a8cc0b03dbdad0f60160b37b3e3c906647c9379a52520c578e71c515ecf728",
                 "1.12.1": "04e0c42058ff92c454dd1955a1d756a240b129633bd18f2f4affa354cd740a8a",
                 "1.12.2": "80c527a6830eb9c9be55af7be77d34b1db0178ed195e47a601f70c2f504e6f97",
-                "1.12.3": "7a5605794a43e8ce0332f30f4b46d3fc27b0873152fdcd9603ab5a90a904758e"
+                "1.12.3": "7a5605794a43e8ce0332f30f4b46d3fc27b0873152fdcd9603ab5a90a904758e",
+                "1.12.4": "8fdb1feb66c5a004c33886fd5aa7179aaf8f2e50de6b4dc52490d1b12357601e"
             },
             "betaVersions": {
                 "1.11.6": "6c494a24f8d6c2ec1ceab2d5b9dac207acbbc980648e6414d00e52d6fae0cd5f",
                 "1.12.0": "d3a8cc0b03dbdad0f60160b37b3e3c906647c9379a52520c578e71c515ecf728",
                 "1.12.1": "04e0c42058ff92c454dd1955a1d756a240b129633bd18f2f4affa354cd740a8a",
                 "1.12.2": "80c527a6830eb9c9be55af7be77d34b1db0178ed195e47a601f70c2f504e6f97",
-                "1.12.3": "7a5605794a43e8ce0332f30f4b46d3fc27b0873152fdcd9603ab5a90a904758e"
+                "1.12.3": "7a5605794a43e8ce0332f30f4b46d3fc27b0873152fdcd9603ab5a90a904758e",
+                "1.12.4": "8fdb1feb66c5a004c33886fd5aa7179aaf8f2e50de6b4dc52490d1b12357601e"
             }
         },
         "cowlection": {
