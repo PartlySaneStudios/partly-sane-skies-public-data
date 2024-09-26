@@ -15,6 +15,12 @@
     "prank_sound": false,
     "announcements": [
         {
+            "name": "[September 19] Mining Changes",
+            "date": "19 September 2024",
+            "description": "Hello!  Over the past couple of days we've been rolling some balance changes and bug fixes for the 0.20.6 update.",
+            "link": "https://hypixel.net/threads/september-19-mining-changes.5771750/"
+        },
+        {
             "name": "Hypixel SkyBlock 0.20.6 - Modernized Mining, Dye Changes, and more!",
             "date": "17 September 2024",
             "description": "Hello!  Today we are bringing you Hypixel SkyBlock update 0.20.6, with massive changes to the Mining Skill, some changes to Dyes, and more!",
