@@ -15,6 +15,12 @@
     "prank_sound": false,
     "announcements": [
         {
+            "name": "[October 1] Tiny Mining Balancing Update",
+            "date": "1 October 2024",
+            "description": "Hello! We've rolled some changes and fixes to SkyBlock in relation to the recent mining update.",
+            "link": "https://hypixel.net/threads/october-1-tiny-mining-balancing-update.5777889/"
+        },
+        {
             "name": "[September 19] Mining Changes",
             "date": "19 September 2024",
             "description": "Hello!  Over the past couple of days we've been rolling some balance changes and bug fixes for the 0.20.6 update.",
