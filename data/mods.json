@@ -435,7 +435,8 @@
                 "1.10.3": "99a6bf16751cb703fa0d9b0bcba7dd79336e5233026cad4cb0c6ff91bc149e35",
                 "1.10.4": "de13d4356ffdc0123b1d72b28d4dba8f291f17938b45b4325203e972d3bec5e7",
                 "1.10.5": "ff605af8f04dbd8fa8a67b6b7d3c55fbd5ee191da6f17403a510a4c770a690c6",
-                "1.10.6": "f06fd19a6a559c925d9167b58a12bf3530d61347b27f47efe9838ddfe00563b3"
+                "1.10.6": "f06fd19a6a559c925d9167b58a12bf3530d61347b27f47efe9838ddfe00563b3",
+                "1.10.7-RC1": "a352dfe6e4cdcddc1f5d596f6bb5bd109e7657691b177d0234e0d6937b7853e7"
             }
         },
         "apec": {
