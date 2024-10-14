@@ -495,7 +495,8 @@
                 "4.0.0-beta-9.5-1": "e9da2e5ad2083ce196dac8978f4077bed23e98e2a7019d8b3a8311f8c1507ec8",
                 "4.0.0-beta10.0": "5ec489fd9d9b9006cf5dccafc43191894f692fc39d6763b0737dc841c47eab39",
                 "v4.0.0-beta10.1": "7f3e51c9d1b8a7a5faab921ff4425267580d81fb45ca5046ded862fd5b028b7c",
-                "4.0.0-beta11.0": "588fa1c3293b4ebb059e14233a73208492dd3a8f347f07adc9e030a4c1f09514"
+                "4.0.0-beta11.0": "588fa1c3293b4ebb059e14233a73208492dd3a8f347f07adc9e030a4c1f09514",
+                "4.0.0-beta12.4": "b69f2e2800494c4ea4a048f89dae352a3b7803577fc40b31ca6cda590aee0dc9"
             }
         },
         "skyblock_dungeons_guide": {
