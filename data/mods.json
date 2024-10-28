@@ -1234,7 +1234,8 @@
                 "0.28.Beta.5": "2fbdd9246ae6094abc6294e99fa2ad1fe8a320d36ea6728056e4d63a2b9acd00",
                 "0.28.Beta.6": "310141ef1daa2213ac4a84ede018be1b6bfa1087007ca71504141bb1ebcfbb75",
                 "0.28.Beta.7": "0da2df7e9f2f57932d84aa15f8c665009a8ca915c711a73893ec85eaca9510d1",
-                "0.28.Beta.8": "657601a942c6d5777d0ed6a4a480fab1a5aeacfb42b5a76c190a84748b8cc9a7"
+                "0.28.Beta.8": "657601a942c6d5777d0ed6a4a480fab1a5aeacfb42b5a76c190a84748b8cc9a7",
+                "0.28.Beta.9": "e4a6280473f7fc35c3dd59303f03d4cb18e9719369c0bc986f7455955f02f95a"
             }
         },
         "reauth": {
