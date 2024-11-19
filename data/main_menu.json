@@ -15,6 +15,12 @@
     "prank_sound": false,
     "announcements": [
         {
+            "name": "Hypixel SkyBlock 0.20.8 - Pesthunter's Wares, Chocolate Factory Additions, and more!",
+            "date": "19 November 2024",
+            "description": "Hello!  Welcome to Hypixel SkyBlock Patch 0.20.8. Today's update includes a general update to Pests, some Garden balancing, and a Chocolate Factory update that lets you take breaks from Hoppity without any downtime.  Read on for all the details!",
+            "link": "https://hypixel.net/threads/hypixel-skyblock-0-20-8-pesthunters-wares-chocolate-factory-additions-and-more.5804948/"
+        },
+        {
             "name": "[October 21] Museum Patch Notes",
             "date": "21 October 2024",
             "description": "Hello,  We released a few changes to the Museum.",
