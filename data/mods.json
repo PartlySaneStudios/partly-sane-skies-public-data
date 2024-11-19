@@ -1686,7 +1686,8 @@
             "download": "https://github.com/MrFast-js/Skyblock-Tweaks/",
             "versions": {
                 "1.0.0": "3140620925262677f3373b6145a5cd922574373b665c8b46d37aec440e4e0667",
-                "1.0.1": "b8d1af6bcd3732c688bc64c107b1f1d7c84bd86be3e74c683b35e2ad227cfef8"
+                "1.0.1": "b8d1af6bcd3732c688bc64c107b1f1d7c84bd86be3e74c683b35e2ad227cfef8",
+                "1.0.2": "ace948c21300c969894ff335a35a55a2b9855d06f9f5bb0607bbfbd65efea0ee"
             },
             "betaVersions": {
                 "1.0.0-BETA1": "59913e131023b43bbf0daffef0f0cebe2a4ff74bb25895cdea91e613be3b8f49",
@@ -1701,7 +1702,8 @@
                 "1.0.2-BETA1": "bcfed7e20c9cc8c0de1b607a664e16112a8856c64fde5f0f4981d30ef52e8089",
                 "1.0.2-BETA2": "f6d3192032bc4f3277fd4e64e93288b53c195c51ff9ea71f84a5baca39cdc587",
                 "1.0.2-BETA3": "4458a61126a15f266f1ae6319985aac584e4548c66d4bab0c77d19f33815e46d",
-                "1.0.2-BETA4": "1e12f96b43276b51696bf7f7c4a46ac959fb22f1bf9ed1a85305a20ff7cf45f0"
+                "1.0.2-BETA4": "1e12f96b43276b51696bf7f7c4a46ac959fb22f1bf9ed1a85305a20ff7cf45f0",
+                "1.0.2": "ace948c21300c969894ff335a35a55a2b9855d06f9f5bb0607bbfbd65efea0ee"
             }
         },
         "shy": {
