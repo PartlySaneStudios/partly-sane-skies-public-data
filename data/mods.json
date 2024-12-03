@@ -1593,7 +1593,8 @@
                 "1.0.4": "36e28fb8b5ff5e6c673798c693da4e3c83221f7bb61dee05f1158e5a6cd98100",
                 "1.0.5": "c221c7cb45d0bb22562e52ff8274d0bf3d025e6007a3cc56738a88b50675805d",
                 "1.0.6": "12a0924d300ceff589fd7493d1bb830de2d9e67a871a714b104f190392f1f668",
-                "1.0.7": "dfb09f013b6ad0725e4bd75cec9582ee57667ea5d361ec83f3c034e9842204ff"
+                "1.0.7": "dfb09f013b6ad0725e4bd75cec9582ee57667ea5d361ec83f3c034e9842204ff",
+                "1.0.8": "2fddbd56e78b9a96b843f22f63e6c11b84b8523b198adc9b9bd7ec8f0ba98130"
             },
             "betaVersions": {
                 "1.0.0": "922009ebe818c6b05516a9da36489c908f59e84b5b0ba1f5f015747d3a4c461f",
@@ -1603,7 +1604,8 @@
                 "1.0.4": "36e28fb8b5ff5e6c673798c693da4e3c83221f7bb61dee05f1158e5a6cd98100",
                 "1.0.5": "c221c7cb45d0bb22562e52ff8274d0bf3d025e6007a3cc56738a88b50675805d",
                 "1.0.6": "12a0924d300ceff589fd7493d1bb830de2d9e67a871a714b104f190392f1f668",
-                "1.0.7": "dfb09f013b6ad0725e4bd75cec9582ee57667ea5d361ec83f3c034e9842204ff"
+                "1.0.7": "dfb09f013b6ad0725e4bd75cec9582ee57667ea5d361ec83f3c034e9842204ff",
+                "1.0.8": "2fddbd56e78b9a96b843f22f63e6c11b84b8523b198adc9b9bd7ec8f0ba98130"
             }
         },
         "resourcify": {
