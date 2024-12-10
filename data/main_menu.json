@@ -15,6 +15,12 @@
     "prank_sound": false,
     "announcements": [
         {
+            "name": "Hypixel SkyBlock 0.21 - Rift Mountaintop",
+            "date": "10 December 2024",
+            "description": "Today we are releasing Hypixel SkyBlock 0.21, which features The Mountaintop, a new content-pack zone at the end of The Rift.",
+            "link": "https://hypixel.net/threads/hypixel-skyblock-0-21-rift-mountaintop.5812283/"
+        },
+        {
             "name": "Hypixel SkyBlock 0.20.8 - Pesthunter's Wares, Chocolate Factory Additions, and more!",
             "date": "19 November 2024",
             "description": "Hello!  Welcome to Hypixel SkyBlock Patch 0.20.8. Today's update includes a general update to Pests, some Garden balancing, and a Chocolate Factory update that lets you take breaks from Hoppity without any downtime.  Read on for all the details!",
