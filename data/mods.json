@@ -194,11 +194,13 @@
             "download": "https://modrinth.com/mod/crashpatch",
             "versions": {
                 "2.0.0": "f8b37287c4f3667b0b8cf0188a4ea6d36515fd4c19717285556fea006422c318",
-                "2.0.1": "3debf17e3d21bb1be2d268af0be3da123436afecc45090d240b9762990af66af"
+                "2.0.1": "3debf17e3d21bb1be2d268af0be3da123436afecc45090d240b9762990af66af",
+                "2.0.2": "6a7ed6226fc56158ffcde40adcf51d3a6f4258c3f32c5e207e683b014e2e5897"
             },
             "betaVersions": {
                 "2.0.0": "f8b37287c4f3667b0b8cf0188a4ea6d36515fd4c19717285556fea006422c318",
-                "2.0.1": "3debf17e3d21bb1be2d268af0be3da123436afecc45090d240b9762990af66af"
+                "2.0.1": "3debf17e3d21bb1be2d268af0be3da123436afecc45090d240b9762990af66af",
+                "2.0.2": "6a7ed6226fc56158ffcde40adcf51d3a6f4258c3f32c5e207e683b014e2e5897"
             }
         },
         "hytils-reborn": {
