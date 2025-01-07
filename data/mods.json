@@ -1998,6 +1998,16 @@
                 "0.4.11": "05f7b5aa7962d06fe8bb0ab9e38c1961f78e6c9c2aaa024959713382a2e3bf8f",
                 "0.4.12": "51adb7dc11f938793bc9f1c499bffeb19ac5bc97c742742959d30f707ced5fc5"
             }
+        },
+        "OdinClient": {
+            "name": "OdinClient",
+            "download": "https://github.com/odtheking/Odin",
+            "versions": {
+                "1.0.0": "d8316f307933a87a1c44cea7f8b0a5489826d0e8be873d99194561c9c884201a"
+            },
+            "betaVersions": {
+                "1.0.0": "d8316f307933a87a1c44cea7f8b0a5489826d0e8be873d99194561c9c884201a"
+            }
         }
     }
 }
