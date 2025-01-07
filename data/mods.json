@@ -2005,12 +2005,14 @@
             "versions": {
                 "1.0.0": "d8316f307933a87a1c44cea7f8b0a5489826d0e8be873d99194561c9c884201a",
                 "1.0.1": "b208bb7e237eeb6b4710dba83d6af0ae00cb96a07893ba72dff0f288bbbca36a",
-                "1.1.0": "ab88f1959fa7e717242e1e2c99e518d4a7eae6e5db32d70305d3e112c07b2acc"
+                "1.1.0": "ab88f1959fa7e717242e1e2c99e518d4a7eae6e5db32d70305d3e112c07b2acc",
+                "1.1.1": "e72193be34d81f17f9fe17f54d49affc19e01962a6017aa1005e17c4aeb53cdc"
             },
             "betaVersions": {
                 "1.0.0": "d8316f307933a87a1c44cea7f8b0a5489826d0e8be873d99194561c9c884201a",
                 "1.0.1": "b208bb7e237eeb6b4710dba83d6af0ae00cb96a07893ba72dff0f288bbbca36a",
-                "1.1.0": "ab88f1959fa7e717242e1e2c99e518d4a7eae6e5db32d70305d3e112c07b2acc"
+                "1.1.0": "ab88f1959fa7e717242e1e2c99e518d4a7eae6e5db32d70305d3e112c07b2acc",
+                "1.1.1": "e72193be34d81f17f9fe17f54d49affc19e01962a6017aa1005e17c4aeb53cdc"
             }
         }
     }
