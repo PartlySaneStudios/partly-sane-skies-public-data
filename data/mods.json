@@ -835,11 +835,13 @@
             "download": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint",
             "versions": {
                 "2.2.0": "7c69e59c00d11a36b6a59e534a6aaf945992b688b7706220703dd57ff2e06785",
-                "2.3.0": "344e302e9ae6ee8f8dbcb5d10fadc998fe05a1f0eccc98766cbe0375c370ca95"
+                "2.3.0": "344e302e9ae6ee8f8dbcb5d10fadc998fe05a1f0eccc98766cbe0375c370ca95",
+                "2.4.0": "7826efa7bd72a40f4cd739fc219e3df1de75969077904b9c2d6187cf779d3522"
             },
             "betaVersions": {
                 "2.2.0": "7c69e59c00d11a36b6a59e534a6aaf945992b688b7706220703dd57ff2e06785",
-                "2.3.0": "344e302e9ae6ee8f8dbcb5d10fadc998fe05a1f0eccc98766cbe0375c370ca95"
+                "2.3.0": "344e302e9ae6ee8f8dbcb5d10fadc998fe05a1f0eccc98766cbe0375c370ca95",
+                "2.4.0": "7826efa7bd72a40f4cd739fc219e3df1de75969077904b9c2d6187cf779d3522"
             }
         },
         "hypixel_auto_complete": {
