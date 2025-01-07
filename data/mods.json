@@ -2040,6 +2040,16 @@
             "betaVersions": {
                 "1.2.1": "790745ae4e825e935120551c9b8d7371339626d771d1940d8ad4f8a465b0cfb1"
             }
+        },
+        "od": {
+            "name": "Odin",
+            "download": "https://github.com/odtheking/Odin",
+            "versions": {
+                "1.2.1": "7fb7c89d88f8485b5119215f089d4a5b23afe98005d695e66fd9591b99295c22"
+            },
+            "betaVersions": {
+                "1.2.1": "7fb7c89d88f8485b5119215f089d4a5b23afe98005d695e66fd9591b99295c22"
+            }
         }
     }
 }
