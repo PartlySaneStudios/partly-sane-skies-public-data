@@ -2042,7 +2042,8 @@
             "betaVersions": {
                 "1.2.1": "790745ae4e825e935120551c9b8d7371339626d771d1940d8ad4f8a465b0cfb1",
                 "1.2.4": "95abaf36ee3042972b48c001bf0b7178967e397dfe82d2dc57e8a51f4decee6a",
-                "1.2.4.1": "e2681ad65fae858905fe96127a41a4604937b115feceeda9441c8eed38612f17"
+                "1.2.4.1": "e2681ad65fae858905fe96127a41a4604937b115feceeda9441c8eed38612f17",
+                "1.2.5.beta2": "d94fbaec9bd6cb34e6088bd55a11c5058debb12adb6d24b92d4381b001666706"
             }
         },
         "od": {
