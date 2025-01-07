@@ -2004,11 +2004,11 @@
             "download": "https://github.com/odtheking/Odin",
             "versions": {
                 "1.0.0": "d8316f307933a87a1c44cea7f8b0a5489826d0e8be873d99194561c9c884201a",
-                "1.0.1": "16bf62a7ffc8297e1134bc768f744721d704b55e50f2d927720a9e837e67f449"
+                "1.0.1": "b208bb7e237eeb6b4710dba83d6af0ae00cb96a07893ba72dff0f288bbbca36a"
             },
             "betaVersions": {
                 "1.0.0": "d8316f307933a87a1c44cea7f8b0a5489826d0e8be873d99194561c9c884201a",
-                "1.0.1": "16bf62a7ffc8297e1134bc768f744721d704b55e50f2d927720a9e837e67f449"
+                "1.0.1": "b208bb7e237eeb6b4710dba83d6af0ae00cb96a07893ba72dff0f288bbbca36a"
             }
         }
     }
