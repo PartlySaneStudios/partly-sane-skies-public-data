@@ -2016,6 +2016,16 @@
                 "1.1.1": "e72193be34d81f17f9fe17f54d49affc19e01962a6017aa1005e17c4aeb53cdc",
                 "1.2.0": "a89d606fa5e182bf85fc09b3411face26ddcc8e3bb50b6aba17671fcb559615c"
             }
+        },
+        "Odin": {
+            "name": "Odin",
+            "download": "https://github.com/odtheking/Odin",
+            "versions": {
+                "1.2.0": "b21b4e773dcfbf0c3a37de2c0c3eceedfca4f34ceb167d4cee8be34ff40f1942"
+            },
+            "betaVersions": {
+                "1.2.0": "b21b4e773dcfbf0c3a37de2c0c3eceedfca4f34ceb167d4cee8be34ff40f1942"
+            }
         }
     }
 }
