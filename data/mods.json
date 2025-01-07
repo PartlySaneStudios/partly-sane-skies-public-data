@@ -2045,10 +2045,12 @@
             "name": "Odin",
             "download": "https://github.com/odtheking/Odin",
             "versions": {
-                "1.2.1": "7fb7c89d88f8485b5119215f089d4a5b23afe98005d695e66fd9591b99295c22"
+                "1.2.1": "7fb7c89d88f8485b5119215f089d4a5b23afe98005d695e66fd9591b99295c22",
+                "1.2.4": "2415e531c78cfd2315315c6e152ac79767d262929ad956e312ff440a2f9dc205"
             },
             "betaVersions": {
-                "1.2.1": "7fb7c89d88f8485b5119215f089d4a5b23afe98005d695e66fd9591b99295c22"
+                "1.2.1": "7fb7c89d88f8485b5119215f089d4a5b23afe98005d695e66fd9591b99295c22",
+                "1.2.4": "2415e531c78cfd2315315c6e152ac79767d262929ad956e312ff440a2f9dc205"
             }
         }
     }
