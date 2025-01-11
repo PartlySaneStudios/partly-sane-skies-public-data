@@ -1272,7 +1272,8 @@
                 "1.0.0": "4ca3cb6f738990553e2c40d6154ebe50db80439bc5cc3ff97218e7dcabc3303e",
                 "1.1.0": "b14c917b290a886fc65f762a5b4f8a6ab309a00ec9ab53262d27ead2de7da4fa",
                 "1.2.0": "99bc6ea1d15bc32416dc161b5a2adb08075751c4817ce29a1e4d0bfdc71ba137",
-                "1.3.0": "e91cb7573314dc3e45cfe07b32b249fba72221937c7f3fe70603c5d2bf595a39"
+                "1.3.0": "e91cb7573314dc3e45cfe07b32b249fba72221937c7f3fe70603c5d2bf595a39",
+                "1.4.0": "3eafae907af9440c158c6861ef2f9d05addad7ffbf4ba68d982913fedced7abc"
             }
         },
         "reauth": {
