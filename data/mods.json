@@ -1281,7 +1281,8 @@
                 "1.8.0": "8c84a063ca851d6cdb236a2f29b9a6b5d36fb899e576a51189c0b6436c927d2f",
                 "1.9.0": "754542f01219e9ca3b9ebb28e75d63257ebc960d6ceae3f3bc18841664ac6559",
                 "1.10.0": "eb5a5f282fb3637a7b770e4c58650ea108e3419ff5837037cebbf8d61b719592",
-                "1.11.0": "e1c7ae6ad2d486a03a91eca0c660845e14760f183fcdd5e4d8fb618f7f796194"
+                "1.11.0": "e1c7ae6ad2d486a03a91eca0c660845e14760f183fcdd5e4d8fb618f7f796194",
+                "1.12.0": "e3a8268baac2b4cfeed45f4f1d86a612413ccddfe0ca854908391a417ee1a055"
             }
         },
         "reauth": {
