@@ -1739,7 +1739,8 @@
                 "1.0.0": "3140620925262677f3373b6145a5cd922574373b665c8b46d37aec440e4e0667",
                 "1.0.1": "b8d1af6bcd3732c688bc64c107b1f1d7c84bd86be3e74c683b35e2ad227cfef8",
                 "1.0.2": "ace948c21300c969894ff335a35a55a2b9855d06f9f5bb0607bbfbd65efea0ee",
-                "1.0.3": "15bc31662d58ad0ea9247a72ffeba10089adf86636854289a95da7abe4b1801c"
+                "1.0.3": "15bc31662d58ad0ea9247a72ffeba10089adf86636854289a95da7abe4b1801c",
+                "1.0.4": "54ca39232d852c4ebb7613e799d04217bcf9fb4723e792ea40861a8059ba5c38"
             },
             "betaVersions": {
                 "1.0.0-BETA1": "59913e131023b43bbf0daffef0f0cebe2a4ff74bb25895cdea91e613be3b8f49",
@@ -1763,7 +1764,8 @@
                 "1.0.4-BETA1": "01515f66f7289ac9e24e1c53e4d7145f9a968b708064d5c56e4f4a3645887920",
                 "1.0.4-BETA2": "54d21b476daf3b468e744438a348ca3df2b852afd86ca1c2bac51b813948b879",
                 "1.0.4-BETA2-new": "e22eb52a720630ac87734cc5e0ef4192bbf71f8057297e75c403267e6dde70b2",
-                "1.0.4-BETA3": "e0c8064c08b39f66e9da697fec1b1747836416d9a6976e16a1128dfb90091647"
+                "1.0.4-BETA3": "e0c8064c08b39f66e9da697fec1b1747836416d9a6976e16a1128dfb90091647",
+                "1.0.4": "54ca39232d852c4ebb7613e799d04217bcf9fb4723e792ea40861a8059ba5c38"
             }
         },
         "shy": {
