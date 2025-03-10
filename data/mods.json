@@ -1117,7 +1117,8 @@
                 "0.26": "6a13565ed51023f79af15e94e66696faa2a309c0d5bb5d97fd5d2911ebe77d46",
                 "0.27": "16eaf351fc53248f35d419615a3f18b729e333a43ecc78ad5e7ed88e251e6298",
                 "0.28.Beta.1": "bb7c9f4dc153148fc03ce7755c5a173d0b6126ff34f47fc57839cba4b0230a72",
-                "1.0.0": "4ca3cb6f738990553e2c40d6154ebe50db80439bc5cc3ff97218e7dcabc3303e"
+                "1.0.0": "4ca3cb6f738990553e2c40d6154ebe50db80439bc5cc3ff97218e7dcabc3303e",
+                "2.0.0": "b8573a85bc7b9f97a6d0c109bf4f7f235bd68655219b07fc4ee5b3d2aa7c0709"
             },
             "betaVersions": {
                 "0.21.1": "8aeb3f56795358c8af46eb4c057cb0c952eab1823448acda97bac3888cf284bf",
@@ -1296,7 +1297,8 @@
                 "1.17.0": "8bea49ef8cde11f7591b9407836839ea124d61c4339281b82a544e73fc08d7d2",
                 "1.18.0": "881578f696fc2d3e34cb155a5a978e4a2e12375fd53142510b6d1378261498f9",
                 "1.19.0": "26fa391bcb8f3834fb880a70fc16e029e125ce81afb6a3b5341d45da8562231f",
-                "1.30.0": "533f96ef1434ff4e9b6e0b68f0391f98254fce8700c84ff9d21ba6f273456df4"
+                "1.30.0": "533f96ef1434ff4e9b6e0b68f0391f98254fce8700c84ff9d21ba6f273456df4",
+                "2.0.0": "b8573a85bc7b9f97a6d0c109bf4f7f235bd68655219b07fc4ee5b3d2aa7c0709"
             }
         },
         "reauth": {
