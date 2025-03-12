@@ -77,7 +77,7 @@
             "minecraft:golden_hoe",
             "minecraft:diamond_hoe"
         ],
-        "require_replenish" : true
+        "require_replenish" : false
     },
     "tile.netherWart" : {
         "math" : [
