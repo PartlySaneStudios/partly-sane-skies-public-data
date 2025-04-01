@@ -1313,7 +1313,8 @@
                 "2.4.0": "c8242d8c8bf77686617f0e83cb04f93c3b883b745daaac164d567265dc3616ea",
                 "2.5.0": "48af32a7953c4fabbd2f74951c3a1434f3d37d4d405c19515433efec7f8f8268",
                 "2.6.0": "4d8a5a033f22ab350282f00aeada54e0e8b2c3f25b4443b3e36d98d2f63fee96",
-                "2.7.0": "1dff69be55b2afe46773f991548bf4ec0698fbc7cdd388e0714fece2149f1335"
+                "2.7.0": "1dff69be55b2afe46773f991548bf4ec0698fbc7cdd388e0714fece2149f1335",
+                "2.8.0": "4163edcf8a908dfefbe239272011ee067d52c5e60fd6d51d9559a039a4519024"
             }
         },
         "reauth": {
