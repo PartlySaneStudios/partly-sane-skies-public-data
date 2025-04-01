@@ -12,7 +12,7 @@
         "latest_version_description": "",
         "latest_version_release_date": "12 August 2024"
     },
-    "prank_sound": false,
+    "prank_sound": true,
     "announcements": [
         {
             "name": "Hypixel SkyBlock 0.21 - Rift Mountaintop",
