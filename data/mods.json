@@ -2167,6 +2167,16 @@
                 "1.2.5.beta14": "26c99bf5382f9821b5d7dff761b30fc59bf2b7e8c370f679fb2a985584a960ba",
                 "1.2.5.beta15": "39ab856ea726b5a899be046552fd42f10c7aeccdf22906b14650b8fe47380616"
             }
+        },
+        "secretroutesmod": {
+            "name": "Secret Routes Mod",
+            "download": "https://github.com/yourboykyle/SecretRoutes",
+            "versions": {
+                "0.4.16": "c133e44289613bf49144da85e57cd7c3f7a78b90c68aefeda0e6810f5c61786a"
+            },
+            "betaVersions": {
+                "0.4.16": "c133e44289613bf49144da85e57cd7c3f7a78b90c68aefeda0e6810f5c61786a"
+            }
         }
     }
 }
