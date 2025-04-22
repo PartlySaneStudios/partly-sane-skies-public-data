@@ -462,7 +462,8 @@
                 "1.10.10": "e12fd6e4cb398cc3401c90c93c0978ba602a728edf7a699206056251615701ea",
                 "1.10.11": "c12c33e026fac6806c58997ead3bdff498864bff13c6c67091dfe962683c861c",
                 "1.10.12": "a6fc078526ca3cb6f0cfde0a02d7b435b06b3f47dc26df3aa49bae28a46f2b28",
-                "1.11.0-pre1": "9146f8c7b6b281d1e68051a05649fcfe354a3d050eb4b372f4c0a7dc7857623d"
+                "1.11.0-pre1": "9146f8c7b6b281d1e68051a05649fcfe354a3d050eb4b372f4c0a7dc7857623d",
+                "1.11.0-pre2": "10d2f93649414c0555e875d7a7ebf5e08320e875d4d088a1f91332abe5e4fbc9"
             }
         },
         "apec": {
