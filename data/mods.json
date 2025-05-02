@@ -2198,6 +2198,16 @@
             "betaVersions": {
                 "0.4.16": "c133e44289613bf49144da85e57cd7c3f7a78b90c68aefeda0e6810f5c61786a"
             }
+        },
+        "ravenAddons": {
+            "name": "ravenAddons",
+            "download": "https://github.com/raaaaaven/ravenAddons",
+            "versions": {
+                "1.9.2": "8cd2798656b93ffa1a3a911d4012240c0f18f8728420c0aff5b0ec224c84bf90"
+            },
+            "betaVersions": {
+                "1.9.2": "8cd2798656b93ffa1a3a911d4012240c0f18f8728420c0aff5b0ec224c84bf90"
+            }
         }
     }
 }
