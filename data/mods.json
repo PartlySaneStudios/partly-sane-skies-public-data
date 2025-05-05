@@ -2074,10 +2074,12 @@
             "name": "Hypixel Mod API",
             "download": "https://modrinth.com/mod/hypixel-mod-api/",
             "versions": {
-                "1.0.1.1": "2877bda19b8907bb4d507bb88306f2646224bfd103531dfba0898bef001a5c2d"
+                "1.0.1.1": "2877bda19b8907bb4d507bb88306f2646224bfd103531dfba0898bef001a5c2d",
+                "1.0.1.2": "a33a5ef6807cbb0b311e2456003622ffe7a8eaef284573ccdd3d975a0e5acd78"
             },
             "betaVersions": {
-                "1.0.1.1": "2877bda19b8907bb4d507bb88306f2646224bfd103531dfba0898bef001a5c2d"
+                "1.0.1.1": "2877bda19b8907bb4d507bb88306f2646224bfd103531dfba0898bef001a5c2d",
+                "1.0.1.2": "a33a5ef6807cbb0b311e2456003622ffe7a8eaef284573ccdd3d975a0e5acd78"
             }
         },
         "SecretRoutes": {
