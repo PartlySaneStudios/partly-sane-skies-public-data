@@ -2200,10 +2200,10 @@
             "name": "Secret Routes Mod",
             "download": "https://github.com/yourboykyle/SecretRoutes",
             "versions": {
-                "0.4.16": "c133e44289613bf49144da85e57cd7c3f7a78b90c68aefeda0e6810f5c61786a"
+                "0.4.16": "213bccc2a5549bfc62317bf0f4c2aaa07fde66fd8b5ba140eb66b790a401abbf"
             },
             "betaVersions": {
-                "0.4.16": "c133e44289613bf49144da85e57cd7c3f7a78b90c68aefeda0e6810f5c61786a"
+                "0.4.16": "213bccc2a5549bfc62317bf0f4c2aaa07fde66fd8b5ba140eb66b790a401abbf"
             }
         },
         "ravenAddons": {
