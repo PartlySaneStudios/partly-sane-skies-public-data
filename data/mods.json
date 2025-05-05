@@ -2094,7 +2094,8 @@
                 "0.4.11": "05f7b5aa7962d06fe8bb0ab9e38c1961f78e6c9c2aaa024959713382a2e3bf8f",
                 "0.4.12": "51adb7dc11f938793bc9f1c499bffeb19ac5bc97c742742959d30f707ced5fc5",
                 "0.4.13": "3b7b1856a60b7973be170fb0ea87848a85ac19e5fdeaa76b63d270509bb11faf",
-                "0.4.14": "c37e015fb2655810cec2a9b1294daa23b58b611a7062d76c82c091b1b491ebcf"
+                "0.4.14": "c37e015fb2655810cec2a9b1294daa23b58b611a7062d76c82c091b1b491ebcf",
+                "0.4.15": "cb5308143137581854adfffd294afef1470dfaeb3a20c174e98294e70b443060"
             },
             "betaVersions": {
                 "0.4.8": "ae6363d67b40319e51533e520083c48dec85c867003e3fada2cac86836941e0e",
@@ -2103,7 +2104,8 @@
                 "0.4.11": "05f7b5aa7962d06fe8bb0ab9e38c1961f78e6c9c2aaa024959713382a2e3bf8f",
                 "0.4.12": "51adb7dc11f938793bc9f1c499bffeb19ac5bc97c742742959d30f707ced5fc5",
                 "0.4.13": "3b7b1856a60b7973be170fb0ea87848a85ac19e5fdeaa76b63d270509bb11faf",
-                "0.4.14": "c37e015fb2655810cec2a9b1294daa23b58b611a7062d76c82c091b1b491ebcf"
+                "0.4.14": "c37e015fb2655810cec2a9b1294daa23b58b611a7062d76c82c091b1b491ebcf",
+                "0.4.15": "cb5308143137581854adfffd294afef1470dfaeb3a20c174e98294e70b443060"
             }
         },
         "OdinClient": {
