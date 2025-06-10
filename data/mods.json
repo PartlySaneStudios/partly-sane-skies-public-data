@@ -1353,7 +1353,8 @@
                 "3.3.0": "83dac68c485cdd2082ead05543cc97c7cf42a765752f38cdaa68f64348168872",
                 "3.4.0": "e7bd99669911d364d4224a20448104d848ed83563664717ccc8a4ce536ad9fac",
                 "3.5.0": "1e06186a904ec90e96bf92acf39153b0ae44e43c928694fb165ddc4c5011b4ac",
-                "3.6.0": "84840c9f70daa98309fc056c9ccbb7b7aa119149d710439eba8ecbeae822f021"
+                "3.6.0": "84840c9f70daa98309fc056c9ccbb7b7aa119149d710439eba8ecbeae822f021",
+                "3.7.0": "dad8af77cac06fce90337c3e8bb919cd8bc655fd34729104372a291308b927fd"
             }
         },
         "reauth": {
