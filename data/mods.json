@@ -1410,14 +1410,16 @@
                 "1.1.3": "c414b7b4001bf89c0d027efa6d70d7ce6080fa141a9f076bebe51ccf9e187055",
                 "1.3.1": "39fcdb6f79fc8c9807670e31a2a7301e4f7af4467a2551ea9de6c193d59f129d",
                 "1.3.2": "1956b5afd6700f4d2bf99409e1d69d3cde305d45c13a9de064f931ce301ee5a3",
-                "1.3.3": "a0697ca4e3e0b821938272db216c997482391c583cc770539d4dc0fcd8a2bd09"
+                "1.3.3": "a0697ca4e3e0b821938272db216c997482391c583cc770539d4dc0fcd8a2bd09",
+                "1.3.4": "00902405020ebbfed2a00ad49c6cdab56a9169f4f3d8eec417344dbaf2b87dc9"
             },
             "betaVersions": {
                 "1.1.3": "c414b7b4001bf89c0d027efa6d70d7ce6080fa141a9f076bebe51ccf9e187055",
                 "1.3.0": "a1160648750be5610eca2833d0a3e09ece073fcb6d62fbd34f73d485835bd4ea",
                 "1.3.1": "39fcdb6f79fc8c9807670e31a2a7301e4f7af4467a2551ea9de6c193d59f129d",
                 "1.3.2": "1956b5afd6700f4d2bf99409e1d69d3cde305d45c13a9de064f931ce301ee5a3",
-                "1.3.3": "a0697ca4e3e0b821938272db216c997482391c583cc770539d4dc0fcd8a2bd09"
+                "1.3.3": "a0697ca4e3e0b821938272db216c997482391c583cc770539d4dc0fcd8a2bd09",
+                "1.3.4": "00902405020ebbfed2a00ad49c6cdab56a9169f4f3d8eec417344dbaf2b87dc9"
             }
         },
         "smoothfont": {
