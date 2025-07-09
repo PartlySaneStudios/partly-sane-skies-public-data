@@ -1365,7 +1365,8 @@
                 "3.13.0": "22d3f674a09e2f8be3dafd3a397008ca3fbab10b99636580244045f973a576aa",
                 "3.14.0": "e22b4e92ef44d9076ee696c451b1e47c6b849b5d8f554ab910dcfb086fb5f845",
                 "3.15.0": "059dc1d691864152c9ef95c344a50a7a2ce8ed80bf818c8326ff500fb916c213",
-                "3.17.0": "5a539dc6f5222e0aaa0fc42d29914d860e0ba3262b328c0a70672c73a340b3cb"
+                "3.17.0": "5a539dc6f5222e0aaa0fc42d29914d860e0ba3262b328c0a70672c73a340b3cb",
+                "3.18.0": "bc534be781a176bfbc584d5c0ebc549fc53b34ed00ffcffc61991c989cfa9ed1"
             }
         },
         "reauth": {
