@@ -1557,10 +1557,12 @@
             "name": "Scatha-Pro",
             "download": "https://github.com/NamelessJu/Scatha-Pro/releases",
             "versions": {
-                "1.2.3.1": "9df8f87103f2f498ee9fdbfeac7b9f58c2f054e5fcd6f1583959c8c9dca9c50b"
+                "1.2.3.1": "9df8f87103f2f498ee9fdbfeac7b9f58c2f054e5fcd6f1583959c8c9dca9c50b",
+                "1.3.2": "f6ad92af9971eb972429f27d37c21f6361839fe4ab0980b70f4736ad21c136e8"
             },
             "betaVersions": {
-                "1.2.3.1": "9df8f87103f2f498ee9fdbfeac7b9f58c2f054e5fcd6f1583959c8c9dca9c50b"
+                "1.2.3.1": "9df8f87103f2f498ee9fdbfeac7b9f58c2f054e5fcd6f1583959c8c9dca9c50b",
+                "1.3.2": "f6ad92af9971eb972429f27d37c21f6361839fe4ab0980b70f4736ad21c136e8"
             }
         },
         "SkyblockExtras": {
