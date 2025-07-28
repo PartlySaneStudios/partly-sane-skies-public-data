@@ -1378,7 +1378,8 @@
                 "4.7.0": "2088a9b2ddbaac30decdfb1326141f814102434b67005840dcae1051e7bd3cba",
                 "4.8.0": "541b152360aeccb3c8f1358385c3eea9ca1d9110882c244e0d234bf5d934ef18",
                 "4.9.0": "9ca33b10b57b1474a18dedbb638ed6ff56da382ce981ae4e03a9eb8446606692",
-                "4.10.0": "37fb5aa831ecd0e4316d90ea027bcd47a336d30e36e48ada527846b6f09260d7"
+                "4.10.0": "37fb5aa831ecd0e4316d90ea027bcd47a336d30e36e48ada527846b6f09260d7",
+                "4.11.0": "c4ee60ba71996546d991b03c85541a97dd44cb8b6f478131b80703a6863bd29f"
             }
         },
         "reauth": {
